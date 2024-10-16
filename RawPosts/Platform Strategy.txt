@@ -1,0 +1,15 @@
+Mark Zuckerberg explains his playbook for building Threads, Facebook, and WhatsApp
+
+“Phase one is build a thing that sparks some joy and that people appreciate. From there you want to get to something that is retentive. That way people who have a good experience with the thing come back and keep using it. And those two things are not always the same. There are a lot of things that people think are awesome but may not always come back to.”
+
+He gives ChatGPT as an example of an awesome product that hasn’t quite solved retention:
+
+“This level of AI is a miracle, but that doesn’t mean everyone is going to have a use case every week.”
+
+After creating a spark and retaining people, step three is growth and scaling the community:
+
+“Once you have retention, you can start encouraging more people to join. But if people aren’t going to be retained by it, why would you ask people to go sign up for something?”
+
+And then the last and final step step (step 4) is monetization:
+
+“We take a while to go through all those. We’re really in some sense only getting started on the monetization of the messaging experiences like WhatsApp with stuff like business messaging. But 2 billion people use the product every day. So we’ve scaled it pretty far. But I think with our mod

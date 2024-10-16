@@ -1,0 +1,45 @@
+Stanley Tang shares three lessons from the founding story of DoorDash
+
+Stanley Tang, Tony Xu, and Andy Fang founded DoorDash while they were students at Stanford.
+
+In today’s clip, Stanley tells the founding story of DoorDash and the three startup lessons he learned from this time.
+
+#1 Test your hypothesis
+
+During his junior year at Stanford, Stanley wanted to build technology for small business owners so he sat down with the owner of a macaroon store in Palo Alto to learn about her problems.
+
+The owner took out a large booklet with pages of delivery orders that she had to turn down because she couldn’t fulfill them. This seemed like an interesting problem to the DoorDash founders so they spent the next few weeks talking to another 150-200 small businesses who also didn’t have a good solution for delivery.
+
+This led the founders to wonder:
+
+“Delivery is such an obvious thing. Why hasn’t anyone solved this before? We must be missing something. Maybe people have tried this in the past but failed because there wasn’t consumer demand. So we thought, okay, how can we test this hypothesis?”
+
+They decided to create a simple experiment and spent an afternoon putting together a quick landing page with some PDF menus of local restaurants in Palo Alto with their personal cell phone number at the bottom.
+
+They called the company Palo Alto Delivery and weren’t expecting much:
+
+“We weren’t really expecting anything. We just launched it, and all we wanted to see was would we get phone calls from this? If we got enough phone calls then maybe this delivery idea was something worth pursuing.”
+
+Later that day, the founders received a call from their first customer. They picked up the Thai food order and delivered it themselves.
+
+The next day they got two phone calls. Then five the day after that. Then seven. Then ten.
+
+“Soon we started gaining traction on campus with Palo Alto Delivery, which was pretty crazy because it was just a landing page, you had to look up PDF menus to place your order, and then you had to call in… That’s kind of when we knew we were onto something.”
+
+#2 Launch fast
+
+As Stanley explains:
+
+“I think another key point to remember is that we launched this in about an hour. We didn’t have any drivers. We didn’t have any algorithms. We didn’t spend six months building a fancy dispatch system… At the beginning, it’s all about testing your idea, trying to get this thing off the ground, and figuring out whether this was something people even wanted.”
+
+#3 Do things that don’t scale
+
+“At YC there’s this mantra we like to talk about: ‘Doing things that don’t scale.’ At the beginning, we were the delivery drivers. We were customer support… We used Square to charge our customers. We used Google Docs to keep track of our orders. We used Apple’s Find My Friends to keep track of where all our drivers were. Just hacking together solutions just trying to get this thing off the ground.”
+
+Stanley continues:
+
+“Another thing about doing things that don’t scale is that it also allows you to become an expert in your business. Driving helped us understand how the delivery process worked. We used that as an opportunity to talk to our customers and restaurants. We manually dispatched every driver, and that helped us figure out what our driver assignment algorithm should look like… Now of course, we’ve scaled across different cities and have to worry about building out automated solutions and dispatch systems and figuring out how to match demand and supply, and all that fancy technology stuff. But none of that matters in the beginning. At the beginning, it’s all about getting this thing off the ground and trying to find product/market fit.”
+
+In the first few months, the founders also manually emailed every new customer to ask how their first delivery went:
+
+“Feedback like that was really valuable and our customers really appreciated that… Doing things that don’t scale is one of your biggest competitive advantages when you’re starting out. You can figure out how to scale once you have demand.”

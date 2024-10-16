@@ -1,0 +1,14 @@
+Andrew Chen on using “Flintstoning” to solve the cold start problem
+
+In the clip below, Andreessen Horowitz general partner Andrew Chen recounts how the co-founders of Reddit used “Flintstoning” to solve the cold start problem:
+
+“Steve Huffman and Alexis Ohanian realized that if they didn’t post content to the home page, no one was going to use it. Their hard side of the network was content creators, and they realized they needed to get content out there—otherwise there would be nothing to do. On the flip side, if you saw a million links all from either Steve or Alexis, that wouldn’t be good either. So they ended up writing scripts to generate a bunch of fake user accounts that they posted from. At first, if they didn’t run the script, the home page would be empty… and it took them months of doing this until eventually one day Steve realized that he forgot to run the script. But when he checked the home page, it was completely full of links submitted by real users.”
+
+The following excerpt from Andrew’s book The Cold Start Problem describes the general principles behind the strategy:
+
+“Flintstoning is a metaphor for where missing product functionality is replaced with manual human effort. Early product releases often go into beta while lacking simple features like account deletion, content moderation tools, referral features, and many others. In lieu of these features, the product might simply offer a way to contact the developers who will handle it manually for you, using tools they have in the back end. Once they get enough inquiries, eventually the feature gets built out and users can do it themselves. In the meantime, a Flintstoned product launch lets the developers get the app out into the market and get feedback from customers.”
+
+He continues writing:
+
+“Flintstoning can be a method to help bootstrap content or to handhold new users initially. For example, on user-generated video platforms, the initial library of videos and content might be uploaded by its founders, as YouTube did early on. For workplace collaboration tools, the team might offer onboarding and practically embed themselves within a client, offering custom software development and more, to make a particular project successful. Once these initial networks are formed, the Flintstoning techniques evolve toward automation as the momentum builds. The goal is just to manually fill in critical parts of the network, until it can stand on its own.”
+

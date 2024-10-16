@@ -1,0 +1,24 @@
+Balaji Srinivasan on the features that make Internet startups attractive
+
+In this clip from his Startup Engineering course at Stanford in 2013, Balaji Srinivasan walks through the nine features he believes makes Internet startups so attractive for large investment:
+
+Operational Scalability. “It’s now feasible for you to trade with someone across the globe at any time of day without special hardware. You don’t even need to be at your computer to do this. You can just set up a store and take transactions from 1 or 100 people at the same time. Think about how different that is from the physical world… The scalability is absolutely crazy. You don’t need clerks. You just need databases.”
+
+Market Size. “An Internet startup—in theory—can go after the entire world. You can more easily attack a market in Indonesia or South America than you ever could before.” For example, Friendster famously was more popular in Indonesia than it was in the US.
+
+Generality. “Software is in many ways the most general product imaginable, and an Internet startup is delivering software anywhere… Anything you can think of, software is upstream of it. Any industry that has an informational component—which is pretty much every industry—is going to be hallowed out with a database and API at the center of it. And the company that does that is going to have operational efficiencies that are far greater than any of the existing incumbents.” He recommends Marc Andreessen’s article: Why Software is Eating the World.
+
+Low Capital Barriers. “For a few hundred dollars, you can purchase this super powerful, general purpose computer that you can use to develop arbitrary software and communicate with any other computer in the world.”
+
+Low Regulatory Barriers. “Unlike virtually every physical arena, the Internet is still mostly unregulated, especially for smaller businesses.”
+
+Open Source. “The Internet is built on open-source technologies such as Linux, Apache, nginx, Postgres, PHP, Python, Ruby, node, Bittorrent, Webkit, and the like.”
+
+The Long Tail. “Not only is it possible to address markets of unprecedented size, it is now feasible to address markets of unprecedented specificity. With Google Adwords, you can micro-target people searching for arbitrarily arcane keywords. With Facebook Ads, you can reach every single between 27 and 33 with interests in math from small towns in Wisconsin.”
+
+Failure Tolerance. “When a car crashes or a drug is contaminated, people die and new regulations are inevitably passed. Yet when Google or Facebook crashes, people generally yawn and wait for the site to come back up. This colossal difference in the penalty for failure permeates every layer of decision-making at an internet company (viz. “Move Fast and Break Things”) and sharply differentiates the virtual world from the physical world. Moreover, as computer power grows, we can now simulate more and more of the wold on the computer.”
+
+Amenable to Titration. “You can titrate these features of Internet startups into existing businesses. One of the best ways to do that is to build an API so that all your business logic is computerized. And then interface with the physical world as little as possible.”
+
+As Balaji concludes, these features work together synergistically and help explain why Internet startups are so attractive for large investments.
+

@@ -1,0 +1,24 @@
+Steve Wozniak tells the founding story of Apple and how he invented color on the computer
+
+Today Apple is valued at almost $3 trillion. But as Woz recounts, they got started selling $40 PC kits to hobbyists:
+
+“I had this computer, and I was giving away all the designs for free. Steve Jobs said ‘Wow, we should sell these PC boards. Build them for $20, sell it for $40.’”
+
+To fund the company, both Steves had to come up with a couple hundred bucks each, and Woz sold the most valuable thing he owned: his HP 65 calculator.
+
+The first PC boards were impressive—they could actually run software and programs. So impressive that the owner of a local electronics store placed an order for the first batch of Apple Is.
+
+But their second product—the Apple II—was their real breakout product, and one of the killer features was color.
+
+At the time, color only existed on TVs that cost thousands of dollars. But Woz figured out a way to get color on the Apple II with only a $1 chip.
+
+The idea for it came to a sleep-deprived Woz who was working on an arcade game for Atari that Jobs convinced him they could build in 4 days even though building an arcade game normally took six months:
+
+“I was in a dreamy state. You know when you lose sleep how you get a little creative thinking?… While my head was sort of half awake and half asleep, I saw this thing on the factory floor of Atari. All the games were black and white TVs, but this one game was going back and forth, changing color… I remember how the frequencies go from high school electronics. And then I came up with this method of taking a little chip and putting ones and zeros in it, and cycling around… I could make it look like color TV.”
+
+After building the first Apple II prototype, Woz recounts typing something in memory and a blue dot popping up on the screen:
+
+“I called Steve Jobs over and that was a Eureka moment. We were shaking. This was so big. All the colored games are now going to be on computers… That was probably my best patent… That’s why we chose a six color logo for our first logo for Apple. We were the ones that brought color because nobody would’ve ever expected color on an affordable computer… That was so far ahead of its time.”
+
+
+

@@ -1,0 +1,4 @@
+Ben Horowitz explains the two things every successful technology startup must do
+Build a product that improves how some large group of people does something by 10x. “You have to build a transformational product. There is no way to build a great new company without a great product… If you look at the great technology companies, the thing that distinguishes them is the ability to keep coming up with a better way of doing things.”
+
+Taking the market. “You can come up with the best product, but if you don’t [take the market], you really don’t have a company. Most technology businesses are network effects businesses. You have to win… If you’re an engineer, what business skills do you need to build a technology company? They’re all around the skills that you need to win the market. How do you out-market, out-sell, and beat the competition?… Do you build a good enough company that you go win?”

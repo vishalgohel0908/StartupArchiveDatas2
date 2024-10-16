@@ -1,0 +1,25 @@
+
+Startup insights from Steve Jobs, Elon Musk, Paul Graham, Jensen Huang, and Patrick Collison
+
+
+Today’s insights:
+
+Steve Jobs explains why computers are a bicycle for the mind: “We humans are tool builders”
+
+Elon Musk explains the key to achieving word-of-mouth growth
+
+Paul Graham explains his rule of thumb for when to launch your product
+
+Jensen Huang explains why NVIDIA works on things before there are obvious financial returns
+
+Patrick Collison explains why it sometimes make sense to quit
+
+Steve Jobs explains why computers are a bicycle for the mind: “We humans are tool builders”
+Steve recalls reading an article in Scientific American when he was 12 years old. The authors measured the efficiency of locomotion for various species (e.g. how many kilocalories did they expend to get from point A to point B?).
+
+The condor ranked #1 and humans placed about a third of the way down the list.
+
+However, one of the authors decided to test the efficiency of a human riding a bicycle. Steve explains:
+
+“A human riding a bicycle blew away the condor, and it made a really big impression on me that we humans are tool builders. We can fashion tools that amplify these inherent abilities that we have to spectacular magnitudes. And so for me, the computer has always been a bicycle of the mind—something that takes us far beyond our inherent abilities.”
+

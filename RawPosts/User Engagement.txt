@@ -1,0 +1,16 @@
+Stripe founder John Collison explains his product principle of “talking up to the user”
+
+
+John believes current consumer product thinking can be harmful:
+
+“You have users by the wheelbarrow. You treat them in aggregate. You talk about MAUs. Everything is statistical and everything - like LinkedIn with the dark patterns and complete your profile - is nudging you towards some business outcome.”
+
+He continues:
+
+“What we really try to clobber people over the head with at Stripe is that [our users] are people starting a business who are generally really talented… And you can just see it if you go talk to any of them. And so we have another value at Stripe that we try to really inculcate, which is talking up to the user.”
+
+To stay connected to their users, Stripe will invite one user to their weekly fireside chats, and they have a conversation about how they use Stripe and what they’d like to see Stripe do better.
+
+“I think it’s important to stay connected to this because I think the classic technology product management domain - it’s a bit, I would say, not respectful enough of who the users actually are and how capable they are.”
+
+

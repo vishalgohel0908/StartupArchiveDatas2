@@ -1,0 +1,18 @@
+Mark Zuckerberg: You can’t 80/20 everything
+
+When Facebook first launched, a user’s profile included things like the dorm they lived in and the courses they were taking.
+
+In the clip below, Paul Graham asks Mark if he thinks Facebook would’ve worked without these features.
+
+Mark replies:
+
+“I remember this early debate that Dustin [Moskovitz] and I had where we had to do some manual work for every school that we released Facebook at. To do that, we went through and parsed the course catalogs at the schools to make sure that the data was clean.”
+
+In the debate, Dustin argued that it would be easier to launch new schools if they didn’t parse these catalogs.
+
+“We just had this really long debate about what quality meant for us and the community that we wanted to establish and the culture. In retrospect, maybe it wouldn’t have made a huge difference in how things played out. But it definitely set this tone where there’s a lot of clean data on Facebook, you can rely on it, it feels like a college-specific thing—which was valuable early on for setting the culture.”
+
+Mark then offers the following advice to the YC Startup School audience:
+
+“In the projects you work on, you will have a lot of similar questions. There’s the famous 80/20 rule where you get 80% of the benefit by doing 20% of the work, but you can’t just 80/20 everything. There have to be certain things that you are just the best at and that you go way further than anyone else on to establish this quality bar and have your product be the best thing that’s out there.”
+

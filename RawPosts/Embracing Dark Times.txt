@@ -1,0 +1,29 @@
+Sam Altman and John Collison explain that every startup goes through "the dark times"
+
+
+As Sam Altman puts it in the clip below:
+
+“No one is as honest about how bad the early days are as they should be because it’s so embarrassing in retrospect.”
+
+Even though Open AI is rumored to be worth $80-90 billion today, the journey to this point wasn’t as smooth as you might think.
+
+Sam talks through just how unpromising everything looked in the early days:
+
+“We were this extremely ragtag group of people. We were mocked by everyone serious in the field. And we didn’t have working technical progress. We had some little things that kind of worked, but it was deeply unclear how we were going to make AGI and we were unbelievably outgunned by Deep Mind at the time. A lot of people were like ‘why are you doing this? Deep Mind is untouchable.’… so yeah, it was pretty hard but we just kept putting one foot in front of the other. We were constantly not able to find enough money or compute or people. But you just keep going and eventually something works.”
+
+Stripe cofounder John Collison then reiterates this:
+
+“Every company that is going to get to some scale definitely goes through a period of the dark times. If I think back to Stripe’s dark times, there was this point just after launch where the endorphins had worn off, and we had a bunch of early people leave all at once. It was very draining. You know, you lose some of your own confidence.”
+
+What kept the Stripe founders going—besides having an idea that they were really excited about—was momentum from serving customers. When you have customers using your product, you kind of have no choice but to continue serving them.
+
+Sam echoes this point:
+
+“Once you have customers that you have to serve, they really pull it out of you.”
+
+In another Startup Archive answer, there’s a quote from Elon Musk that gives similar advice to startup founders:
+
+“Expect quite a long period of high difficulty. But if you can stay super focused on creating the absolute best product or service that really delights your end customer you have a better chance of succeeding… If your customers love you, your odds of success are dramatically higher.”
+
+Open AI didn’t have customers and was more focused on foundational research, but to keep their sanity, they tried to set up external touch points that faked the equivalent of having customer feedback.
+

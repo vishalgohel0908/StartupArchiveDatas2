@@ -1,0 +1,13 @@
+Ben Horowitz explains why he wrote his famous Peacetime CEO/Wartime CEO essay
+
+“Wartime and peacetime is really a difference in the decision-making process… Everything you learn about decision making, delegation, and don’t micromanage - all these things are very peacetime-oriented in the sense that in peacetime, you’re much more focused on the development of the people and the development of the organization over the long-term… That’s affordable if you’ve got Google Search and you’re steamrolling through the industry… On the other hand, if you’re running out of cash and you’re like Apple when Steve Jobs took over… That’s not affordable in the decision-making process. You’ve got to get to a very accurate decision extremely quickly. That’s when the wartime techniques come into play. And sometimes in wartime, you end up doing things that undermine the development of the organization because there’s more burden on the CEO to make a much larger number of decisions because accuracy is so important, and the CEO - by virtue of her position- has more knowledge to make those decisions and more authority to make them definitive and fast and high-quality.”
+
+He gives the example of Andy Grove describing in his book Only the Paranoid Survive how he had to turn Intel from a memory business into a CPU business and had to lay off 80% of the company.
+
+“Those kinds of things are just not things you normally encounter in business education. But in the real business world, most of it ends up being wartime. Particularly in the startup world, a huge amount of it ends up being wartime.”
+
+I’d recommend reading Ben’s full essay. Here’s a short excerpt:
+
+“Peacetime CEO strives for broad based buy in. Wartime CEO neither indulges consensus-building nor tolerates disagreements.
+
+Peacetime CEO sets big, hairy audacious goals. Wartime CEO is too busy fighting the enemy to read management books written by consultants who have never managed a fruit stand.”

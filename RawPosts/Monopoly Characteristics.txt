@@ -1,0 +1,25 @@
+Peter Thiel’s four characteristics of monopoly
+
+“The next Mark Zuckerberg won’t build a social network. The next Larry Page won’t build a search engine. The next Bill Gates won’t build an operating system. And if you’re copying these people, you’re not learning from them.”
+
+Each of these founders built something unique that had not been built before. And In the clip below, Thiel cites the opening line in Anna Karenina:
+
+“All happy families are alike; each unhappy family is unhappy in its own way.”
+
+He believes the opposite to be true in business:
+
+“All happy companies are different because they’re doing something unique; all unhappy companies are alike because they fail to escape the sameness that is competition.”
+
+While all large monopoly businesses are unique, Thiel argues that they do tend to have a combination of the following four characteristics:
+
+Proprietary technology. “You want an order of magnitude improvement on some key dimension” (e.g. Amazon had 10x as many books).
+
+Network effects. Everyone understands how valuable network effects are, but the tricky thing is how to get them started (why is the product valuable to the first person who uses it?).
+
+Economies of scale. High fixed costs and low marginal costs.
+
+Branding. A little abstract, but nonetheless a real phenomena that creates real value.
+
+As Thiel points out, it’s striking how well software businesses embody some of these characteristics:
+
+“They’re especially good at the economies of scale part because the marginal cost of software is zero. If you get something that works in software, it’s often significantly better than the existing solution, and then you have these tremendous economies of scale and you can scale very quickly.”

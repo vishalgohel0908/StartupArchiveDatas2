@@ -1,0 +1,28 @@
+Michael Seibel on why you need to analyze the frequency and intensity of your customer's problem
+
+Former Google CEO Larry Page uses a simple framework called "The Toothbrush Test" to decide whether he likes a business. He asks himself if the product is, like a toothbrush, "something you will use once or twice a day."
+
+Y Combinator CEO Michael Seibel has a similar framework for assessing whether or not a startup is working on a good problem.
+
+As he explains in the clip below, it's extremely important to analyze the frequency and the intensity of the problem you're solving for the customer.
+
+He uses a car shopping website as an example. A lot of founders will think that their customer here is the person buying a car. But the problem with that is most people keep a car for 7 years. As he points out:
+
+"What happens if I told you I was going to create a startup and if my customer absolutely loves me, they're going to come back 7 years from now?"
+
+Probably not a great startup idea.
+
+This is why a lot of car buying websites are not built for the person shopping for a car--that person doesn't have the problem very often. They're actually built for the person selling the car, because that person has a problem every day.
+
+When you're assessing a startup idea, you want to do a frequency and intensity analysis of the problem.
+
+“A lot of founders think they have a good idea, but they don’t do this frequency and intensity analysis. If you have an infrequent and low-intensity problem that you’re trying to solve, you’re going to have a hard time getting a lot of customers interested in even talking to you.”
+
+All things equal, it's better for the problem you're solving to be higher-frequency and higher-intensity.
+
+Take Uber for example. Usually, when you need to go somewhere (e.g. work, doctor, pick up your kids, etc.), it's a pretty intense problem--so intense that people will spend $20,000 on a car to solve this problem. And then when you think about frequency: how often do you move more than walking distance every day? Probably a lot.
+
+Uber is clearly working on a worthwhile problem.
+
+If the problem your customer has is high-intensity and happens frequently, there's probably a good business to be built there.
+

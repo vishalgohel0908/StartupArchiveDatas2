@@ -1,0 +1,26 @@
+Startup insights from Mark Zuckerberg, Sam Altman, Andy Rachleff, John Collison, and Tony Fadell
+
+Today’s insights:
+
+Mark Zuckerberg: “There’s a difference between building good things and building awesome things”
+
+Sam Altman explains why “the great wave” is the most important concept for good startup ideas
+
+Benchmark founder Andy Rachleff explains the product philosophy memo he wrote building Wealthfront
+
+Stripe founder John Collison on the importance of having a cofounder to balance you out
+
+Tony Fadell: “You only have the right to be a platform if you solve one application really well”
+
+Mark Zuckerberg: “There’s a difference between building good things and building awesome things”
+Mark first heard this distinction from Palmer Luckey and the early Oculus team:
+
+“Good is good - it’s helpful, it’s useful, it’s things that people use on a day-to-day basis because it adds something to their lives. But awesome is different. Awesome is uplifting and inspiring and leads you to just be way more optimistic about the future.”
+
+Mark believes a lot of the social media products Meta has built to date are good:
+
+“Three billion people use them on a near-daily basis, and they use it because it is useful in their life. It helps people stay connected, it helps people build businesses, it helps people form communities. It’s good. But there aren’t that many people on a day-to-day basis who get out of bed and are like, ‘F*** yeah, social media!’”
+
+For the next stage of Meta, Mark wants to build more things that are awesome:
+
+“Maybe it’s also just where I am in life. I like to think I’m young, but I’m a little older… [And] a lot of what I personally value is doing things that are inspiring with people who I find inspiring… If I get to do that for the next 15-20 years, then it’s going to be a good 15-20 years.”

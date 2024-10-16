@@ -1,0 +1,18 @@
+Marc Andreessen explains why the “curse of the entrepreneur” is being too early
+
+“My experience is the great founders almost always feel like they’re too late, and you’re almost always too early.”
+
+The reason is because the idea seems obvious to the founder:
+
+“You’ve got some idea in your head, and as far as you’re concerned, the world should already work this way, which is why you’re pursuing it. And so it’s a little inexplicable as to why it hasn’t happened to it… It must be just about to happen and I must be too late.”
+
+This is how Marc felt at Netscape when he co-authored the first widely used web browser. But in reality, Marc explains, founders are almost always too early:
+
+“We almost never see a qualified founder fail because they were too late to market. It’s almost always because they’re too early to market. And I don’t say that critically. When we screw up investments, I think that’s often the reason as well.”
+
+It usually turns out that the world just wasn’t ready yet. Marc points out that when Apple launched the Newton in 1989, it was basically the same thing as the iPad. The world just wasn’t ready yet, and the required technologies weren’t in place (e.g. mobile broadband, high-resolution screens, battery technology, etc.).
+
+“It convinced people for 20 years that tablet computing would never work. And then they did it again with the iPad, and it worked. I think that’s the permanent curse of the entrepreneur.”
+
+In a previous YC talk, Marc told founders that if what you’re working on was the hot thing 3-4 years ago, you’re probably right on time because the infrastructure and consumer behavior has now caught up.
+1

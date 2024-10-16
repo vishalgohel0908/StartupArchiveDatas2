@@ -1,0 +1,13 @@
+Twitter founder Ev Williams explains why he doesn’t create 5-year plans for his products
+
+
+“The long-term vision won’t change, but how I describe it and what I think the really important elements are will change. This is the way I develop products: you discover them over time.”
+
+He shares the following quote from Matt Mullenweg:
+
+“Usage for your product is like oxygen for ideas.”
+
+And he uses Twitter changing the status prompt from “What are you doing?” to “What’s happening?” as an example. This came a couple of years after the product had already launched once the team realized that Twitter was being used as a real-time information network rather than just status updates to your friends.
+
+A bad plan is better than no plan, so create a five year plan if you like. But keep in mind that your ideas for the product will change. As you watch people use it, talk to them, and try to solve their problems, you’ll come up with new ideas that are much better than what you could have come up with when your first started building.
+

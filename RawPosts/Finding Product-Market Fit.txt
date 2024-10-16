@@ -1,0 +1,21 @@
+The advice from Paul Graham that helped Airbnb find product/market fit
+
+“He basically said: ‘It’s better to have 100 customers that love you than a million customers that just sort of like you.’”
+
+In the clip below, Airbnb cofounder Brian Chesky explains:
+
+“If you have 100 people who absolutely love your product, they’ll tell 100 people, and they’ll tell 100 people, and this thing will grow virally. In fact, almost all movements in history have grown this way—there are deeply passionate followers and they grow it.”
+
+He contrasts this with the general wisdom in Silicon Valley of: “I need to build this app. It needs have this viral coefficient. I need to get millions of people to use it. And they need to like it enough to share it.”
+
+Brian argues that this is the wrong way to think about building a great product. And once the Airbnb team stopped worrying about millions of people, it was totally freeing.
+
+"Until then, I was like: 'how am I going to get a million people to use this if I can't even get my mom and my sister to do it?'"
+
+At this moment, the Airbnb founding team decided that they would do things that don't scale to get 100 people to love them:
+
+“Getting 100 people to love you means you need to meet them and understand their problem. We would fly during Y Combinator from Mountain View to New York and we would go door to door and meet with everyone of our hosts and literally live with them.”
+
+As Brian explains, this was a huge inflection point for the company.
+
+“And once you have 100 people, you just focus on figuring out how to scale that. It’s a totally different intellectual problem to scale something 100 people love than to figure out [how to get 1 million people who like you to love you]. And that was the turning point for us.”

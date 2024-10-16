@@ -1,0 +1,31 @@
+Deep Dive: Customer discovery and talking to users
+
+
+Today’s deep dive provides a comprehensive overview of:
+
+How to get your first 100 users
+
+Best practices when talking to users
+
+Questions you can ask in every user interview
+
+Common mistakes
+
+Prioritizing feedback
+
+Usability testing
+
+Ongoing communication
+
+Resources and further reading
+
+Talking to users is critically important to your startup’s success, and it’s worth taking the time to learn how to do it well.
+
+“Half the advice I give to startups is some form of ‘talk to your users.’” — Paul Graham
+
+“The best founders do customer support themselves. They go visit their users—in the case of Airbnb they go live with them. You want to get to know your users really really well.” — Sam Altman
+
+“If you haven’t talked to users and you haven’t looked at data, you don’t get to have an opinion about the product. The person who has actually done the work gets to have the opinion. You can have ideas, but they get to make the call.” — Emmett Shear
+
+“Trying to build a company is like eating glass and staring into the abyss… Expect quite a long period of high difficulty. But if you can stay super focused on creating the absolute best product or service that really delights your end customer you have a better chance of succeeding… If your customers love you, your odds of success are dramatically higher.” — Elon Musk
+

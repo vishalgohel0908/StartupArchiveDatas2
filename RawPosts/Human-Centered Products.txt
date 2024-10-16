@@ -1,0 +1,16 @@
+Reid Hoffman on how human nature should factor into the products you build
+
+When asked for an insight that most people don’t think about, LinkedIn Founder Reid Hoffman responded:
+
+“I think one of the things that’s actually really important for inventing products is a fairly deep theory of human nature and humanity… you should be able to articulate a relatively robust theory about ‘what is human nature?’, ‘what is humanity like now?’, ‘where is it going?’, and ‘how does your product or service fit into that?’”
+
+He continues:
+
+“Most people I talk to can’t articulate a robust theory of human nature. And that’s one of the reasons why I started saying that I invest in one or more of the seven deadly sins. I was trying to get people to think about common human psychology. If you’re trying to create a mass-market consumer application, what are the parts of what it is to be human that you’re actually triggering, responding to, surveying, etc.?”
+
+In a separate Wall Street Journal interview, he gives examples: “Facebook is ego. Zynga is sloth. LinkedIn is greed.”
+
+Nikita Bier (founder of Gas and the TBH app) echos a similar sentiment in a thread on building consumer apps:
+
+“People download apps to solve core human needs (1) finding love, (2) making or saving money, and (3) play. People rarely take time out of their day for anything else.”
+

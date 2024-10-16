@@ -1,0 +1,13 @@
+Eric Migicovsky’s five questions you can ask in every user interview
+
+In the clip below, Eric Migicovsky outlines five great user interview questions and why they’re so valuable:
+
+1. What’s the hardest part about [doing this thing]? The problem you’re working on should be something that real users feel is a pain point and actually want to solve.
+
+2. Tell me about the last time you encountered that problem. The goal here is to get to specifics rather than hypotheticals and extract context around the circumstances in which the user encountered that problem.
+
+3. Why was this hard? This will inform how you market your product and explain its benefits. In general, customers don’t buy the “what”. They buy the “why”.
+
+4. What, if anything, have you done to try to solve the problem? If potential customers aren’t already exploring potential solutions to this problem, it’s possible that the problem you’re working on isn’t a pressing enough problem. This question will also help you learn more about the competitive landscape and the other solutions your product will be compared against.
+
+5. What don’t you love about the solutions you’ve tried? This is the beginning of your potential feature set. Don’t ask what features they want—that’s a hypothetical question. Instead, focus on specific problems with other solutions that you can solve.

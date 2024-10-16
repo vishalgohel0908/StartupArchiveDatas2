@@ -1,0 +1,22 @@
+Brian Armstrong shares the most important lesson from his startup failure before Coinbase
+
+
+After realizing he could make $60/hour tutoring as a college student, Brian and his roommate decided to build an online marketplace for tutors. They would match tutors with students and take a 10% fee on all of the payments.
+
+It worked great but there was one hiccup:
+
+“What would happen often is they would meet the tutor and do the first payment, but then afterwards they’d start paying them under the table. So I realized at a certain point, we were basically just getting in the way. They wanted us to just match them, but they didn’t want us to be the whole billing apparatus.”
+
+After struggling with this problem for years, Brian decided it wasn’t working and took a job as an early employee at Airbnb. He was initially planning on shutting down the site, but because 5,000-10,000 people were still using it every month, he decided to remove the payments and just make it a free online tutoring directory. He also added the option for tutors to pay $10/mo. to promote their profiles on the site.
+
+Then he stopped looking at the site to focus on his new job. But the site suddenly began to take off. It doubled every year, and eventually Brian was able to sell the business for $2 million.
+
+Brian concludes:
+
+“The lesson was to stop trying to extract value and start trying to create more value.”
+
+
+
+
+
+

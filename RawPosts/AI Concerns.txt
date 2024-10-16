@@ -1,0 +1,8 @@
+Peter Thiel: “The one technology I’m marginally nervous about is generalized AI”
+
+“I think when people talk about AI they focus too much on the economic question: will computers replace people? Will you lose your job? But I think if you actually were able to build a generalized AI that was smarter than humans, it would be the equivalent of aliens landing on this planet. And the first questions if aliens landed on this planet would not be the economic question. It would be the political question. Are they friendly? Are they not friendly?”
+
+It’s worth noting that this lecture was from December 2014 and Thiel’s views may have changed since then. But he concludes his answer with the following thought:
+
+“If you could build AI that was smarter than humans in every dimension, my intuition is there would be something kind of scary about it. It’s probably the one area I’d be nervous about funding.”
+

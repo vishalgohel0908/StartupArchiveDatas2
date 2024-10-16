@@ -1,0 +1,9 @@
+Patrick Collison explains what most startups get wrong pre-product/market fit
+
+“The main thing that I think companies screw up at the pre-product/market fit stage is speed of iteration. If you have some kind of meaningful—albeit perhaps small—initial set of users and you’re rapidly iterating in response to their feedback and observed behavior, I think that’s a really good spot to be in… You should be doing everything you can to tighten that feedback cycle.”
+
+Patrick believes most startups get this wrong when it comes to hiring—either they hire the wrong people or they hire too many people. The cost of hiring more people isn’t linear, it’s closer to quadratic given the multi-way communication problem.
+
+“It should really be about what’s going to get you there faster. I think at an early stage, it’s most likely just people who will help you build the product. But of course not too many because at some point you might be able to do more, but you might actually be less responsive because you’re a bigger team to manage… It seems that somewhere between 2 and 10 [people] depending on exactly what you’re building is the optimally responsive size.”
+
+

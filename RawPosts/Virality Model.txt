@@ -1,0 +1,25 @@
+The virality model Sean Parker taught the early Facebook team
+
+
+Alex Schultz is CMO and VP of Analytics at Facebook. When he joined Facebook, Sean Parker explained that you want to think about virality in terms of three things:
+
+Payload. How many people can you hit with any given viral blast?
+
+Conversion Rate. What percentage of them will convert to becoming users of your product?
+
+Frequency. How many times can you hit them per blast?
+
+The higher these three factors, the more viral a product will be.
+
+Hotmail is the canonical example of brilliant viral marketing. When they launched, their competitors were throwing huge amounts of money at traditional advertising. The Hotmail team didn't have as much funding so they had to figure out a different way.
+
+They came up with the idea of adding a link at the bottom of every email that said: "Sent from Hotmail. Get your free email here."
+
+The payload for this campaign was low--most people are only emailing one person at a time. However, the frequency is high because you're emailing the same people over and over again. The conversion rate was also really high because people didn't like being tied to their ISP email. So Hotmail ended up being extremely viral because they had a high frequency and high conversion rate.
+
+Alex also walks through Ed Baker's (former VP of Product & Growth at Uber) model for viral growth. You basically want people who sign up to import their contacts, send invites to all of those contacts, and then you want to get a large % of those contacts to click on the invite and sign up. If you multiply these factors together, you arrive at the product's k factor. For example, if the average customer invites to 100 contacts, 10% of those click on the invite, 50% sign up, and then 10-20% import their contacts, you're going to end up at a 0.5-1.0 k factor and your product won't be viral.
+
+However, you shouldn’t think about virality until you’ve solved retention. As Alex points out:
+
+“If you have something that doesn’t have high retention on the backend, it doesn’t really matter.”
+

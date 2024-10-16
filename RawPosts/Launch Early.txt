@@ -1,0 +1,19 @@
+Steve Huffman explains why you should launch your product early
+
+Steve Huffman co-founded Reddit with Alexis Ohanian in 2005.
+
+In the clip below, he tells the story of how Paul Graham launched Reddit by linking to it in a blog post one day without telling them.
+
+As Steve explains, they didn’t actually have a vision for Reddit at the time, but launching early allowed them to build one collaboratively with their users:
+
+“As soon as we launched, that’s when we started to find a path and we just followed the users every day… and just built towards that. We built a lot of loyalty through those actions. And that would not have happened if we were sitting in our apartment not launching.”
+
+Steve estimates that only 25% of the features they built lasted more than a day or two—and he tells a humorous story of how Alexis stayed up all night categorizing every link that had ever been submitted to Reddit only to realize the following morning that their new feature idea wasn’t good.
+
+But because they moved quickly and launched before they were ready, they learned a ton about their users and how they wanted to use the product.
+
+Perhaps the best example is “self posts”. Reddit didn’t have the ability to self post when they first launched—every post had to be a link. But the founders noticed users guessing the post ID of their new post and linking to that. They soon productized this feature, and now, self posts comprise more than 60% of the posts on Reddit.
+
+Overall, you can learn a lot faster by getting your product in front of users as early as possible, iterating, and experimenting. Launching early also makes it easier to let user feedback drive your roadmap, which likely increases the probability of building the right thing given that founder visions can often be out of touch with the reality of their customers. It can also help build loyalty if your early adopters feel like they have a say in the direction of the product.
+
+And as Reddit’s self posts exemplify, real users will hopefully help you come up with ideas for your product that you wouldn’t have otherwise thought of—some of which might just totally change the trajectory of the product.

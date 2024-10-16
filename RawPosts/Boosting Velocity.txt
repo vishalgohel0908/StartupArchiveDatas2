@@ -1,0 +1,13 @@
+Keith Rabois: “The velocity of your company improves by adding barrels”
+
+
+In the clip below, Keith shares his “Barrels and Ammunition” framework for building effective teams.
+
+“Most companies—once they get into hiring mode—just hire a lot of people. And you expect that as you add people your throughput and velocity of shipping things is going to increase. But it turns out it doesn’t work that way. Usually when you hire more engineers, you actually don’t get that much more done. You sometimes get less done.”
+
+Keith argues that the reason for this is that most people in a company—even great people—are “ammunition.” But to improve velocity, you need “barrels”. He defines barrels as extremely talented people who can take ideas from inception all the way through to fully shipped product. Most companies start with one barrel (the founder). And when they add another, they can get twice as many things done per week, quarter, etc.
+
+But true barrels are incredibly difficult to find:
+
+“When you have them, give them lots of equity, promote them, take them to dinner every week because they’re virtually irreplaceable. They’re also very culturally specific. A barrel at one company may not be a barrel at another company.”
+

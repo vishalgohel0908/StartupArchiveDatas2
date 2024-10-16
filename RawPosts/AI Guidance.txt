@@ -1,0 +1,12 @@
+Former Google CEO Eric Schmidt’s #1 piece of advice for startups building in the age of AI
+
+“I am struck by the speed with which you can build demonstrations of new ideas.”
+
+Eric shares that in a recent hackathon he was a part of, the winning team used AI to generate Python code that was able to fly a drone in a simulator.
+
+“It would have taken a week or two for good professional programmers to do that.”
+
+He advises founders:
+
+“If you can't get your prototype built in a day using these various tools, you need to think about that, because that's what your competitor is doing… My biggest advice is when you start thinking about a company: it's very important to prototype your idea using these tools as quickly as you can. Because you can be sure there's another person doing exactly that same thing in another company, in another university, in a place that you've never been.”
+

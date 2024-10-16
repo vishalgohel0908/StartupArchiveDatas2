@@ -1,0 +1,22 @@
+Slack founder Stewart Butterfield on when to give up on an idea
+
+Stewart Butterfield is the founder of Slack, which he famously pivoted to from a failed gaming platform called Glitch.
+
+In the clip below, he describes how he felt stuck trying to figure out whether or not it was time to give up on Glitch:
+
+“On the one hand you have the narrative of: good entrepreneurs are resilient; when everyone else thinks it’s a bad idea, it’s probably a really good idea; you have to dig in and prove people wrong; keep going even when times are dark. On the other hand, there was a morning when I woke up and was like ‘I can’t do this anymore. I’m the CEO and Chairman of the Board, and I’m sure this is not going to work’”
+
+What convinced him that the idea wasn’t going to work?
+
+Basically the Glitch team had exhausted all of the ideas they had to fix the problems with the product.
+
+And Sam Altman—who is conducting the interview—agrees:
+
+“That’s always when I tell people to give up on an idea: when you run out of ideas for how to make it work.”
+
+Stewart goes on to explain the process in more detail:
+
+“At first you fill up whiteboards with ideas and argue about which ones are the highest value. And then you eliminate them one-by-one. Months go by. A year goes by. Another six months goes by. And then you’re like: ‘we’ve already gone through most of the worst ones and we only have three left. This is probably not going to work.’”
+
+The good news is that coming to terms with the failure of Glitch allowed the team to move on to a more promising idea: Slack--which ended up being acquired by Salesforce for $27.7 billion.
+

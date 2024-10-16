@@ -1,0 +1,16 @@
+
+Mark Zuckerberg to new-hire Aditya Agarwal : “If I can build Facebook you can build a search engine”
+
+Aditya recalls starting at Facebook in 2005. A few weeks into his new role, Mark Zuckerberg comes up to him and suggests he build a search engine:
+
+“When people come to Facebook, the first thing they want to do is search for people.”
+
+Aditya’s first reaction was that search was a really important thing to get right and he had never built a search engine - wouldn’t it make more sense to just hire somebody from Google or Yahoo to do it?
+
+Mark replied:
+
+“If I can build Facebook, you can build a search engine.”
+
+And he was right - Aditya did end up building search for Facebook. This interaction also left a lasting impression on Aditya:
+
+“All of us can build whatever we put our minds to. And this is the culture that for me still defines Facebook - there is this hacker, can-do, total-ownership culture. If I could tell every startup in the world to take one thing, it would be you can do whatever you want as long as you put your mind to it. It’s probably easier than you think.”

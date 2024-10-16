@@ -1,0 +1,12 @@
+Brian Chesky explains how Airbnb solved the chicken-and-egg problem
+
+“Marketplaces are incredibly defensible at scale, and maybe it’s because they’re incredibly hard to start. And the problem is simple - they call it the chicken and egg problem.”
+
+As Brian explains, it was tough to bootstrap Airbnb in the beginning because travelers couldn’t book homes if there was no inventory, and homeowners didn’t want to list their homes unless people were going to book them.
+
+“We didn’t know what to do for a while .We tried a lot of different things. And I can tell you what worked. Summer of 2008, the press announces that Barack Obama is moving from a 20,000 seat basketball arena to an 80,000 seat football stadium. And we said, that’s our shot. You have 60,000 people that don’t have housing, surely at least a few of them are going to need a place to stay… And so we literally started with local people in Denver. Then we started emailing bloggers. We got the bloggers. Then the Denver Post and the Rocky Mountain News covered us. Then the local ABC and NBC and CBS affiliates. And then the Wall Street Journal. Then the New York Times and CNN are in our living room… We did that in a matter of three weeks.”
+
+Brian continues:
+
+“We started these little infernos. You start getting a few users here, a hundred here, fifty there… And we did the same thing with the inauguration. And when you have a hundred people here and there, then you obsessively meet them… Paul Graham, our first investor, said it’s better to have a hundred people love you than a million people kind of like you. And the reason why is it’s really hard to build off of a really wide but shallow base. But with a hundred people, you can find out everything they want… You meet them, you spend a ton of time with them, and once they fall in love with your product, they’ll tell every one of their friends. That’s why [Airbnb] took a really long time to start, but it grew much faster later on.”
+

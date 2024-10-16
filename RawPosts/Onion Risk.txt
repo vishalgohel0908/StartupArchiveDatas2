@@ -1,0 +1,28 @@
+Marc Andreessen explains The Onion Theory of Risk
+
+In the clip below, Marc Andreessen shares a framework that Benchmark co-founder Andy Rachleff taught him called "The Onion Theory of Risk".
+
+You can think of a day 1 startup as having every conceivable kind of risk: founding team risk, product risk, technical risk, market acceptance risk, revenue risk, cost of sales risk, viral growth risk, etc.
+
+A startup is basically just a long list of risks, and as Marc explains:
+
+"The way I think about running a startup is the way I think about raising money. It's a process of peeling away layers of risk as you go."
+
+You raise seed money to peel away the first two or three risks (e.g. founding team risk, product risk, initial launch risk).
+
+You raise the Series A round to peel away the next layer of risks (e.g. recruiting risk, customer risk, revenue risk, cost of sales risk)
+
+And so on.
+
+Basically, you're peeling away risk as you're achieving milestones. And as you achieve milestones, you're both: making progress on your business and justifying raising more capital.
+
+So in terms of fundraising, you should be calibrating the amount money you're raising to the risks you need to pull out of your business for you to raise your next round.
+
+For example, if you're raising your Series A round, the best way to do that is to say to investors: "I raised a seed round then achieved ____ milestones and eliminated ____ risks. Now I'm going to raise $X for the Series A to achieve ____ milestones and eliminate ____ risks. This will get the company to ____ state for the Series B round. "
+
+This seems fairly obvious, but as Marc points out, it's a much more systematic way of going about things versus just raising as much money as possible, renting fancy offices, and hiring as many people as you can to grow as fast as you can.
+
+The more money you raise, the more you dilute your ownership stake in your business so it pays to be thoughtful.
+
+Raise the capital you will need to achieve the milestones and eliminate the risks required for your next financing round. It also probably makes sense to give yourself some margin as safety because things never go exactly as planned in startup land.
+

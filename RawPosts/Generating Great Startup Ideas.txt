@@ -1,0 +1,85 @@
+Deep Dive: How to come up with great startup ideas
+
+To help prospective founders with this question, we’ve put together a list of the 20 best links we’ve come across on this topic:
+
+How to get startup ideas: The 20 best essays and videos
+
+Today’s Sunday Deep Dive attempts to weave the key ideas of these resources into a coherent essay. It’s divided into three sections:
+
+What makes for a great startup idea?
+
+10 ways to generate startup ideas
+
+Do startup ideas even matter?
+
+What makes for a great startup idea?
+The very best startup ideas tend to share several characteristics:
+
+Something the founders themselves want. The most common mistake startups make is solving problems no one has. If you think about the greatest products, they’ve almost always been designed for the benefit of the people who are actually building them. Apple happened because Steve Wozniak wanted a computer. Microsoft happened because Bill Gates wanted the a basic interpreter for the Altair. Uber happened because Garrett Camp and his friends wanted a private timeshare limousine service.
+
+Start small. Peter Thiel explains: “It’s always a big mistake going after a giant market on day 1. That’s typically evidence that you haven’t defined the categories correctly, and there’s going to be too much competition… You want to be a one-of-a-kind company where it’s the only one in a small ecosystem… large existing markets typically mean you have tons of competition and it’s very hard to differentiate.” Amazon started with books. eBay started with Pez dispensers and Beanie Babies. PayPal started with power-sellers on eBay. Facebook started with Harvard.
+
+The problem is high-frequency and high-intensity. Former Google CEO Larry Page uses a simple framework called "The Toothbrush Test" to decide whether he likes a business. He asks himself if the product is, like a toothbrush, "something you will use once or twice a day.” Former Y Combinator CEO Michael Siebel has a similar framework. He argues you want to work on a high-frequency and high-intensity problem. Most of today’s largest companies have products that you use every day or address a high-intensity problem that you would pay a lot of money to solve.
+
+Technology breakthrough. A good rule of thumb is that your technology should be at least 10x better than its closest substitute in some important dimension to lead to a real monopolistic advantage (e.g. Amazon offered at least 10x as many books as any other book store). Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell, especially in a crowded market.
+
+The right team. Chris Dixon and Sam Altman both argue that the best predictor of whether a startup will achieve product/market fit is whether there is “founder/market fit.” This means the founders have a deep understanding of the market they are entering and they’re in love with the problem they’re solving. You should be able to answer the question: why are you uniquely qualified to work on this problem?
+
+The right timing. Sequoia famously asks founders: why now? “The best companies almost always have a clear why now? Nature hates a vacuum—so why hasn’t your solution been built before now?” A good test for an idea is if you an articulate why most people think it’s a bad idea, but you understand what makes it good.
+
+10 ways to generate startup ideas
+#1 Become the sort of person who has lots of startup ideas
+Paul Graham’s best advice for generating startup ideas is to “become the sort of person who has them”. And the way you do that—as he explains in his essay How To Get Startup Ideas—is by being at the leading edge of a field that’s changing fast.
+
+Gmail creator Paul Buchheit says that people at the leading edge of a rapidly changing field “live in the future.” And Paul Graham argues that when you live in the future, coming up with startup ideas is easy—you simply build what’s missing.
+
+This is how almost all of the biggest startups got started—many weren’t even supposed to be companies at first (e.g. Apple, Yahoo, Google, Facebook, Uber, etc.).
+
+How do you get to the leading edge of a rapidly changing field?
+
+PG proposes three steps:
+
+Learn a lot about things that matter
+
+Working on problems that interest you
+
+With people you like and respect (this is incidentally how you get cofounders at the same time as the idea)
+
+In other words, learn powerful things, follow your intellectual curiosity, and work on things that stretch you. What really matters for coming up with good startup ideas is domain expertise.
+
+The other reason becoming the sort of person who has lots of ideas is important is that you’ll need to generate lots of new ideas in the course of running a startup. As Sam Altman explains:
+
+“YC once tried an experiment of funding seemingly good founders with no ideas. I think every company in this no-idea track failed. It turns out that good founders have lots of ideas about everything, so if you want to be a founder and can’t get an idea for a company, you should probably work on getting good at idea generation first.”
+
+#2 Ask yourself: “what do you wish someone would make for you?”
+In a different essay titled Organic Startup Ideas, Paul Graham argues that the worst startup ideas often come from founders making things they think other people will want. The best ideas come from founders making things they themselves want.
+
+Interestingly, this exercise of asking what you wish someone would make for you actually helped Paul Graham, Alexis Ohanian and Steve Huffman come up with the idea for Reddit in a one-hour brainstorm.
+
+It also aligns well with the Rick Rubin clip that Elon Musk recently shared with the comment: “This is how we create Tesla products”.
+
+In the clip, Rubin describes his creative process:
+
+“I’m not making it for them. I’m making it for me. And it turns out, that when you’re making something truly for yourself, you’re doing the best thing you possibly can for the audience.”
+
+#3 Platform shifts
+Bret Taylor (chairman of Open AI, co-creator of Google Maps, and former co-CEO of Salesforce) says that when deciding what to work on next, he will often ask himself “when this platform exists, what habits will change?”
+
+He believes that platform shifts are large drivers of economic value. For example, the PC led to the creation of Microsoft and Apple, and the Internet gave rise to companies like Amazon and Google.
+
+“The reason I believe platform shifts are meaningful is that it changes the balance of power between incumbents and startups. It was very hard to compete with Microsoft on PCs because they practically owned the entire stack. But in the age of the smartphone, it was a completely different story because they don’t control the operating system, they don’t control the hardware, and all of a sudden you’re on slightly more equal footing with these very powerful incumbents. And your agility as a startup and your native understanding of the platform can outweigh their strength in finances and employees.”
+
+He continues:
+
+"When you're thinking of startup ideas, going to the rising tide that will lift your boat is definitely a good starting point. It's a very broad direction, but I do think people often choose a niche and don't think through why their startup will succeed versus incumbents. It's really important to think about that strategically.”
+
+Sam Altman shares this idea too:
+
+“Think about the most important tectonic shifts happening right now. How is the world changing in fundamental ways? Can you identify a leading edge of change and an opportunity that it unlocks? The mobile phone explosion from 2008-2012 is the most recent significant example of this—we are overdue for another!
+
+In such a tectonic shift, the world changes so fast that the big incumbents usually get beaten by fast-moving and focused startups. (By the way, it’s useful to get good at differentiating between real trends and fake trends. A key differentiator is if the new platform is used a lot by a small number of people, or used a little by a lot of people.)
+
+Any time you can think of something that is possible this year and wasn’t possible last year, you should pay attention. You may have the seed of a great startup idea. This is especially true if next year will be too late.
+
+When you can say “I am sure this is going to happen, I’m just not sure if we’ll be the ones to do it”, that’s a good sign. Uber was like this for me—after the first time I used it, it was clear we weren’t going to be calling cabs for that much longer, but I wasn’t sure that Uber was going to win the space.”
+

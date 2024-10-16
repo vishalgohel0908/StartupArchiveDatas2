@@ -1,0 +1,32 @@
+How Kevin Systrom pivoted a failed check-in app into Instagram
+
+“We cut features, we focused on what we thought the world needed, and then we got to the heart of the issue of why people wouldn’t use it—that they didn’t feel comfortable sharing their photos. We solved those things right in a row and kept it uber simple.”
+
+The first product Kevin launched was a check-in app called Burbn, which he was able to raise money for because check-in apps like Foursquare were all the rage at the time.
+
+Kevin admits that Burbn was a “me-too” product that he mostly created because he wanted to be his own boss and work on his own ideas.
+
+After three months, it was very clear that Burbn wasn't working, peaking at 100 users. Kevin and his cofounder Mike Krieger decided to pivot.
+
+Somewhat counterintuitively, they arrived at the idea for Instagram by cutting features rather than adding them.
+
+They looked at how users were using Burbn and noticed that people loved sharing photos to show their friends what they were doing at various locations. So Kevin and Mike decided to cut every other feature of Burbn and focus solely on photo sharing.
+
+To arrive at this decision, they looked at the world and asked themselves: "what opportunity is there to fill?"
+
+At the time, there were dozens of other check-in apps, but there wasn't a great solution for posting great photos to lots of your friends all at once. It was the only thing that felt like a greenfield opportunity--everything else felt crowded.
+
+They also noticed that mobile phones were becoming more pervasive and more people would have cameras in their pockets.
+
+So they went all-in. They stripped all of the features away from Burbn except for photo sharing, and launched the first version of Instagram.
+
+However, when Kevin asked his wife if she was excited about the new app, she told him she didn't feel comfortable sharing her photos because they didn't look as good as everyone else's.
+
+Kevin said: "Oh, that's because they use filters."
+
+And his wife replied: "well you should probably add filters."
+
+That day, Kevin hopped on his laptop and made the first filter for Instagram (X-Pro2). This ended up solving the #1 reason people wouldn't use it and is ultimately why Instagram ended up working.
+
+Today, 1.35 billion people use Instagram.
+

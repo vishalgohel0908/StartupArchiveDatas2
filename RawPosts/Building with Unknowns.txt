@@ -1,0 +1,20 @@
+Drew Houston on building Dropbox into a multi-billion-dollar company with a cofounder he didn't know
+
+Most founders and investors will tell you that choosing a random cofounder is a terrible idea.
+
+However, as Dropbox founder Drew Houston explains in the clip below, it is possible for two cofounders who just met to build a billion dollar company:
+
+“Arash [Ferdowsi] and I probably knew each other for two or three hours before we threw in together.”
+
+He explains that when he applied to Y Combinator as a solo founder, he received an email from Paul Graham telling him the ideas for Dropbox was interesting but he needed to find a cofounder. With the application deadline three weeks away, Drew recounts:
+
+“That’s like saying you need to get married in the next three weeks.”
+
+Drew was explaining is situation to his friend from MIT, Kyle Vogt, who suggested he meet with Arash:
+
+“I probably have the email somewhere to Arash which said ‘hey, let’s meet up.’ We hung out in the student’s center for a couple of hours, and then he dropped out of school the next day. It was pretty wild.”
+
+To be clear, stories like this appear to be the exception rather than the rule. And while this is an incredible story, I think it’s important to caveat it with this quote from Sam Altman’s “Team and Execution” lecture:
+
+“The number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring. Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.… Choosing a random cofounder, or choosing someone you don't have a long history with, choosing someone you're not friends with, so when things are really going wrong, you have this sort of past history to bind you together, usually ends up in disaster. We had one YC batch in which nine out of about seventy-five companies added on a new cofounder between when we interviewed the companies and when they started, and all nine of those teams fell apart within the next year. The track record for companies where the cofounders don't know each other is really bad.”
+

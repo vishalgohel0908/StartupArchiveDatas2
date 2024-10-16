@@ -1,0 +1,13 @@
+Jeff Bezos explains the difference between one-way door decisions and two-way door decisions
+
+In the simplest terms, a “two-way door decision” is one that’s easy to reverse, and a “one-way door decision” is one that’s impossible or very costly to reverse.
+
+As Jeff explains:
+
+“[One-way door decisions] have to be made very deliberately and very carefully. If you can think of yet another way to analyze the decision, you should slow down and do that.”
+
+He uses choosing which propellants to use in a rocket engine at Blue Origin as an example of a one-way door decision. However, most decisions are not consequential, hard-to-reverse decisions like this. And if you treat every decision—even the easily reversible ones—like one-way door decisions, you’re going to unnecessarily slow down your company.
+
+“What can happen is that you have a one-size fits-all decision-making process where you end up using the heavyweight process on all decisions, including the lightweight, two-way door decisions. Two-way door decisions should mostly be made by single individuals or by very small teams deep in the organization. And one-way door decisions are the ones that should be elevated up to the senior-most executives who should slow them down and make sure that the right thing is being done.”
+
+    

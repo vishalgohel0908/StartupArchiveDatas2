@@ -1,0 +1,9 @@
+Zynga founder Mark Pincus explains why engagement metrics don't always tell the full story
+
+Mark Pincus is the founder of Zynga, which was acquired for $12.7B.
+
+In the clip below, he recounts sharing with Mark Zuckerberg the lessons he learned from how Farmville’s superb engagement metrics didn’t tell the entire story:
+
+“When people were playing Farmville, we had a net promoter score of +35. The day after they quit, our NPS was -50. For perspective, the IRS is -15 and Comcast is -20… It was a sign that maybe this was starting to be an addiction and something that they didn’t feel good about… even though our engagement and NPS was great.”
+
+Ceteris paribus, more engagement is better. But if people view your product as addictive and not in their long-term best interest, that’s not good.

@@ -1,0 +1,9 @@
+Marc Andreessen's advice to college students interested in startups
+
+Here’s Marc Andreessen’s advice from 2016:
+
+“If I’m 22 again, I think what I do is I go try to find the company in the Valley that’s growing the fastest, has a really good culture, and a really good foundation for training. An example of that would be an Airbnb, but there are many others. I would go plant myself at a company where I can really learn. I spend my time working my butt off so that I can establish a good reputation so that when people reference check me, I reference check well. But I also spend that time thinking and I really critically spend that time building my network and finding people I know I want to work with down the road. And then I either come up with an idea or I don’t.”
+
+He also gives advice for people just enrolling in college:
+
+“If I was 18 and going to college right now, I would do computer science again in a heartbeat. And then I would either focus on: #1 distributed systems and the broad domain of cryptocurrency; #2 AI & machine learning; or #3 intersection of biology and computer science—so genomics and synthetic biology. Personally I would do one of those three areas, and the hard part for me would be picking between them because I think all three of those are going to have transformative work happen in the next 20 years. They’re going to change a lot about how the world works.”

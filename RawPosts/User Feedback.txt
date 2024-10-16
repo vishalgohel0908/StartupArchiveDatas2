@@ -1,0 +1,18 @@
+Mark Zuckerberg: Listen to your users to identify problems and treat your solutions as hypotheses
+
+“When things are working well, you use data and the qualitative feedback you’re getting from listening to how your community is using your product to tell you what problems to go solve. And then you basically use intuition to figure out what the solutions to those problems might be. And then you test those hypotheses by rolling them out and getting more data and feedback.”
+
+Mark uses News Feed as an example.
+
+“It was a relatively big shift for the product, but it had actually been a couple of years in the making from just watching how people were using the service.”
+
+The early Facebook team could see from their data that lots of users were clicking on friends' profiles to see what changed. This helped them realize that their users weren't only interested in looking up their friends' profiles, but they were also interested in monitoring the day-to-day changes.
+
+They then rolled out a simple version News Feed to test their hypothesis:
+
+“The first version of News Feed was really simple. All it did was it basically took the content that people were posting and put it in order on your homepage.”
+
+They used a combination of data and intuition to iterate from there, but this simple insight and experiment led to massive shift in product direction. And it highlights what a good product process looks like: listen to your users to identify problems, and treat your solutions as hypotheses.
+
+
+

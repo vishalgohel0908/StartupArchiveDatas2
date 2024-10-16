@@ -1,0 +1,11 @@
+Palmer Luckey on the threat of AI and the ethics of working on defense technology
+
+“I am worried about the potential of autonomy to do really spooky things. Especially the Skynet scenario… But it’s actually near the bottom of a long list of things that I’m concerned about.”
+
+The Anduril founder continues:
+
+“I’m very concerned about very evil people using very basic AI. I’m much more worried about that than I am about extremely advanced AI wanting to wipe us out on its own.”
+
+And when people ask Palmer how he can work on autonomy and AI given the potential ethical problems, he replies:
+
+“I think the only way you can impact that is to actually do it… You think the moral high ground is to wash your hands of it and let people who don’t care about those things work on it? There’s no moral high ground in ensuring that less competent, less principled people work on these problems, at least in my view.”

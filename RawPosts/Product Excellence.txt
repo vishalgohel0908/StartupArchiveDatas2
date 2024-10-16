@@ -1,0 +1,42 @@
+Deep Dive: 10 principles for building a great product
+
+Today’s deep dive discusses 10 principles for building a great product from:
+
+Rick Rubin (founder of Def Jam)
+
+Mark Zuckerberg (founder of Meta & Facebook)
+
+Elon Musk (founder of Tesla, SpacEx, and more)
+
+Daniel Ek (founder of Spotify)
+
+Sam Altman (founder of OpenAI)
+
+Jeff Bezos (founder of Amazon & Blue Origin)
+
+Tony Fadell (founder of Nest & co-creator of the iPod & iPhone)
+
+David Sacks (founder of Yammer and former Head of Product at PayPal)
+
+Brian Chesky (founder of Airbnb)
+
+Jony Ive (designer of the iMac, iPod, iPhone, iPad, and MacBook)
+
+Upgrade for $5
+#1 Rick Rubin: Create something for yourself
+Last month, Elon Musk tweeted that Rick Rubin’s philosophy of creating something truly for yourself is how Tesla creates products.
+
+Rick elaborates on this philosophy in the clip below:
+
+“My only goal is to make something that I like… I know what I like. If I don’t like it, I keep working, and eventually we get to a place where we like it.”
+
+Interestingly, he doesn’t consider the audience at all:
+
+“The audience comes last… I’m not making it for them. I’m making it for me. And it turns out that when you make something truly for yourself, you’re doing the best thing you possibly can for the audience.”
+
+Former Google CEO Eric Schmidt argues a similar point:
+
+"If you think about the greatest products, they've almost always been designed for the benefit of the people who are actually building them.”
+
+Uber started out as a private timeshare limousine service for Garrett Camp and his friends. Microsoft started when Bill Gates and Paul Allen wrote a Basic interpreter for the Altair so they didn’t have to write machine language to program it. Drew Houston built Dropbox to make his files live online after forgetting his USB stick. Larry Page and Sergey Brin built Google for Stanford—and particularly for themselves—with the first server in Larry’s dorm room.
+

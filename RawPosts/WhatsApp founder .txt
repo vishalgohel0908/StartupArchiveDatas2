@@ -1,0 +1,16 @@
+WhatsApp founder Jan Koum explains why he charged $1 for the product to intentionally slow growth
+
+Sam Altman recalls:
+
+“I remember in 2011, people would say WhatsApp is never going to work because they charge a dollar and it’s a viral app and that’s just going to kill it right there.”
+
+But Jan explains that charging $1 was a very intentional lever WhatsApp used to slow growth:
+
+“I know it sounds very counterintuitive - why would you want to slow your growth? We wanted to slow our growth so we could better support our existing users. So we could build servers that don’t crash. So that we could build a product that doesn’t drop messages. So that we could answer their customer support emails.”
+
+A lot of people told Jan and the WhatsApp team this was a bad strategy, but Jan compares it to what Facebook did in the early days: “They were doing colleges only, and they weren’t open to the entire world.”
+
+WhatsApp wanted to do the same thing:
+
+“We wanted to make sure that we have our existing users happy, and that when people sign up, they have a great experience, and that the app works, and it’s fast, and the servers are up and running all the time. And I think that worked for us because we were really able to focus on the product.”
+

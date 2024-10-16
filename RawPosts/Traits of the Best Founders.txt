@@ -1,0 +1,40 @@
+Deep Dive: 10 perspectives on the traits of the best founders
+
+In today’s deep dive, I’ve compiled 10 perspectives on the traits of the best founders from:
+
+Paul Graham (founder of Y Combinator)
+
+Peter Thiel (founder of PayPal, Palantir, & Founders Fund)
+
+Sam Altman (founder of OpenAI)
+
+Vinod Khosla (founder of Sun Microsystems & Khosla Ventures)
+
+Ev Williams (founder of Twitter, Blogger, & Medium)
+
+Elon Musk (founder of Tesla, SpacEx, and more)
+
+Steve Jobs (founder of Apple)
+
+Marc Andreessen (founder of Netscape & Andreessen Horowitz)
+
+Reid Hoffman (founder of LinkedIn)
+
+Naval Ravikant (founder of AngelList & Airchat)
+
+#1 Paul Graham: Relentlessly resourceful
+“A couple days ago I finally got being a good startup founder down to two words: relentlessly resourceful… Not merely relentless. That's not enough to make things go your way except in a few mostly uninteresting domains. In any interesting domain, the difficulties will be novel. Which means you can't simply plow through them, because you don't know initially how hard they are; you don't know whether you're about to plow through a block of foam or granite. So you have to be resourceful. You have to keep trying new things… If you want to know whether you're the right sort of person to start a startup, ask yourself whether you're relentlessly resourceful. And if you want to know whether to recruit someone as a cofounder, ask if they are.”
+
+Full essay: Relentlessly Resourceful by Paul Graham (Mar 2009)
+
+#2 Peter Thiel: Have a definite view of the future
+“We’re always focused on very short time horizons because you have to figure out a way to get through the next month, the next quarter, how you get some customers. But it’s always worth thinking ahead 5-10 years. Why will this be a really valuable business in 5-10 years? How’s the competitive landscape going to develop? How’s the technology going to develop? How’s the world going to develop?”
+
+These are hard questions to answer, but Thiel thinks the great entrepreneurs always have some perspective on it. It might be wrong, but it’s well-reasoned.
+
+“A bad plan is always better than no plan. So have a plan. You can always change it. But don’t just pretend that you have no clue about what’s going to happen and that everything about the future is random. If you say that everything is random and out of your control, that’s the way that you set yourself up for failure… I do think we exaggerate the role of luck in our future.”
+
+The following is a related passage from Thiel’s book Zero to One:
+
+“From the Renaissance and the Enlightenment to the mid-20th century, luck was something to be mastered, dominated, and controlled; everyone agreed that you should do what you could, not focus on what you couldn’t. Ralph Waldo Emerson captured this ethos when he wrote: “Shallow men believe in luck, believe in circumstances . . . Strong men believe in cause and effect.” In 1912, after he became the first explorer to reach the South Pole, Roald Amundsen wrote: “Victory awaits him who has everything in order—luck, people call it.” No one pretended that misfortune didn’t exist, but prior generations believed in making their own luck by working hard.”
+

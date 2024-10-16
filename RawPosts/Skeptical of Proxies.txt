@@ -1,0 +1,17 @@
+Jeff Bezos on having a skeptical view of proxies and the problem with managing to metrics
+
+“One of the things that happens in business is that you develop certain things that you’re managing to—a typical case would be a metric. And that metric isn’t the real underlying thing.”
+
+To illustrate his point, he suggests a hypothetical example of company that designates “customer returns per units sold” to be an important metric:
+
+“The person who invented that metric and decided it was worth watching had a reason. And then when you fast forward five years, that metric is the proxy. In this case, it’s a proxy for customer happiness. But that metric is not actually customer happiness.”
+
+He continues:
+
+“Five years later, a kind of inertia can set in and you forget the truth behind why you were watching that metric in the first place. And the world shifts a little. And now that proxy isn’t as valuable as it used to be—or it’s missing something. You have to be on alert for that.”
+
+You have to keep in mind that you don’t really care about the metric. What you care about is customer happiness, and the metric is only worth putting energy into and scrutinizing to the extent that it actually improves customer happiness.
+
+“It’s very common and it’s a nuanced problem—especially in large companies—that [people are] managing to metrics that they don’t really understand. They don’t really know why [these metrics] exist. And the world may have shifted out from under them a little, and the metrics are no longer as relevant as they were when somebody ten years earlier invented them.”
+
+You need metrics and can’t ignore them, but you have to make sure you really understand them and why they were invented in the first place. 

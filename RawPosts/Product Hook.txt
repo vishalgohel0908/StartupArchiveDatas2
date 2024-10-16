@@ -1,0 +1,23 @@
+David Sacks on creating a great product hook
+
+In the clip below, venture capitalist David Sacks explains that a good hook is one of the key things he looks for when evaluating a product:
+
+“What you’re looking for here is a simple behavior that users will repeatedly engage in… The problem with designing a site that doesn’t have a hook is that it’s very difficult to get users to engage in more complicated behaviors if you can’t get them to engage in a simple behavior.”
+
+He continues:
+
+“Given a choice between a founder who has discovered a market need versus one that has a great product hook, I’d rather take the product hook—even if it means they still have to figure out what market they’re actually disrupting.
+
+But designing a great product hook is easier said than done.
+
+One model for designing them comes from Nir Eyal’s book “Hooked: How to Build Habit-Forming Products”. In it, he proposes four stages:
+
+1. Trigger: What makes users engage with the product? They can be internal (e.g. desire to belong) or external (e.g. push notification).
+
+2. Action: What is the simplest behavior in anticipation of reward?
+
+3. Variable reward: Is the reward fulfilling, yet leaves the user wanting more?
+
+4. Investment: What is the “bit of work” done to increase the likelihood of returning?
+
+It’s a powerful methodology that any team can use, but will of course will still be tricky to get right. For more details and examples, Nir’s book seems like a good place to start.

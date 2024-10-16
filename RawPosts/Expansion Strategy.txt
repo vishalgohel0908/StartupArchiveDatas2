@@ -1,0 +1,21 @@
+Jeff Bezos explains Amazon’s process for expanding into new products like Kindle and AWS
+
+“I would definitely advise a small startup company to be as narrow and as focused as is possible to be. If you look at the original Amazon business plan, there was no hint of anything other than books in it… I wanted to build an online bookstore, and that was it.”
+
+But the online bookstore worked better than they thought it would. So Amazon launched music, and that worked better than they thought. Then video, and that worked too. So Jeff sent an email to customers:
+
+“I picked about 1,000 customers and I said, besides the things we sell today - books, music, and video - what would you like to see us sell? And the list came back incredibly long-tailed… So it’s been kind of one foot in front of the other.”
+
+As Jeff explains, Amazon expands into new businesses in two ways:
+
+“One is from a customer need. We will work from a customer need to the skills that we need. And the other one is skills forward: from a skillset we have to a new set of customers.”
+
+Kindle is an example of a customer need - Amazon had no hardware team at the time, but to make sure they didn’t miss the transition to ebooks, they built one.
+
+Amazon Web Services (AWS) is an example of skills-forward:
+
+“We had probably more distributed computing expertise than anybody else in the world because of transactions. Transaction systems are so complicated and hard to build, and we had a service-oriented architecture of great complexity - probably before anybody else. Because we were doing that, we could see the future a little bit and decided to build AWS, which has turned into a huge business in its own right.”
+
+Jeff concludes:
+
+“Business is very situational. Rules of thumb are good, but they have to be applied to the right situation. Sometimes the old maxim that you should stick to the knitting is correct, but sometimes it’s wrong. And a senior leader’s job is to figure out: Which situation are you in?”

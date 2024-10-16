@@ -1,0 +1,50 @@
+Startup insights from Jason Fried, Peter Thiel, Jony Ive, and more
+
+We’ve received some feedback that daily emails are a bit much, so we’re going to try a new weekly format.
+
+Every Sunday, we’ll send out 10 insights from the world’s best founders. The first five insights are completely free for everyone, and the other five will be bonus content for premium subscribers. Upgrade to premium for $5/mo here.
+
+Please let us know what you think of the new format and thank you for reading!
+
+Today’s 10 insights:
+
+Basecamp founder Jason Fried: Customers don’t care about your features and technology
+
+Peter Thiel: the university system today is like the Catholic Church circa 1500
+
+Balaji Srinivasan: “Startup founders need to be ideologically motivated”
+
+Jony Ive explains why curiosity is fundamental to creating
+
+Sam Altman: “One of the few arbitrage opportunities left in the market is time”
+
+Mixpanel founder Suhail Doshi explains the “Shark Fin Effect” and how he has seen it kill 15+ startups
+
+Vinod Khosla and Sam Altman on how much equity to give your first 10 employees
+
+Keith Rabois explains when it makes sense to charge for a product versus giving it away for free
+
+Slack founder Stewart Butterfield explains how to get startup ideas
+
+Shopify founder Tobi Lutke explains the most common mistake people make building two-sided platforms
+
+#1 Basecamp founder Jason Fried: Customers don’t care about your features and technology
+Jason recounts how when he was selling shoes growing up in Illinois, representatives of the major shoe brands would arm salespeople with facts about all of the fancy new technology (e.g. the difference between the Nike Air versus the Zoom Air, the Goodyear rubber outsole and the midsole, etc.).
+
+However, when Jason told customers about these technologies, they didn’t care.
+
+When you actually watched customers buy shoes, they really only cared about a few key things: What does it look like? Is it comfortable? Can I afford it?
+
+Jason saw the same thing selling tennis rackets.
+
+He’d tell customers about all the latest technology and the difference between graphite versus fiberglass or natural gut string versus synthetic. Nobody cared. They’d look at a tennis racket and ask him if it came in other colors.
+
+Jason has observed the same pattern across websites and software:
+
+“Companies are obsessed with features and the technologies because that’s what they do all day. But they don’t actually watch people buy stuff. When you watch people buy stuff, they just want the simple stuff. They want the stuff that solves their problems and just works. They like the way it looks. They like the way it feels. It’s comfortable. It’s affordable. That’s what people want…. Yet companies keep talking about the specs, the technology, and the features.”
+
+Jason advises founders to really listen to what your customers are saying and watch how they buy your product:
+
+“You’ll find out that they just need a few things done really, really well. And that is really, I think, the secret to all this stuff. It’s figuring out the basics. Nailing the basics.”
+
+

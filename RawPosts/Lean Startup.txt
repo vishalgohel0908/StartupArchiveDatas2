@@ -1,0 +1,17 @@
+Steve Blank explains the Lean Startup methodology
+
+
+Steve Blank helped pioneer the Lean Startup Methodology. In the clip below, he explains that over the course of building eight companies, no business plan survived first contact with customers:
+
+“Startups are not smaller versions of large companies. Large companies execute known business models. Startups search for unknown business models… And the mistake we were making as entrepreneurs was assuming that everything we wrote in [a business plan] somehow magically translated into facts, when all we had were a series of untested hypotheses.”
+
+As Steve explains, the key for startups is to focus on risk reduction in the early stages by identifying your assumptions and treating them as hypotheses you need to test. The most common mistake very bright founders make is believing they understand the problem on day 1, and as a result, just going and building the solution. But Steve has learned from experience:
+
+“As smart as you are, there is no way you’re smarter than the collective intelligence of your potential customers.”
+
+To find product/market fit, you need to “get the heck outside”, talk to your customers, and test your hypotheses. Who are they? What are you building for them? What are their needs? What jobs do they want to get done? What are their pains? How are you going to make money?
+
+“And by testing, I don’t just mean saying ‘here’s a product, do you want to buy it?’ That’s selling. I mean getting out and understanding deeply what are the customer problems, what are their needs, and what kind of solution might actually solve them?”
+
+Alter your hypotheses with the insights from these conversations, and then test them again with your product. You want to build your product incrementally and iteratively—hence the term “Minimum Viable Product”—continually interacting with your customers to understand if you are on the right track.
+

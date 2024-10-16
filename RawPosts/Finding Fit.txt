@@ -1,0 +1,63 @@
+Deep Dive: 10 principles for finding product/market fit
+
+Sunday Deep Dives = bonus content for premium subscribers. If you’d like to read the full post, subscribe here for $5/mo
+
+“The only thing that matters is getting to product/market fit.
+
+Product/market fit means being in a good market with a product that can satisfy that market.
+
+You can always feel when product/market fit isn’t happening. The customers aren’t quite getting value out of the product, word of mouth isn’t spreading, usage isn’t growing that fast, press reviews are kind of “blah”, the sales cycle takes too long, and lots of deals never close.
+
+And you can always feel product/market fit when it’s happening. The customers are buying the product just as fast as you can make it—or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You’re hiring sales and customer support staff as fast as you can. Reporters are calling because they’ve heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck’s.
+
+Lots of startups fail before product/market fit ever happens.
+
+My contention, in fact, is that they fail because they never get to product/market fit.”
+
+— Marc Andreessen, The Only Thing That Matters
+In today’s deep dive, I’ve compiled 10 principles for finding product/market fit some of the world’s greatest founders and investors:
+
+Launch the product first and learn from its adoption (Jack Dorsey & David Sacks)
+
+Start with a small, intense fire (Paul Graham)
+
+Action creates information (Brian Armstrong)
+
+Treat your idea as a series of untested hypotheses (Steve Blank)
+
+Measure your product/market fit score (Rahul Vohra)
+
+Focus on retention and frequency of use, not absolute user growth (Sam Altman)
+
+Figure out what’s holding unhappy users back (Paul Buchheit)
+
+Do things that don’t scale (Brian Chesky & Paul Graham)
+
+Start with a small market (Peter Thiel)
+
+Keep your burn rate low and kill bad ideas fast (Kevin Systrom)
+
+Upgrade for $5
+#1 Launch the product first and learn from its adoption
+In his blog post Product First, David Sacks explains that the founding of Square—described by Jack Dorsey in the clip below—resembled his own experience at PayPal.
+
+Most people think startups begin with brilliant insight and the founders have it all figured out from the beginning. But startups are messier than that. As David describes in the blog post:
+
+“Founders usually start with a product idea. They know users will like it but may be a bit hazy on the exact market, buyer, or business model. Those details get filled in over time. By launching the product first and learning from its adoption, founders discover the market insight, then build the organization they need to operationalize it.”
+
+This is exactly what happened at Square. As Jack explains:
+
+“When we started, we thought we were just building a piece of hardware to enable people to plug into their phone and swipe a credit card. And then as we talked with people and dug in some more, we found a consistent theme: many of them weren’t even allowed to process credit cards.”
+
+David noticed that both Square and PayPal followed three steps:
+
+Create the product hook: “the starting point was to conceive of a simple product that would create tangible value.” For PayPal, this was the ability to ‘email money.’
+
+Discover the market insight: “the market is discovered as a result of seeing who uses the product and why.” PayPal stumbled upon eBay sellers who were unable or unwilling to go through the lengthly underwriting process to accept payments.
+
+Operationalize the insight: “Once [Square] discovered the theme of access, it had the ‘north star’ to continually expand its offerings”.
+
+As David summarizes:
+
+“The company starts with a product hook to grab users and a distribution trick to find them, pays attention to the organic use of the product to discover the market insight, then leans into that insight to build the company.”
+

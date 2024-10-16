@@ -1,0 +1,4 @@
+Brian Chesky on why Airbnb took months to hire their first employee
+
+“I felt your first engineer was like bringing DNA into your company. If we were successful, there were going to be 1,000 people just like him or her in the company. And so it wasn’t a matter of getting somebody to build the next three features we needed to ship for our users. There was something much more long-term and much more enduring, which was, do I want to work with 100 or 1,000 more people like this?”
+

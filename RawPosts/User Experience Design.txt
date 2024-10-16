@@ -1,0 +1,26 @@
+Airbnb founder Brian Chesky on designing an amazing user experience
+
+In the clip below, Brian explains that one route to a great UX and word-of-mouth growth is designing the perfect experience for one person:
+
+“How do you make something for a million people? I don’t know where to start. But if you pick one person, study them, and take their journey, you can actually build something really personal. You can design something and keep iterating until they love it. Don’t stop improving it until that person loves it, and you’re not allowed to move to the second person until the first person loves it. Then you get the second person and keep iterating until they love it. And so on.”
+
+As Brian argues, designing the perfect experience for one person is a much easier place to start than trying to design something for a million people. And when people truly love your service, they become your marketing department.
+
+He uses storyboarding and tries to imagine a “10-star experience” for an Airbnb check-in as an example:
+
+“A 5-star rating typically means nothing bad happened. But what if there was a 6th star?”
+
+He proposes the following ever-improving scenarios:
+
+6 stars: You get to your Airbnb and there’s a bottle of wine and fruit waiting for you with a hand-written note
+
+7 stars: A limo picks you up from the airport, and when you get to the house there’s a surfboard because the host knows you like surfing
+
+8 stars: You ride back from the airport on a giant elephant and there’s a parade in your honor
+
+9 stars: You land at the airport and there’s 5,000 teenagers cheering your name and you do a press conference in the front lawn of your Airbnb (”The Beetles Check-In”)
+
+10 stars: Elon Musk picks you up from the airport and says “we’re going to space”
+
+The point here is that while you might not be able to create an 8+ star experience for your customers, the act of thinking through the most perfect experience for one customer and figuring out a way to scale something close to that to all of your users can help you arrive at a user experience that is truly amazing.
+

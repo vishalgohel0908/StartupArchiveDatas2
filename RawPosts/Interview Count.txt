@@ -1,0 +1,15 @@
+Eric Schmidt on the optimal
+
+In the clip below, former Google CEO Eric Schmidt tells a story from the early days of Google where they interviewed a candidate 16 times and decided to not hire him.
+
+Realizing they could no longer do this to people, Google declared that candidates couldn’t be interviewed more than a max of eight times.
+
+But after some research, they discovered that each additional interviewer after the fourth increased decision accuracy by less than 1%.
+
+In other words, after four interviews, the incremental cost of conducting additional interviews outweighs the value the additional feedback contributes to the ultimate hiring decision.
+
+They have since revised their max interview policy to five for engineers and four for non-engineers.
+
+If this policy is good enough for Google, it’s probably good enough for your startup!
+
+I also really like paid trials/consulting as a way to assess interview candidates.

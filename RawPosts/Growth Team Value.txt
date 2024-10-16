@@ -1,0 +1,21 @@
+Mark Zuckerberg on the value of a growth team
+
+
+
+Mark Zuckerberg has said that one of the best things Facebook did was invent the idea of a growth team.
+
+In the clip below, he elaborates on this further:
+
+“Making it so that we could grow faster was the most important product feature we ended up building for Facebook. The traditional approach to growing and marketing is you have a communications group or marketing team and you buy ads. Sometimes there’s a place for that.. But if you’re actually trying to grow a product, the best levers for doing that are often within the product itself.”
+
+He continues:
+
+“There’s no magic in the group we’ve built here that other people can’t replicate. It’s just being very rigorous with data and investing in data infrastructure so that you can process different experiments and learn from what customer behavior is telling you.”
+
+He cites Facebook’s “People You May Know” feature as an example of a critical product growth lever.
+
+The key point here is that the best levers for growth are often within your product itself. Facebook’s growth team had a simple framework for growth focused on acquisition, activation, engagement, and virality. They then used this framework to prioritize design experiments and build products. Quickly iterating through these experiments and rigorously measuring what was working (and trying to understand why it was working), helped put the platform on the path to billions of users.
+
+In terms of whether your startup needs a growth team though, the answer is probably not yet. Not because the function isn’t important, but because the whole startup should be the growth team. As Alex Schultz is CMO and VP of Analytics at Facebook puts it:
+
+“If you’re a startup, you shouldn’t have a growth team. The whole company should be the growth team, and the CEO should be the head of growth.”

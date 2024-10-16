@@ -1,0 +1,53 @@
+Michael Seibel's approach to running a product development cycle at an early stage startup
+
+There’s no one best way to run a product development cycle, but one of my favorite descriptions of a good process for early stage startups comes from Michael Seibel (former CEO of Y Combinator).
+
+As he puts it in the clip below:
+
+“If your process revolves around arguing, not writing spec, and long dev cycles, you are doing it wrong.”
+
+He describes the 1-week sprint cycle framework the founders of JustinTV and Twitch eventually landed on. Steal as much or as little as you like.
+
+Step 1: Set a KPI Goal
+
+“You need to have a number you track that reflects how good your company is doing. Almost always, this number should be revenue. If you are never going to charge your customers money—like Facebook—then maybe it should be a usage-based metric… Whatever this KPI goal is, make sure you’re measuring it and that everyone in your company knows what it is every day.”
+
+Step 2: Brainstorm
+
+Then decide on a KPI to improve this sprint cycle.
+
+For their company, the top-level KPI was DAUs, and the three KPIs they thought contributed to DAUs were: (1) new users, (2) retention, and (3) new content created. Moving one of these three numbers every cycle was the goal.
+
+They’d brainstorm for a couple hours, and every idea that was stated was written on a whiteboard.
+
+“You’d be surprised at how much value there is in seeing your idea on the board. You won’t be able to build every person’s idea, but the fact that your idea was considered and added to the board actually makes people feel a lot better. People feel horrible when their ideas are shot down.”
+
+The brainstorm was split into three categories: (1) new features or iterations on existing ones, (2) bug fixes, and (3) A/B tests.
+
+Step 3: Easy / Medium / Hard
+
+“Then we’d go through and do what’s called easy / medium / hard. For us, hard meant it would take one engineer most of the dev cycle to build. Medium typically meant 1-2 days. Easy means we could do multiple in a day… It turns out that easy ideas get built way faster than hard ideas and most hard ideas can be restated as an easy idea if you understand what bits of your hard idea are both useless and hard.”
+
+He continues:
+
+“This created an objective standard by which to start thinking about these ideas… ‘Your idea is really freaking hard and seems like it wouldn’t move the KPI that much, whereas this other idea is super easy and is probably going to move the KPI a lot.”
+
+Step 4: Decide
+
+“The next thing we’d do is decide hard first. We looked at all of the hards and asked: ‘which hard will impact the KPIs the most?’ Then we moved to mediums, then easies.”
+
+As Michael argues, this process removed a lot of ego from the debate:
+
+You knew your idea had been considered
+
+You saw some objective measure about how hard it was
+
+Because the board has a bunch of ideas on it, you can probably find an easy idea that you really like. So you’re going to be excited that’s going to get in and it’s fine if your hard idea doesn’t.
+
+Step 5: Written Spec
+
+“This is the step no one likes. You actually go through and write everything down. ‘What do we mean by we’re adding video filters?’ ‘What does allowing people to chat with each other actually mean?’ This is really important, and once this is done, you can distribute tasks to the team.”
+
+The founders of JustinTV and Twitch would run these cycles every two weeks because submitting to the app store took longer. But if you’re doing a pure web product, you can run these cycles once a week.
+
+“Having this cadence meant that we had success every two weeks. If we built what we said we were going to build, we felt good… This cadence is extremely important because it’s going to take you a long time to find product/market fit and you’re going to be trying a lot of things. If that process doesn’t feel fun, you’re going to be very frustrated. This made the process feel fun because we had goals and we accomplished them.”

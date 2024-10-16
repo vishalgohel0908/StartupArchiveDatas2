@@ -1,0 +1,14 @@
+Paul Graham explains what it means to do things that don’t scale
+
+“What doing things that don’t scale means specifically is doing things in a sort of handmade, artisanal, painstaking way [even if it’s not scalable.]… It’s so important to get early customers that if you have to do a ton of manual stuff, that’s okay.”
+
+Paul shares his own experience from building Viaweb, an online store builder. They couldn’t get anybody to buy their software in the beginning, so Paul offered to build stores for customers himself using the software.
+
+“It seemed so lame, but having to use our software myself made it much better… I would change the software in the middle of using it and then go back to working on their website.”
+
+Three years later, Viaweb was bought by Yahoo for $49 million.
+
+As Paul explains in his essay Do Things That Don’t Scale, most founders ignore this path because they think this can’t be how the big, famous startups got started. But they underestimate the power of compound growth:
+
+“In the beginning, you only have 10 customers. You want to grow 10% next week because 10% a week is an ambitious goal. Well you only have to get one more customer. You can go out and do that very manually right? And then next week, you have 11 customers, and you have to get 1.1 customers. Which is basically one. You just keep going out there and doing things manually. As long as your growth rate is good, it doesn’t matter how small the number is because a constant growth rate means exponential growth and that means the base number will soon take care of itself.”
+

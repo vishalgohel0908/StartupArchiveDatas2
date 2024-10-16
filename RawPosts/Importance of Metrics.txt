@@ -1,0 +1,21 @@
+Michael Seibel explains why metrics are so important and how to set them up correctly
+
+In this clip, former Y Combinator CEO Michael Seibel explains why metrics are so important to set up early and properly.
+
+“Setting up metrics very early on in your company is super important because it’s how you know whether your product is being used or not, and it’s one of the top sources of new product ideas and inspiration.”
+
+Google Analytics is great for knowing how many people visited your website and how many pages they viewed, but it’s not great for identifying people’s actions when they use your product (e.g. did they click this button? how long were they on the page before they did something else? did they leave something in their cart?)
+
+You ultimately want an events-based metrics product:
+
+“MixPanel, Amplitude, Heap, etc… There are like a hundred of them [events-based products] out there. You should be using one of them. If you're not, you can't be sophisticated at building your product. This is a prerequisite.”
+
+Once you set up metrics, you must teach everyone on your team how to use them:
+
+“Everyone in your company should understand how the product is functioning.”
+
+You can start with 5-10 simple stats, and make sure that you’re thoughtful with your naming convention.
+
+Lastly, make measurement a part of your product spec:
+
+“When you spec out a product, you better spec out the stats you expect to be tracking, and you should also spec the stats that you think are going to improve… Otherwise, you’re flying blind.”

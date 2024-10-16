@@ -1,0 +1,18 @@
+Slack founder Stewart Butterfield on how to avoid shiny object syndrome
+
+
+Shiny object syndrome is a continual state of distraction that stems from chasing new ideas rather than remaining focused on what’s already planned or underway.
+
+Slack is a great example of not falling victim to shiny-object syndrome.
+
+Founder and former CEO Stewart Butterfield explains:
+
+“There’s definitely something to be said for sticking with the same idea when things are above some threshold of good. Not so much because that idea is the best one, but because the wild and erratic chasing of the next idea can be really dangerous.”
+
+He continues:
+
+“We conceived of Slack as a tool for business. We developed it that way. We priced it that way. It was successful. But there was also this huge amount of social usage—today, maybe a third of Slack teams that get created are for some kind of social usage. And a lot of people had the idea that we should pursue that and make Slack for groups or even pivot to being a consumer company. But we’ve been pretty steadfast in not doing that because you can only do so many things well. There’s a lot of shiny objects like that that are very distracting.”
+
+Steve Jobs emphasized that last point as well:
+
+“People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.”

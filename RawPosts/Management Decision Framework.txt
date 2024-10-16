@@ -1,0 +1,35 @@
+Ben Horowitz’s framework for tough management decisions
+
+In the clip below, a16z cofounder Ben Horowitz walks through the following real-world scenario he consulted a founder on:
+
+"Your executive has been working extremely hard and is well liked and a great part of the culture. However, he is not world-class running his function and you need someone who is."
+
+Do you fire or demote him?
+
+On one hand, it's tough to fire someone who has put in a big effort, and a demotion can sometimes look like a "have your cake and eat it too" scenario: there's no culture backlash, you save the executive the embarrassment of getting fired, and he can keep growing with the company even though he's demoted.
+
+However, you need to take into account the perspective of everybody else at the company.
+
+If the executive is a Head of Sales with a 1.5% equity package, everybody is going to be wondering:
+
+Does he keep his same equity package?
+
+Is he going to work as hard being the guy who reports to the guy?
+
+Do I have any respect for him now that he's been demoted?
+
+For example, engineers with 0.1-0.2% equity packages probably aren't going to feel to great about a former Head of Sales owning 1.5% of the company.
+
+So are you going to take away some of this executive's compensation? And how effective do you think he'll be if you do?
+
+“You may think that this is a demotion or firing of one person. But what you’re really doing is answering ‘what does it mean to fail on your job?’—particularly the highest-compensated job at the company from an equity standpoint—and then ‘what’s required to maintain your equity?’ Is it good enough to put in an effort or do you have to get a result? In different situations at different levels, these answers will come out differently.”
+
+If this is an executive brought in from the outside with a 1.5% equity package, you probably need to fire him.
+
+If this was an internal employee who you maybe promoted past where they should've been and they didn't have a large equity package, maybe you make a different decision.
+
+“You have to understand what [the decision] means to everybody [at the company], not just the person you’re talking to.'“
+
+Ben’s key principle here is:
+
+“When making a critical decision, you must understand how it will be interpreted from each person’s point of view and its impact on the union of the individual views. i.e. culture.”

@@ -1,0 +1,17 @@
+
+Tobi Lutke explains what the VCs who passed on Shopify got wrong
+
+
+tobi recounts pitching Shopify to VCs on Sand Hill Road a few years after founding Shopify.
+
+Investors passed because they thought the addressable market was too small. At the time, there were about 40,000-50,000 online stores, and even if Shopify captured 50% of the market, that still wouldn’t be a venture-scale business.
+
+When Tobi ran into the VC partner a few years ago, the partner asked Tobi what he missed (Shopify is valued at almost $100 billion today).
+
+Tobi explained:
+
+“You were actually correct, but what you didn’t realize was that Shopify was the solution to the very problem you identified. The reason there was only 40,000 online stores was because it was hard, expensive, and everyone who tried ran into all these brick walls of complexity, which Shopify, one after another, smoothed over and made simple to do.”
+
+Tobi believes this is a common mistake:
+
+“What a lot of free-market thinkers don’t understand is that between the demand and eventual supply lies friction. And I actually think that friction is probably the most potent force for shaping the planet that people just generally do not acknowledge… That was my theory when I turned my snowboard store into Shopify: there was a lot more people like me except there was too much friction which we needed to solve. And Shopify has proven out that every time we make the process simpler, there’s more consumption. At this point, we have a million merchants on Shopify, which is a mind-blowing number. So friction is a major component, and it’s

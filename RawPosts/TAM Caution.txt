@@ -1,0 +1,20 @@
+Bill Gurley on why founders and investors shouldn't pay too much attention to TAM
+
+
+“I’ve found that TAM conservatism hurts you more than it helps you as an investor. If you feel like something is super disruptive and it’s unlocking things, your optionality to build on top of that is going to be pretty spectacular.”
+
+In the clip below, Bill also mentions the blog post he wrote in 2014 titled “How to Miss By a Mile” that responds to NYU professor Aswath Damodaran’s conclusion that Uber was worth only $5.9 billion following the company’s financing round at a $17 billion pre-money valuation.
+
+Damodaran’s estimate of value was based on assumptions of TAM (total available market) and on market share within that TAM. He estimated a TAM of $100 billion from a global estimate for the historical taxi and limousine market and guessed that Uber’s maximum market share would be 10%.
+
+Gurley writes:
+
+“There are multiple reasons why this is a flawed assumption. When you materially improve an offering, and create new features, functions, experiences, price points, and even enable new use cases, you can materially expand the market in the process. The past can be a poor guide for the future if the future offering is materially different than the past.”
+
+He cites a McKinsey study as an example. In 1980, they predicted that cell phone penetration in the U.S. by 2000 would be 900,000 units. This turned out to be less than 1% of the actual figure, 109 million.
+
+As Box CEO Aaron Levie put it:
+
+“Sizing the market for a disruptor based on an incumbent’s market is like sizing the car industry off how many horses there were in 1910.”
+
+Today Uber’s market capitalization is $92 billion—more than 15x Damodaran’s estimate.

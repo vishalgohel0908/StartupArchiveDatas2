@@ -1,0 +1,28 @@
+Chamath Palihapitiya's framework for finding your product's magic moment
+
+
+“You’ve got to start with a broad cross-section of engaged users. And when you work backward from each of those… you can probably tease out [the different pathways they took to get to that state]… But it starts with looking at an engaged user. “
+
+The “Magic Moment” of a product is a set of actions that separate users who find value in your product from those who don’t.
+
+Users who find value come back, and if you can identify which actions separate retained users from lost ones, you'll know what drives user value and have your Magic Moment.
+
+For example, Slack found that if it could get a team to the magic moment of sending at least 2,000 messages, 93% of those users would be retained.
+
+Facebook's magic moment was getting people to 7 friends in 10 days. For Twitter it was getting users to follow 30 accounts. For Dropbox, it was 1 file upload.
+
+Chamath provides a solid overview of finding a product’s magic moment in the clip below.
+
+He explains that the core driver of the success of Facebook's famous Growth Team was a low-ego approach to building product: they simply looked at a lot of data, tried a bunch of stuff and measured everything.
+
+Most people think of startup growth as a convoluted combination of growth hacks. But Chamath argues that it's actually quite simple: you need to understand the product value and consumer behavior at a fundamental level. Then use that understanding to come up with ideas that deliver long-term value and test them.
+
+They didn’t focus on "virality" or the product's "k-factor". They just focused on the three core problems that every consumer product has to solve:
+
+1. How do you acquire users?
+2. How do you get them to the magic moment as quickly as possible?
+3. How do you deliver core product value as often as possible? (core engagement)
+
+Then they tried and tested a bunch of stuff.
+
+And they were able to back into their magic moment of "7 friends in 10 days" by looking at their most engaged users and analyzing the the behavior they had in common, as described in the clip below:

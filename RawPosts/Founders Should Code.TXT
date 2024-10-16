@@ -1,0 +1,22 @@
+Naval Ravikant explains why startup founders should be able to code
+
+In the clip below, Naval Ravikant gives advice to a startup spending $25k outsourcing product development to external developers:
+
+“You guys should be coding from the start. Web and mobile startups are so competitive right now. You have to assume that anything you’re doing, there’s a team of 2-4 dedicated, hardcore hackers working 24/7 on something extremely similar.”
+
+He continues:
+
+“If you have this iteration loop where you have to submit something to someone else and they have to come back to you. Then you’re like ‘no, it wasn’t quite right’ because a lot of stuff was lost in translation, you’re going to get 1-2 cycles per day at best. Meanwhile, that other team is getting 20 cycles per day. It has gotten so intense now that non-coding founders and startups are having a really difficult time adding value at these early stages.”
+
+Of course there are some examples of non-technical founding teams building terrific companies (e.g. Craigslist). But they seem to be the exception rather than the rule.
+
+As Sam Altman puts it in a separate interview:
+
+“For a very long time, the classic co-founding team was one very strong business person and one very strong tech person… now it has shifted towards two really strong tech people. That works a lot of the time and may be better overall.”
+
+And I think the reason for this—as Naval points out—is that when you can build the product yourself, your iteration cycles become so much faster.
+
+Another quote from Sam Altman in a previous Startup Archive Answer on the importance of fast iteration cycles:
+
+“The cycle here is basically: talk to customer to understand pain point → build product to address that → get product in front of user → see what they do → repeat cycle. This cycle is how you iterate and improve. The law of compound growth being what it is: if you can get 2% better every iteration cycle, your iteration cycle is every four hours rather than every four weeks, and you compound that over the course of a few years, you’ll be in a very very different place. Make it one of your top goals to build one of the fastest iterating companies the world has ever seen.”
+

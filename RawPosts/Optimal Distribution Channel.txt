@@ -1,0 +1,23 @@
+Deep Dive: Finding your best distribution channel
+
+In last week’s Sunday Deep Dive, Ten ideas for founders from Peter Thiel’s Zero to One, I shared the following quote:
+
+“Distribution follows a power law of its own. This is counterintuitive for most entrepreneurs, who assume that more is more. But the kitchen sink approach—employ a few salespeople, place some magazine ads, and try to add some kind of viral functionality to the product as an afterthought—doesn’t work. Most businesses get zero distribution channels to work: poor sales rather than bad product is the most common cause of failure. If you can get just one distribution channel to work, you have a great business. If you try for several but don’t nail one, you’re finished.”
+
+Distribution is a catchall term that essentially refers to how you get your product out to customers.
+
+The conventional thinking is that great products sell themselves. But history is full of instances where the best product did not win. One of the more famous examples is Nikola Tesla inventing the alternating current (AC) electrical supply system, which was technologically superior to the direct current (DC) system that Thomas Edison developed. Tesla was the better scientist, but Edison won “The War of the Currents” because he was the better businessman.
+
+Even if you have an incredible product, you still have to get it out to people. Superior sales and distribution—even with no product differentiation—can create a successful business. But the converse is not true.
+
+If you’ve invented something new but you haven’t invented an effective way to sell it, you have a bad business—no matter how good the product.
+
+The goal of today’s deep dive is to help you find your best distribution channel and answer some common startup distribution questions. It’s divided into three sections:
+
+The 50% rule
+
+Nineteen possible marketing and distribution channels
+
+Finding your best distribution channel
+
+This post draws a lot from the book Traction by Gabriel Weinberg (founder & CEO of DuckDuckGO) and Justin Mares, which is probably my favorite resource on distribution. I recommend reading it if you’re looking for a more detailed guide to this topic.

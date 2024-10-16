@@ -1,0 +1,28 @@
+Elad Gil on AI and how to discern real hype cycles from fake ones
+
+“Silicon Valley has always gone though real hype cycles and fake ones. By real, I mean it translates into something that actually has enormous impact. And fake ones are things where everybody thinks it’s a thing and then nothing happens.”
+
+He gives some examples of hype cycles from ~2010-2015:
+
+Social (real: Pinterest, Instagram, etc.)
+
+Mobile (real: Uber, DoorDash, etc.)
+
+SaaS (real)
+
+EdTech (fake because it has the same problem as Healthcare—nobody will pay for it)
+
+Internet of Things (fake)
+
+Geolocation (fake)
+
+In this clip from October 2023, Elad speculates the AI wave is a very real one that’s “going to get much bigger in the next year.” And there’s two reasons he thinks this:
+
+Massive revenue and usage from almost zero a year ago (e.g. Midjourney, ChatGPT, Character, Perplexity, etc.). “Some of them may be sustainable and some may not, but it’s real. People care. And so you know it’s a real thing because you see real usage, not just people writing articles.”
+
+Large enterprises haven’t had time to do anything yet. If the launch of ChatGPT in November 2022 was the starting gun, “maybe you start talking about it this year (2023), and then you’re planning for 6 months, and then you’re going to prototype for a year, and then you’re going to actually launch something.”
+
+And because the large enterprises haven’t done anything yet:
+
+“That means tooling companies are going to pick up as these things pick up. And it means different applications will emerge with enormous use cases that nobody’s thought about. I mean, it’s just so early. And so I just think we’re going to see this run of hype as we see usage run—as we see enterprise adoption. And it’s going to take years. But I actually think we’re very, very early in the hype cycle… We will have some trough of despair at some point, but I don’t think it’s anytime soon because I think it’s just starting.”
+

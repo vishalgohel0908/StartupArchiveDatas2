@@ -1,0 +1,14 @@
+Sam Altman explains the two strategies for startups building on AI
+
+“I think fundamentally there are two strategies to build on AI right now. There’s one strategy which is assume the model is not going to get better and build all of these little things on top of it. Then there’s another strategy, which is to build assuming that OpenAI is going to stay on the same trajectory and the models are going to to keep getting better at the same pace. It would seem to me that 95% of the world should be betting on the latter category.”
+
+However, many startups have been built on the former category, which has resulted in the “OpenAI killed my startup” meme as OpenAI makes the model and its tooling better.
+
+As Sam explains, there’s a giant set of startups that will benefit from OpenAI’s ChatGPT 5 being way better:
+
+“If you build those and AI progress keeps going the way we think it’s going to go, I think on the most part you’ll be really happy.”
+
+OpenAI COO Brad Lightcap gives a good heuristic for assessing your startup’s AI strategy: are you excited about a 100x improvement in ChatGPT and other AI models?
+
+If the answer is no, you may want to rethink your strategy.
+

@@ -1,0 +1,49 @@
+Deep Dive: 10 pieces of advice for founders raising venture capital
+
+Today we dive into the following 10 pieces of advice for founders raising venture capital:
+
+The vast majority of businesses should not raise venture capital (Dalton Caldwell & Michael Seibel)
+
+Practice your 30-second and 2-minute pitch (Michael Seibel)
+
+An investor is an employee you can’t fire (Vinod Khosla)
+
+Get ramen profitable (Ryan Peterson & Paul Graham)
+
+Storytelling is incredibly important (Don Valentine & Ben Horowitz)
+
+Don’t optimize solely for valuation (Elon Musk)
+
+Three pieces of advice from Marc Andreessen (Marc Andreessen)
+
+The best investors understand that most startups fail (Max Levchin)
+
+Maximizing valuation is dangerous (Spencer Rascoff)
+
+Too much funding before product/market fit can kill a startup (Paul Buchheit)
+
+Upgrade for $5
+#1 The vast majority of businesses should not raise venture capital
+Dalton Caldwell and Michael Seibel recorded an awesome episode on the Y Combinator Podcast titled “Should Your Startup Bootstrap or Raise Venture Capital?”
+
+The clip below attempts to condense the 14-minute episode into three minutes, but the entire episode is worth listening to.
+
+As Michael explains:
+
+“The vast majority of businesses should not raise venture capital.”
+
+Dalton adds:
+
+“Venture capital as a product is specifically for investing in something where their investment could be worth at least 100x more—if not 1,000x more. And so if you try to put that jet fuel into something that isn’t going to grow to be big, everyone is going to be sad and lose.”
+
+Michael compares starting a VC-backed company to trying to get into the NBA—only a few hundred people are going to make it, and it’s usually not the best way for most people to get rich. There are lots of ways to get rich, and he shares an example of a friend of his who built a bootstrapped company that generates $30k-$50k per month and took about 7-10 hours per month of maintenance.
+
+“If you don’t want to raise [venture capital], don’t do it. It’s also a decision that you can revisit. If you don’t want to start a VC-backed company now, but your bootstrapped product starts doing well and you want to do it in the future, great.”
+
+Venture capital really only makes sense if you need a lot of money up front and you’re trying to build a billion-dollar company. Dalton and Michael use Google as an example—it would’ve been really hard to build Google without venture capital.
+
+As they put it:
+
+“We should think of VC as enabling incremental entrepreneurship that wouldn’t be around otherwise”
+
+

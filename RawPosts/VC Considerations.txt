@@ -1,0 +1,21 @@
+Spencer Rascoff shares non-obvious considerations when raising venture capital
+
+Spencer Rascoff co-founded Zillow and Hotwire.
+
+In the clip below, he recounts the sale of Hotwire:
+
+“We sold the company for $700M, which seems really great until you remember that there was a down round which basically wiped everybody out.”
+
+He tells the audience of startup founders who are thinking of raising venture capital:
+
+“Pay attention to the ratchets, the liquidation preferences, all of the stuff that you don’t really understand but the VCs do… If things go great, none of that matters. But if things don’t go great, it can matter a lot.”
+
+That’s a great way of putting it, and for a more complete list of considerations, I’d recommend Scott Kupor’s book Secrets of Sand Hill Road.
+
+Other advice he gives here:
+
+- You’re choosing a partner and not all money is created equal
+
+- Trading off valuation for an investor that you think you can learn from, who will be there for you when the going gets tough is a worthy tradeoff
+
+He also points out that maximizing for valuation can be dangerous because it can limit potential outcomes for the company. If you raise $10M at a $60M valuation, you’ve just taken off the table pretty much every M&A exit below $100M. An M&A exit for $100M if you’re a founder and own 10% might be a fantastic outcome for you, but if you’re raising 10 at 60, your VCs might not think that’s so fantastic.

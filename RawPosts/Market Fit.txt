@@ -1,0 +1,20 @@
+Rahul Vohra on how to measure product/market fit
+
+Rahul Vohra is the founder and CEO of Superhuman. In the early days of the company, he was looking for a metric to measure product/market fit so that he and his team could optimize it.
+
+He eventually came across the following methodology from Sean Ellis:
+
+Simply ask your users: “How would you feel if you could no longer use the product?” with three options: (1) not disappointed, (2) somewhat disappointed, or (3) very disappointed.
+
+It turns out that the benchmark for product/market fit across hundreds of venture-backed startups is 40% of respondents saying “very disappointed”. And as Rahul puts it:
+
+“If more than 40% of your users would be very disappointed without your product, then you should focus on growing your company. If less than 40% of your users would be very disappointed without your product, then you’ll probably struggle to grow.”
+
+40% may not sound like a lot, but it’s an incredibly hard benchmark to beat.
+
+For example, Slack posed this to 731 customers early in the company’s history, and 51% said they would be very disappointed without Slack. One might expect a terrific product like Slack to have a score of 60-80%, but that wasn’t the case.
+
+Rahul’s explanation of why the response options are focused on disappointment rather than happiness is interesting too:
+
+“I think the reason behind that is that if you ask people how they feel about a product and you give them positive potential responses, I think it invites more bias. People are more likely to be polite. And it also doesn’t get to the heart of the matter which is: how necessary has your product become in people’s lives? If you’re trying to build a company that’s going to stand the test of time, you really do have to build a product that matters and that people ultimately come to depend on because it’s just so incredible at what it does. And that’s what this question gets to the heart of.”
+

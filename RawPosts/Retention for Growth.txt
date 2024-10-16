@@ -1,0 +1,12 @@
+Facebook VP of Growth Alex Schultz: “Retention is the single-most important thing for growth”
+
+In the clip below, Alex walks through how to calculate a retention curve for your startup. Basically you want to graph the percentage of monthly active users (y-axis) versus the number of days from acquisition (x-axis).
+
+And as he explains:
+
+“If you end up with a retention curve that asymptotes to a line parallel to the x-axis, you have a viable business, and you have product/market fit for some subset of market.”
+
+If you do not have a retention curve that flattens out, you do not have product/market fit and none of the growth hacking or virality tactics that people love to talk about will work.
+
+“Focus on getting to product market/fit… If you don’t have a great product, there’s no point executing well on growing it, because it won’t grow. The #1 problem I’ve seen inside Facebook for new products and the #1 problem I’ve seen for the startups I’ve advised has been that they don’t actually have
+

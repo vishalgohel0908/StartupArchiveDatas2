@@ -1,0 +1,24 @@
+Linear founder Karri Saarinen on how good design can accelerate growth
+
+
+Karri Saarinen co-founded Linear after leading design at Airbnb and Coinbase. In the clip below he makes a compelling case for why design can be an accelerator for growth:
+
+“Growth is essentially acquiring people, getting them to use the product, and then keep them using the product.”
+
+He argues that design can have an outsized impact on each of these steps:
+
+Acquisition: design creates interest and trust by looking more professional and signaling high quality.
+
+Adoption: design creates clarity and better onboarding.
+
+Engagement: design makes people use the product more.
+
+Retention: design keeps users around
+
+He argues:
+
+“If you don’t have a good designer or haven’t invested in it, you’re probably creating friction in all of these steps, which then hinders your growth as a startup.”
+
+And he uses his own company, Linear, as an example. They were able to build a 10k user waitlist in two months with a website and a blog post that listed “Deliver a great UX, focusing on speed and efficiency” as one of their core value propositions.
+
+“People are visual, and when you see something that looks cool or interesting, I think it attracts people to pay more attention. And that’s always one of your challenges as a startup—people are not paying attention. And design can help with that… Even today, we still have people that come to our product just because they like the design. They don’t necessarily any other justification for it in their heads. They’re just like ‘I like it, and that’s why I use it.’”

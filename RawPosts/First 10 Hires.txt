@@ -1,0 +1,41 @@
+The founders of Stripe and Pinterest on what you should look for in the first 10 hires of a company
+
+Ben Silbermann (founder of Pinterest) and Patrick & John Collison (co-founders of Stripe) share their answers in the clip below.
+
+Ben Silbermann starts it off:
+
+“I think one big misconception is that people think culture is like architecture when it’s a lot more like gardening: you plant some seeds and pull out weeds that aren’t working. And when we first hired people, we hired people who were like ourselves. I often looked for 3-4 things that I really valued in people.”
+
+These were somewhat obvious things like: working really hard, high integrity, and low ego. But Ben also looked for creativity and quirkiness:
+
+“Some of our first employees are probably some of the quirkiest people I’ve ever met… we’ve found that that quirkiness is a bit of a calling card. Really creative and quirky people that are excited about many disciplines and extraordinary at one tend to build really great products and be great at collaborating… we also looked for people who really just wanted to build something great. They weren’t arrogant about it, but they just felt like it’d be really cool to take a risk and build something bigger than themselves.”
+
+John Collison adds:
+
+“The first 10 hires are really hard. You’re making these hires at a point where nobody has heard of this company or wants to work for it. You’re just these two weird people working on an idea and their friends are telling them not to join. It’s also hard because no batch of 10 people will have as great of an influence on the company as those first 10 people.”
+
+He continues:
+
+“I think everyone’s impression of recruiting is you open LinkedIn and it’s sort of like ordering off the dollar menu. But—at least for us—it was very much talking people we knew or friends of friends into joining over a very long time period. We didn’t have huge networks. Patrick and I were both in college at the time so there weren’t people we had really worked with. So a lot of those early Stripes were people we had heard of or friends of friends.”
+
+John also mentions that all of the first 10 hires were also either early in their career or undervalued in some way:
+
+“When you think about it: if someone is a known spectacular quantity, they’re probably working another job and very happy with that… the designer we hired was 18, in high school, and lived in Sweden at the time. In the case of our CTO, he was in college at the time. A lot of these people were early on in their careers.”
+
+The Stripe co-founders realized they could relax one constraint: you can relax the requirement that they’re talented or you can relax the requirement that it’s apparent that they’re talented. And they relaxed the latter.
+
+Patrick Collison echoes John’s point on finding people who are undervalued:
+
+“You have to think like a value investor. You’re looking for the human capital that is significantly undervalued by the market. You probably shouldn’t look to hire your brilliant friends at Facebook and Google because they’re already discovered. If they’re willing to join, that’s great. But they’re probably harder to convince.”
+
+And when Patrick and John looked back at the first 10 people at Stripe, they also noticed a few other common traits:
+
+They were very genuine and straight. “I think it actually matters quite a lot that they’re people others want to work with them and can trust them.”
+
+They really liked getting things finished. “There’s a lot of people who are really excited about tons of things. But only a subset of those people are actually excited about completing things… Hiring people off of their github resumes doesn’t ring quite correct to me because it places a premium on lots of little things. I think it’s much more interesting to work with someone who has spent two years of really investing and going deep on a particular area.”
+
+They cared a great deal and it was offensive to them when something was just a little bit off. “Everyone was borderline insane in terms of how much they cared about little details. For example, every single API request that generated an error went to all of our inboxes and phoned all of us because it seemed terrible to ever have an error that didn’t get a resolution from the user’s standpoint. We’d also copy everyone on every outgoing email so we could point out slight grammar or spelling mistakes.”
+
+Ben concludes the discussion with valuable parting advice:
+
+“The really good people are generally doing something else so you have to go seek them out rather than expecting that they’re going to seek you out. Triple so when no one has ever heard of or is using the product you’re working on.”

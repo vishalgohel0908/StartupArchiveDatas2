@@ -1,0 +1,12 @@
+Peter Thiel on why sectors and trends are overrated
+
+“I’m always skeptical of sectors and trends. People always ask me what some trends are that I see happening in the future, and I have never liked the question because I’m not a prophet and I don’t think the future is fixed in that sort of way… At this point, I think all trends are overrated… if you hear the words ‘big data’ and ‘cloud computing’, you need to run away as fast as you possibly can. Just think ‘fraud’ and run away.”
+
+He continues:
+
+“All these buzzwords are a tell—like in poker—that the company is bluffing and undifferentiated… We’ve heard the buzzwords before, and so if you’re the nth company in a category that’s well established, that’s problematic… Conversely, I think the things that are underrated are the ones where there are no buzzwords and it doesn’t actually fit into any pre-existing categories… Of course, the challenge is that even the people who are running these companies will describe them in terms of existing categories because that’s so much easier to do.”
+
+One example he uses is that Google would’ve been described as a search engine in 1998. There were already 20+ search engines at the time, but the PageRank algorithm was actually the key differentiating thing. If you simply labeled it as a search engine, that would’ve obscured all of the key differences.
+
+“Figuring out the correct way to think about things in categories for which we don’t even have the proper language is really critical.”
+

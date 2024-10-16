@@ -1,0 +1,18 @@
+Sam Altman on getting your first 100 users
+
+your fist 100 users in order of best to worst:
+
+Use your network. Email everyone you know and call in favors from anyone you can think of. But if it’s a paid product, make sure you charge them. “People who are inclined to do you favors are going to be too nice in what they tell you. So if it’s a paid product, charge them.”
+
+Research people who might use your product and email them asking them to try it. “Conversion rates are low—maybe 2-3%—so you’ll have to reach out to more people. But you can send targeted emails saying ‘Hey, I just made this new product. I’d really appreciate if you would try it out.’ Most people want to be helpful.”
+
+Social media outreach, posting to HN, forums, PR, etc. “The important thing to look for here is a traffic source that is sustainable rather than one big pop that then promptly goes away.” Airbnb is an example of a company that made PR work as an ongoing process—they were able to come up with press stunt after press stunt. But it’s hard.
+
+Buy ads and point them at your website. “This is the ‘laziest’ and least impressive thing you can do… This is not what I’d recommend. I don’t know of any startup that has gotten big starting this way. I include it because it’s the idea that most people try.”
+
+This may sound basic, but I think this advice is important. Getting your first 100 users is mostly hard work. As Sam puts it:
+
+“Everyone thinks they’re going to put up this website, tell one person about it, and it’s going to take off like wildfire. But that’s not what usually happens.”
+
+For a more detailed guide on customer acquisition, I’d recommend the book Traction by Gabriel Weinberg (founder & CEO of DuckDuckGo). It walks through nineteen channels you can use to build a customer base, and offers a framework to figure out which ones will work best for your business.
+

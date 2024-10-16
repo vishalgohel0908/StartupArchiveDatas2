@@ -1,0 +1,26 @@
+Founders of Twitch and Reddit on data debt and how to avoid it
+
+
+As Reddit co-founder Steve Huffman explains in the clip below:
+
+“There are a lot of corners you can cut when creating your MVP… But data debt can haunt you because you can’t make up missing data and eventually your intuition will fail you.”
+
+Reddit didn’t know their traffic for years and did product development by intuition for a very long time. The company ended up working out, but it was a huge pain for them and Steve regrets it.
+
+Twitch founder Emmett Shear echoes the importance of event tracking:
+
+“You will thank yourself later for having historical baselines for important user actions. Every time I’ve wondered how many people are using a feature and we don’t know, it was awful. You can’t make a decision for another three months as you build that baseline.”
+
+He shares the advice Suhail Doshi, the cofounder of Mixpanel, gave him:
+
+“Pick your top 5-7 most important user actions and just log those. You really don’t need to log everything. Most of the things you can do with your product aren’t important. There are maybe five things people can do that are important, and you can kind of just ignore everything else.”
+
+For Twitch, Emmett and team tracked the following events: (1) watched a minute of video, (2) sent a chat message, (3) followed a stream, and (4) bought a subscription.
+
+“Those four actions gave us a huge amount of insight into what was going on with our customers.”
+
+Just to emphasize how important event tracking is, Steve concludes the discussion with:
+
+“This is one of those areas where if I could just go back and give myself advice for thirty minutes and it would dramatically impact the trajectory of the company, it would be around this topic. If I was in your shoes, I would take half a day and read best practices for collecting events and storing them.”
+
+Lastly, as Emmett emphasizes here: don’t try to build this tooling yourself. Just use Mixpanel or Amplitude. They’re more than enough for what you need right now.

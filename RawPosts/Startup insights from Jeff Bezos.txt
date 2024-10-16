@@ -1,0 +1,29 @@
+Startup insights from Jeff Bezos, Ben Horowitz, Marc Andreessen, Sam Altman, and Andy Rachleff
+
+
+Today’s insights:
+
+Jeff Bezos: “Focus on the controllable inputs to your business instead of the outputs”
+
+Ben Horowitz: “Nobody was born a great manager. It’s a very unnatural job.”
+
+Marc Andreessen on handling a crisis: “There are no silver bullets, only lead bullets”
+
+Sam Altman’s advice for solo startup founders
+
+Benchmark founder Andy Rachleff lists three entrepreneurs who were better at product than Steve Jobs
+
+Jeff Bezos: “Focus on the controllable inputs to your business instead of the outputs”
+Jeff gives the example of companies trying to drive up their stock price by actually going out and trying to sell their stock:
+
+“[A higher stock price] is the final output…. That’s not going to be sustainable. It’s a silly approach.”
+
+Jeff recommends working backwards from a higher stock price to its controllable inputs instead:
+
+“What are the inputs to a higher stock price? Okay, well, free cash flow and return on invested capital are inputs to a higher stock price. Let’s keep working backwards. What are the inputs to free cash flow? And you keep working backwards until you get to something that’s controllable.”
+
+He points out that a controllable input to free cash flow would be something like a lower cost structure:
+
+“If we can improve our picking efficiency in our fulfillment centers and reduce defects - reducing defects at the root is one of the best ways to lower cost structure - that starts to be a job you would accept. If you’re a reasonable person, you would say, I have no idea how to drive up the stock price - I can’t manage that directly. It’s not a controllable input. But I can make your picking algorithms more efficient, and that will reduce cost structure. And then you follow that chain all along the way. That’s what you do in all of these businesses.”
+
+

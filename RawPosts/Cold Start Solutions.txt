@@ -1,0 +1,11 @@
+Three case studies from Andrew Chen on solving the cold start problem
+
+In the clip below, a16z general partner Andrew Chen walks through three awesome examples of how companies solved the cold start problem.
+
+Tinder is his first example. Interestingly, Tinder had all of the features they would eventually build when they first launched the product—even swiping. However, when they launched to just their friends, the product still failed because the network wasn’t dense enough. Rather than give up, the Tinder team decided to sponsor a party on the USC campus that required installing Tinder to attend. They found that getting 500 of the most popular/hyper-connected people on the USC campus to use the app, was enough to take over the whole USC campus and create a dense, self-sustaining atomic network. They copy and pasted this strategy at colleges across the country and used those colleges as beachheads for cities. They expanded from these beachheads across the world and the rest is history.
+
+To bootstrap the LinkedIn network, Reid Hoffman and the rest of the founding team recruited users manually from their address books. Importantly, they made sure that they targeted the people they thought would make for an amazing initial professional community: people like Mark Pincus who at the time was just starting Zinga and was already professionally successful but still early enough in his career that he wanted to network with other people. The platform started off invite-only for the first week, and then those people were enough to attract lots of other people who wanted to meet them.
+
+His last example is Reddit. In the early days of Reddit, founders Alexis Ohanian and Steve Huffman posted content to the home page from fake user accounts to make the site feel alive and vibrant. They started off posting the content manually, but eventually they wrote scripts that would pull the best links from across the web. It took months, but eventually they were able to use this approach to build a critical mass of users and activity. One day Steve forgot to run the script, but he saw that the Reddit home page was completely full of links from real users.
+
+For more case studies with a lot more detail, I’d recommend Andrew’s book The Cold Start Problem.

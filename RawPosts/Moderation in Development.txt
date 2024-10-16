@@ -1,0 +1,18 @@
+Scott Belsky: “You should only do half of what you want to do in product development”
+
+When building Behance (acquired by Adobe for ~$150M), Scott learned the lesson “do only half of what you want to do” the hard way.
+
+The initial Behance product had tons of features:
+
+“If I were to be honest, I was probably just trying to hedge ourselves. I didn’t know what thing would take off, so we launched V1 with so many things.”
+
+And Scott explains that as they killed each of these features, the key KPIs improved:
+
+“The key KPIs were served when we reduced the scope of the product. And since then, I’ve been very insistent with the products I’ve been a part of and advising over the years to be very cynical about every additional tab and every additional feature… Half the options, half the tabs, half the offerings, and half the target audience to compound your chances at true product/market fit.”
+
+He compares it to bonsai tree cultivation where every beautiful bud cut strengthens the trunk.
+
+“It’s hard to kill these new things—especially those of us who are founders who get really excited about innovation and new capabilities.
+
+But usually, less is more.
+

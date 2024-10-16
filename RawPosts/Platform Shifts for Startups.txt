@@ -1,0 +1,15 @@
+OpenAI Chairman Bret Taylor explains why platform shifts are a fruitful source of startup ideas
+
+Bret Taylor is now the chairman of OpenAI. Before that, he co-created Google Maps, co-founded FriendFeed (sold to Facebook for $50M), was the CTO of Facebook, co-founded Quip (sold to Salesforce for $750M), and was the co-CEO of Salesforce.
+
+In the clip below he explains that when deciding what to work on next, he will often ask himself “when this platform exists, what habits will change?”
+
+He believes that platform shifts are large drivers of economic value. For example, the PC led to the creation of Microsoft and Apple, and the Internet gave rise to companies like Amazon and Google.
+
+“The reason I believe platform shifts are meaningful is that it changes the balance of power between incumbents and startups. It was very hard to compete with Microsoft on PCs because they practically owned the entire stack. But in the age of the smartphone, it was a completely different story because they don’t control the operating system, they don’t control the hardware, and all of a sudden you’re on slightly more equal footing with these very powerful incumbents. And your agility as a startup and your native understanding of the platform can outweigh their strength in finances and employees.”
+
+At this Startup Grind event in 2018, he posits that mobile will be the biggest platform shift for a while and that AI has the capability of doing that but “it’s just sort of early days.”
+
+"When you're thinking of startup ideas, going to the rising tide that will lift your boat is definitely a good starting point. It's a very broad direction, but I do think people often choose a niche and don't think through why their startup will succeed versus incumbents. It's really important to think about that strategically."
+
+

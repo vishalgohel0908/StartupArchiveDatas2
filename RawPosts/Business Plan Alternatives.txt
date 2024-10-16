@@ -1,0 +1,22 @@
+NVDIA CEO Jensen Huang explains why your startup doesn't need a traditional business plan
+
+In this clip from the Acquired podcast, NVIDIA founder & CEO Jensen Huang shares that he had no idea how to write a business plan when he first started the company. However, he believes business plans can be useful for teasing out important ideas before making the leap:
+
+“I think that the art of writing a business plan ought to be much, much shorter. It should force you to concisely answer: What is the problem you’re trying to solve? What is the unmet need you believe will emerge? And what is it that you’re going to do that is sufficiently hard that when everybody else finds out it’s a good idea, they’re not going to swarm it and make you obsolete?”
+
+Marc Andreessen echoes similar points in a separate interview:
+
+“The process of planning is very valuable for forcing you to think hard about what you’re doing, but the actual plan that results from it is probably useless. In particular, now that we’re VCs, we’re evaluating pitches and when people come in, we want to hear their plan and we want to hear it in some detail because we want to see that they can think about the entire thing end-to-end. And if their initial plan doesn’t make sense, then obviously there’s an issue because they’re not quite capable of fully thinking this through. But when you get somebody who comes in and they present you the perfect plan and everything is fully integrated and makes sense, all you know from that is that they can come up with a good plan—which is good! But the odds that will be the plan they succeed on is still very small.”
+
+In a Twitter thread last year, Paul Graham wrote: “I have never read a business plan or a balance sheet… The reason I don’t care about business plans is that I can learn more from 5 minutes of interrogating the founders than from 10 pages of fluff they’ve written.”
+
+The takeaway here is that plans are valuable but you probably shouldn’t spend six months writing some long document with extensive financial forecasts before getting started.
+
+Instead, concisely define the problem you’re trying to solve—ideally this is a problem you’ve experienced personally or have some connection to. Talk to potential customers to validate your core assumptions—is this problem even real or worth solving? And think hard about what makes you uniquely qualified to work on this problem and what your competitive advantage might be versus other entrepreneurs in your space.
+
+This is your business plan. Write it down if you need to—writing can be a good forcing function for clear thinking—but you don’t need an extensive, formal document with forecasts. The plan will probably change before the ink is dry.
+
+Your time will be better spent shipping a quick MVP to see if you can actually solve this problem for just one person.
+
+Once you have your first customers of any kind, you have a startup.
+

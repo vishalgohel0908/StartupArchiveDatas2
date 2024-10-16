@@ -1,0 +1,24 @@
+Cruise founder Kyle Vogt’s framework for choosing a startup idea
+
+After cofounding Twitch and selling the company to Amazon for $1 billion in 2014, Kyle was trying to figure out what to do next:
+
+“Twitch was and is today pretty successful but the result was entertainment mostly… That was a good thing. It felt good to entertain people, but… I realized I wanted something that scratched more of an existential itch.”
+
+Twitch took eight years to become successful, so one of Kyle’s core requirements for his next idea was that he had to be willing to commit at least 10 years to it. As he explains, “When you think about things from that perspective, you certainly raise the bar for what you choose to work on.”
+
+Ultimately Kyle came up with three requirements for his next company:
+
+Interesting technology. “It had to be something where the technology itself determines the success of the product. Like hard, really juicy technology problems, because that’s what motivates me.”
+
+Impactful. “It had to have a direct and positive impact on society in some way. So an example would be healthcare or self-driving cars because they save lives… There’s a clear connection to somehow improving other people’s lives.”
+
+Large scale. “It had to be a big business because for the positive impact to matter, it’s got to be a large scale.”
+
+After thinking on it more and experimenting with various side projects, he ultimately decided self driving cars was what he wanted to work on:
+
+“I just took the plunge right then and there and said, this is something I know I can commit 10 years to. It’s probably the greatest applied AI problem of our generation. And if it works, it’s going to be both a huge business and probably the most positive impact I can possibly have on the world.”
+
+General Motors acquired Cruise for more than $1 billion two years later, but Kyle continued to work on self-driving as CEO of Cruise through November 2023. So his 10-year forecast actually proved quite accurate.
+
+Sam Altman gives similar advice in his blog post “Startup Advice”: “In general, don’t start a startup you’re not willing to work on for ten years.”
+

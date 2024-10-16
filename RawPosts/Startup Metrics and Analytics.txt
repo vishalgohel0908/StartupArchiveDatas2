@@ -1,0 +1,78 @@
+Deep Dive: Metrics and analytics for startups
+
+
+Sunday Deep Dives are for premium subscribers. If you’d like to read the full post, subscribe here for just $5/mo.
+
+“With data, teams have an opportunity to improve their decision making over time, systematically training their intuition to conform to reality. Without it, they're just rolling the dice.”
+
+— Eric Ries, author of The Lean Startup
+To help founders effectively set up and monitor metrics for their startup, we’ve compiled a list of the 20 best links we’ve found on the topic:
+
+Metrics and analytics for startups: The 20 best essays and videos
+
+Today’s Sunday Deep Dive attempts to weave the key ideas of these resources into a coherent essay. It’s comprised of six sections:
+
+What to measure pre-product/market fit
+
+The formula for growth and how to measure each step of your growth loop
+
+Creating a metrics dashboard for your company and setting a growth goal
+
+How to A/B test all the time
+
+Include metrics in investor updates
+
+Tools for setting up and tracking your metrics
+
+What to measure pre-product/market fit
+“A good indicator of users loving your product is retention and frequency of use. In fact, I think this is so important that you actually shouldn’t track absolute growth and number of users in the early days of a startup. You should just track how often they’re using it… and better yet if they’re telling their friends about it. Nothing but a great product will save you. If you don’t build a great product, your startup won’t work.”
+
+— Sam Altman (video)
+Until you solve retention, you do not have a viable business. Measuring and solving retention should be your sole focus after launching your product.
+
+Specifically, you should measure cohort retention. A cohort consists of all the users who first used your product in a given time window. By grouping users into time-based cohorts (e.g. 1 week), you can track how retention is trending over time. Quora founder Adam D’Angelo explains this concept well here.
+
+To calculate cohort retention, a lot of startups will just measure the percentage of users in a cohort who come back 30 days later, but this is usually a vanity metric. To find product/market fit, you need to get a group of people to really really love what you’re building, so it’s often more effective to choose a harsh metric. A high hurdle for what counts as a “retained user” will help ensure that your team is optimizing the right things.
+
+For example, let’s say you’re building YouTube. Rather than simply counting everyone who came back to your site as a retained user, you should only count people who watch at least one minute of video. You can even make the hurdle ten minutes or an hour to make the metric even harsher and measure “love” rather than “like”.
+
+The metric you end up choosing for this will largely depend on two things:
+
+What represents a user getting value from your product?
+
+What’s the ideal frequency?
+
+Airbnb might count a retained user as someone who books one stay annually. Uber might choose one ride booked every month. Spotify might choose listening to one song or podcast every day. For a list of North Star metrics for 40+ growth-stage tech companies check out this article by Lenny Rachitsky. I also like Andrew Chen’s article Benefit-Driven Metrics.
+
+Then just measure the percentage of new users came back and met this retention hurdle over a given time period (e.g. 1 week, 1 month, 1 year). And to improve this metric, the cycle is basically: talk to customer to understand pain point → build product to address that → get product in front of user → see what they do → repeat cycle. Keep repeating until your retention curve flattens out.
+
+As Facebook VP of Growth Alex Schultz explains:
+
+“If you end up with a retention curve that asymptotes to a line parallel to the x-axis, you have a viable business, and you have product/market fit for some subset of market.”
+
+If you do not have a retention curve that flattens out, you do not have product/market fit and none of the growth hacking or virality tactics that people love to talk about will work. You will eventually burn through all of your existing users and exhaust the supply of new users. This is what happens to “fad” products like Groupon and Pokemon Go where growth looks explosive initially but then people stop using it and the product fades away.
+
+Once your retention curve is “Smiling” or “Flattening”, you can move onto the next section to start measuring and optimizing each step of your growth loop:
+
+
+Chart source: Sequoia “What Is Retention?”
+
+And for a more in-depth guide to good vs great retention for different business types, I’d recommend this article What is good retention? by Lenny Rachitsky and Casey Winters.
+
+The formula for growth and how to measure each step of your growth loop
+While there are slight variations, there seems to be a pretty clear consensus on how to measure your startup’s growth formulaically. Dropbox founder Drew Houston says he managed the company to the metrics outlined in Dave McClure’s Startup Metrics for Pirates presentation, which distills growth down to five key metrics: Acquisition, Activation, Retention, Referral, and Revenue. Mixpanel founder Suhail Doshi prefers growth as a funnel of visits → sign ups → people who found value → retention → spread the product. Either works, but for this article, I’m going to borrow primarily from Suhail’s framework because I think it’s a bit more intuitive.
+
+The following are the five key metrics you need to track to optimize your growth funnel:
+
+Visits. People hitting your landing page or mobile app screen.
+
+Sign ups. The number of people who then sign up.
+
+People who found value. The number of people who do the thing the product was made for.
+
+Retention. The number of people who then subsequently come back and do that valuable thing again.
+
+Spread the product. The number of people who want other people to know about your product (sharing, word-of-mouth, sales, etc.)
+
+With this simple formula, you should be able to assess why you’re not growing and where you need to focus on to fix it. Below, we’ll discuss how to measure and improve each of them.
+

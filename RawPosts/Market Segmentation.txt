@@ -1,0 +1,24 @@
+Deep Dive: Market segmentation and identifying your beachhead market
+
+Matt Mochary—coach to many top CEOs (e.g. Sam Altman, Steve Huffman, Naval Ravikant, Brian Armstrong, etc.)—writes in his book The Great CEO Within:
+
+“There are many reasons to create a company, but only one good one: to deeply understand real customers (living humans!) and their problem, and then solve that problem. This is explained clearly and thoroughly in Disciplined Entrepreneurship by Bill Aulet. I won’t repeat or even summarize what he wrote. If you haven’t launched or achieved more than $1 million of revenue, go read Bill’s book first.”
+
+Bill’s book consists of 24 steps for building and scaling a business. These steps are grouped into six themes, and today’s Sunday Deep Dive provides an in-depth overview of the first theme: answering the question “Who is your customer?”
+
+Summary
+Once you’ve identified an idea or technology as the basis for your startup, your first goal is to assess the needs of potential customers and define a target customer with which you can achieve product/market fit.
+
+Given that startups have limited time and resources, you need a narrow, carefully-defined market that you can dominate. And finding this market begins with the following six steps:
+
+Market Segmentation. Brainstorm a wide array of potential customers and markets for your business. Then narrow down your list to your top 6-12 markets and gather primary market research on them (i.e. talk to real potential customers).
+
+Select a Beachhead Market. Analyze your top 6-12 market opportunities and choose one to pursue. Then further segment it to determine your beachhead market.
+
+Build an End User Profile. Talk with potential customers to flesh out a detailed description of the typical end user within your market segment.
+
+Calculate the TAM for the Beachhead Market. Use the demographics from the End User Profile to determine how large your beachhead market is. You may need to further segment the market to have a more appropriately-sized beachhead market.
+
+Profile the Persona for the Beachhead Market. Choose one end user to be your Persona. Build a detailed description of that real person, and then make the Persona visible to everyone at your startup so it can be referenced on an ongoing basis.
+
+Full Life Cycle Use Case. Describe in detail how your Persona finds out about your product, acquires it, uses it, gets value from it, pays for it, and buys more and/or tells others about it.

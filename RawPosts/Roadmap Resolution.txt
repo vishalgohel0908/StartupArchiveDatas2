@@ -1,0 +1,17 @@
+Twitch founder Emmett Shear on how to resolve product roadmap disagreements
+
+In the clip below, Emmett argues that disagreement on what to build is actually quite rare after everyone has talked to users and looked at the data.
+
+Most disagreements in startups arise because people like to come up with product ideas without talking to users first:
+
+“You talk to your users first, and then you have ideas about your product. Almost everyone does it in the opposite order”
+
+He continues:
+
+“If you find yourself thinking: ‘I’m going to go talk to my users to validate my product idea’, you’ve gone horribly off the rails…If you haven’t talked to users and you haven’t looked at data, you don’t get to have an opinion about the product. The person who has actually done the work gets to have the opinion. You can have ideas, but they get to make the call.”
+
+In the rare case where both people have really talked to users and looked at the data and still disagree on what to build, it’s best to just have someone who is in charge (e.g. CEO). Don’t avoid conflict—talk and argue about it. But then let the decision maker make the call—otherwise decision making will just be way too slow.
+
+Reddit cofounder Steve Huffman adds to this:
+
+“I find myself saying one of two things a lot: (1) I don’t want to argue about it if we can just test it, and (2) I’m very willing to be surprised on this.”

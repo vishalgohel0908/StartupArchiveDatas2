@@ -1,0 +1,26 @@
+Mixpanel founder Suhail Doshi’s simple formula for startup growth
+
+Suhail lists the three questions you’ll likely need to answer in the first 24 months of building a company:
+
+Is my product easy to understand?
+
+Is it easy to get started with my product?
+
+Are people coming back to my product?
+
+Then he points out that you can answer all three of these questions with the following simple formula:
+
+Visits. People hitting your landing page or mobile app screen
+
+Sign ups. The number of people who then sign up
+
+People who found value. The number of people who do the thing the product was made for
+
+Retention. The number of people who then subsequently come back and do that valuable thing again
+
+Spread the product. The number of people who want other people to know about your product (sharing, word-of-mouth, sales, etc.)
+
+“These five things basically equal growth. And these are your levers… With this formula, you should be able to assess anything that’s going wrong in the company. If you have a really confusing landing page, you should be able to figure that out. If your sign up process is too difficult, you should be able to figure that out. If you have a product that people don’t really value, you will figure that out with just this formula. It’s that simple.”
+
+
+

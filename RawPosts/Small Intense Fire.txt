@@ -1,0 +1,18 @@
+Paul Graham: the secret to growing really fast is starting with a “small, intense fire”
+
+“You’ve got to find people who want what you’re making A LOT. And that's necessarily going to be a small number at first. But that's ok. That’s how these giant things get started… You don’t have to do any better than Apple and Facebook.”
+
+Apple started by selling just 500 Apple I computers. Today Apple is the largest company in the world.
+
+"You have to know who those first users are and how you're going to get them. Then you're going to sit down and just have a party with those first few users and focus entirely on them and making them super super happy."
+
+He gives another example of a startup in a Y Combinator batch with a beta group of just one user: Sam Altman.
+
+This startup was building a new mobile email client and their goal was to just make Sam happy. Sam uses email a lot on the go, knows all of the other email client options, and is super demanding.
+
+So they knew that if they could build a product that made Sam happy, odds are it would make lots of other people happy too.
+
+"One of the things we tell startups in these extreme cases where they can make just one user happy is to act like a consultant. Act like Sam has hired you to make an email app just for him. All you have to do is make Sam happy--it can say 'Sam Altman' at the top of the screen. That's ok! Just so long as Sam would feel bummed if you stopped working on it. That's the test."
+
+Ultimately the secret to building a great product that grows really fast is to build something a small group of people love so much that they'd be really disappointed if you stopped working on it. There are lots of important steps to get right after this, but this is the foundation for growth.
+

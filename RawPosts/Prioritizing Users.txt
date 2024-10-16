@@ -1,0 +1,26 @@
+Facebook VP of Growth on how to prioritize power users vs marginal users
+
+As Alex Schultz puts it in the clip below:
+
+“The thing that everyone in the Valley gets wrong is that we think about ourselves when we optimize for growth.”
+
+His favorite example is notifications:
+
+“Every single company when they talk about notifications goes: ‘I’m getting too many notifications. I think that’s what we need to optimize for on notifications.’”
+
+But power users aren’t leaving your site because they’re getting too many notifications.
+
+“What you need to focus on is the marginal user: the one person who doesn’t get a notification in a given day, month, or year.”
+
+Building an incredible product is all about thinking about the power user and optimizing for the people who use your product the most. But people who are already using your product all the time are not who you should be focused on if your goal is driving growth.
+
+He cites the growth accounting framework Facebook used to think about growth:
+
+“We looked at new users, resurrected users (people who weren’t on Facebook for 30 days and came back), and churned users. The resurrected and churned numbers for pretty much every product I’ve ever seen dominate the new user count once you reach a sensible point of growth a couple years in.”
+
+He continues:
+
+“And all those users who were churning and resurrecting had low friend counts and didn’t find their friends so they weren’t connected to the great stuff that was going on at Facebook. So the number one thing we needed to focus on was getting them to 10 friends.”
+
+This is what Alex means when he says focus on the marginal user—not yourself or your power users—if your focus is on driving growth.
+

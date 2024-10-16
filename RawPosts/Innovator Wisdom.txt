@@ -1,0 +1,30 @@
+Startup insights from Peter Thiel, Patrick Collison, Marc Andreessen, Joel Spolsky, and Michael Seibel
+
+Today’s insights:
+
+Peter Thiel on the difference between the best founders and “professional CEOs”
+
+Patrick Collison explains what he wishes he would’ve done differently when scaling Stripe
+
+Marc Andreessen explains why startups are heavily romanticized
+
+Stack Overflow founder Joel Spolsky explains the biggest problem with raising venture capital
+
+Former YC CEO Michael Seibel’s two pieces advice for building your MVP
+
+Peter Thiel on the difference between the best founders and “professional CEOs”
+In his book Zero To One, which is approaching its 10-year anniversary, Thiel wrote:
+
+“We need founders. If anything, we should be more tolerant of founders who seem strange or extreme. We need unusual individuals to lead companies beyond mere incrementalism.”
+
+And while he doesn’t believe there’s a simple magic formula for what a founder looks like, Thiel observes:
+
+“A lot of the great companies that have been built over the last two decades were founded by people where it was somehow deeply connected to their identity - their life’s project.”
+
+He contrasts this to Silicon Valley in the 1990s when lots of founders were replaced with professional CEOs. Thiel believes it made a big difference when it became more common for founders run the companies.
+
+He gives the example of a 22 year old Mark Zuckerberg turning down a billion dollar acquisition from Yahoo:
+
+“If you had a professional CEO, it would have just been: ‘I can’t believe they’re offering us a billion dollars. I’m going to try not to be too eager. We better take the money and run.’”
+
+

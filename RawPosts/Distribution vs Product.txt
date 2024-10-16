@@ -1,0 +1,29 @@
+
+Dropbox founder Drew Houston explains why good products with great distribution beat great products with bad distribution
+
+
+LinkedIn founder Reid Hoffman wrote in his book Blitzscaling:
+
+"Many people in Silicon Valley like to focus on building products that are, in the famous words of the late Steve Jobs, "insanely great." Great products are certainly a positive, but the cold and unromantic fact is that a good product with great distribution will almost always beat a great product with poor distribution."
+
+Dropbox is a great example of this.
+
+As Dropbox founder & CEO Drew Houston explains in the clip below, great distribution is ultimately how they beat out dozens of competitors with similar product offerings.
+
+Drew believes that too many startups overlook the importance of great distribution.
+
+Dropbox had a great product, but it succeeded because of its great distribution.
+
+They used a combination of organic virality (users shared files with nonusers) and incentivized virality (Basic account holders get 500 MB of extra storage per user they refer; Pro account holders get 1 GB) to grow.
+
+Virality helped Dropbox double its 100,000 users at launch to 200,000 users just ten days later, then skyrocket to one million users just seven months after that.
+
+An important caveat though: if your distribution strategy focuses on virality, you have to make sure you solve retention first.
+
+Bringing new users in through the front door doesn't help you grow if they immediately turn around and leave. According to Drew, Dropbox discovered this truth the hard way, when activation rates revealed that only 40% of the people signing up were actually putting files in their Dropbox and linking them to their computers.
+
+As Drew partially explains in the clip, the early Dropbox team went on Craigslist and offered $40 to anyone who'd come in for a 30-minute usability test. They asked these people to go from a Dropbox e-mail invitation to sharing a file with another email address. Zero of the five people tested succeeded--they didn't even come close.
+
+This stunned the team. So they made a list of 80+ things in an Excel spreadsheet and sanded down all of the rough edges in the experience.
+
+They soon watched their activation rate climb and left the competition in the dust as they marched on to a $9+ billion market cap.

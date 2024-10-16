@@ -1,0 +1,11 @@
+Andrew Chen on how Tinder failed initially despite building the perfect product
+
+In the clip below, a16z general partner Andrew Chen explains that the early Tinder product had all of the right features from the start:
+
+“The first version of it had everything that you would think of as Tinder. They just nailed the product idea from day one, and sometimes that happens—the first version of Instagram just nailed it”
+
+However, when they started to invite their friends it still wasn’t working because they didn’t have the right network. And as Andrew explains:
+
+“Sometimes you have all of the right features, you just don’t have the right network. And it would’ve been very easy for them to just have stopped right there and said, ‘this isn’t working, let’s move on.’”
+
+Instead, they realized that they needed to get everyone in the app at the same time in the same geography. So they decided to sponsor a birthday party at USC that required installing Tinder to attend. They found that getting 500 of the most popular/hyper-connected people on the USC campus to use the app, was enough to take over the whole USC campus and create a dense, self-sustaining atomic network. They copy and pasted this strategy at colleges across the country and used those colleges as beachheads for cities. They expanded from these beachheads across the world and the rest is history.

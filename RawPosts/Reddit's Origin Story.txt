@@ -1,0 +1,28 @@
+How Alexis Ohanian, Steve Huffman, and Paul Graham came up with the idea for Reddit in a one-hour brainstorm
+
+Co-founders Alexis and Steve first started a company in 2005 while undergrads at the University of Virginia. The original product was called My Mobile Menu (”MMM”), and their goal was to let people order food from their phones.
+
+During spring break, the two college seniors decided to drive from Virginia to Boston to attend a talk Paul Graham was giving.
+
+Surprised that two college students drove all the way from Virginia to attend his talk, Paul let them buy him a drink and pitch their startup idea.
+
+Three weeks later, Paul announced Y Combinator and the Reddit founders applied. Alexis and Steve went back up to interview for the inaugural batch but were rejected.
+
+As Alexis explains in the clip below, Paul called them the next morning:
+
+“We like you guys. We just don’t like the idea. It’s too early for mobile. If you’re willing to kill this company, we’ll let you into the program.”
+
+They were working on MMM for a year but decided to scrap it and got on the next train back to Boston.
+
+They also needed a new startup idea, so Paul sat down with the two founders and said:
+
+“Forget mobile. Build something on the web. What problems do you guys have every single day?”
+
+Steve was a heavy Slashdot user and Alexis read a bunch of news sites every morning. Paul then mentioned the social bookmarking web service Delicious/Popular:
+
+“The byproduct of people bookmarking reference material to look at later was an interesting kind of zeitgeist. But it was only a zeitgeist for reference material—not what was new.”
+
+They decided to build a social bookmarking service of sorts solely for ephemeral news of the day. And from this brainstorming session, “the front page of the Internet” was born.
+
+
+

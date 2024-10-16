@@ -1,0 +1,15 @@
+How Apoorva Mehta grew Instacart by doing things that don’t scale
+
+“Y Combinator encourages startups to do things unscalably. I find that this is one of the biggest competitive advantages that a startup has over a larger company… The idea is that once your product has demand, you can figure out how to scale your product.”
+
+In the clip below, Apoorva explains how in the early days of Instacart customers could place orders even if there weren’t shoppers online to fulfill those orders.
+
+“Of course, this meant that I would drop everything I was doing and fulfill the order myself.”
+
+They also ran into a problem when Trader Joe’s didn’t have an API or website with a catalog of their items. So the team literally went to their local Trader Joe’s, bought one of every single item, photographed each one, and manually entered every single item in the Instacart system.
+
+“Using the same unscalable techniques, we added Whole Foods, Costco and many other stores, and we realized we had the best product in the market.”
+
+Having the best product on the market allowed Instacart to quickly expand to 10 cities and maintain 10% week over week growth for 20 weeks. And with this traction, Instacart could hire more people to make everything scalable.
+
+To read more about this strategy, I’d recommend reading Do Things That Don’t Scale by Paul Graham.

@@ -1,0 +1,11 @@
+Pete Kazanjy on why founders need to lead sales in the early stages of a product
+
+Pete Kazanjy is the author of the book Founding Sales.
+
+In the clip below, argues that the reason most startups can’t get to scale without firing their first VP of sales is because the founders skip the step of leading sales pre-product/market fit.
+
+“You really can’t outsource sales for the first dozen customers. You lose the feedback loop with the product. You lose the learnings of whether your message fits the market… you want to keep that all in one brain to start. Then, once you have a repeatable process, you can package it and hand it to someone else.”
+
+The following excerpt is paraphrased from Pete's book Founding Sales:
+
+“When you’re first starting out, your ‘sales’ is in large part evangelical product management and product marketing, and this is why you, as a founder, need to be involved in it. It’s a tight, iterative process where you’re evangelically selling your solution to would-be customers, and sorting out if they have the pain that you’re looking to address, how big that pain is, and what they’d be willing to pay to resolve it. There needs to be little abstraction between the person crafting, and taking the message of your value proposition and probing its utility to would-be customers, and the people who are doing the actual building. The loop between articulation, presentation, listening, and building needs to be a tight one. If it can be the same person (no abstraction), then all the better.”

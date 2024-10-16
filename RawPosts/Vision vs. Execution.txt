@@ -1,0 +1,13 @@
+Paul Graham explains why you shouldn’t try to be a visionary
+
+“Empirically, the way to do really big things seems to be to start with small things and grow them bigger. Want to dominate microcomputer software for decades? Start by writing a basic interpreter for a machine with a couple thousand users. Want to make the universal website and a giant vacuum for people’s time? Start by building a website where Harvard undergrads can stalk one another.”
+
+Paul Graham continues:
+
+“Neither Bill Gates nor Mark Zuckerberg knew how big their companies were going to get. All they knew was that they were onto something… Maybe it’s a bad idea to have really big ambitions initially, because the bigger your ambitions, the longer they’re going to take to realize and the long you’re projecting into the future, the more likely you’re going to be wrong.”
+
+PG suggests starting with something small that works instead.
+
+“I think the best way to do these big ideas is not to try and identify a precise point in the future and say, How do I get from here to there? Like the popular image of a visionary. I think a better model is Columbus who thought there was something to the West—I’ll sail westward. Start with something that works, that you know works, that’s small, and then when the opportunity comes to move, move westward. The popular image of a visionary is someone with a very precise view of the future, but empirically it’s probably better to have a blurry one.”
+
+

@@ -1,0 +1,51 @@
+Dustin Moskovitz on why starting a company usually isn't the best way to achieve your goals
+
+Dustin Moskovitz co-founded Facebook and Asana. In the clip below, he walks through the common motivators of founders and why starting a company usually isn’t the best way to achieve their goals.
+
+Motivator #1: Financial Outcome
+
+A lot of people see building the next Facebook or Google as a path to becoming extremely wealthy, but this outcome is extremely rare. Only 1% of seed-funded tech companies become unicorns.
+
+He walks through two scenarios to highlight the risk-reward:
+
+Founding a company with a $100M exit. After several rounds of financing your ownership is 10% and you make $10M. However, there’s a high risk of a $0 outcome and a long time commitment (sometimes as long as 10+ years).
+
+Join a later stage company and help them scale from $500M → $20B. Assuming you own 5bps, you also make $10M. However, there is a very high probability of a >$0 outcome no matter what, and if the company isn’t working after a year or two, you can just leave. You’ll have a fairly high salary the whole time too.
+
+The 100th engineer at Facebook had a way better financial outcome than the vast majority of entrepreneurs and took less risk to achieve it.
+
+Motivator #2: Massive Impact
+
+A lot of people want to start a company to maximize their impact, but financial outcome is usually correlated with impact so a lot of the above arguments also apply here.
+
+Also when you add a late-stage feature to an established company, you get a force multiplier from: (1) massive user base, (2) existing infrastructure, and (3) working with an established team.
+
+For example, Bret Taylor created Google Maps as employee 1,500+ at Google, and Justin Rosenstein lead the hackathon project for the Like button as employee 250+ at Facebook.
+
+If you’re an entrepreneur who wants to maximize impact, these are the types of stories you should be comparing starting a company to.
+
+Motivator #3: Lifestyle
+
+The media and movies like the Social Network make life as an entrepreneur seem glamorous. However, it’s actually really stressful:
+
+“your team is betting some of their best career years on a story you told them, each round of fundraising feels life or death, your competitors are actually trying to kill you, and you always feel stretched thin because it’s hard to make time for the company, your significant other, your family, and yourself.”
+
+The lifestyle of a founder isn’t glamorous. It’s a lot of stress and hard work.
+
+Motivator #4: Agency/Control
+
+People also think that being a founder will give you control over how you spend your time, but Dustin highlights the following quote from Evernote founder Phil Libin:
+
+“What it’s really like: everyone else is your boss—all of your employees, customers, partners, users, media are your boss. I’ve never had more bosses and needed to account to more people today. The life of most CEOs is reporting to everyone else.”
+
+So, what’s the best reason to start a company then?
+
+You can’t NOT do it. And there are two components of this:
+
+Passion. Starting a company is really hard, so you’ll need passion to follow through. You’ll also need it to recruit great people to follow you as a leader.
+
+Aptitude. Are you the right person to make this happen by starting a company? And if you don’t do it, will you be depriving the world of something great? This implies both that the idea itself is really valuable and that you’re the right person to bring it into the world. If you’re not the best person, the actual best person will outcompete you.
+
+Dustin continues:
+
+“When I see entrepreneurs who are set up for success, this is usually the reason I’m hearing from them. They’re starting a company because it really felt like the only thing they could do.”

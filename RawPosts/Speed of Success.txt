@@ -1,0 +1,11 @@
+Elad Gil: “Things that work tend to work pretty fast”
+
+“I do think there’s a bit of a myth in Silicon Valley that you should keep grinding no matter what and it’s just about perseverance, and I think that’s really bad advice… In general, things that work tend to work pretty fast and usually that’s within the first year of launch.”
+
+There are undoubtedly counterexamples, but Elad points out that when a startup finally works after five years of grinding, it’s usually because they changed direction.
+
+“When people pivot, they tend to pivot locally. They don’t tend to pivot across markets. And that’s a huge mistake because you get stuck in some local maxima… I think usually if the thing isn’t working and you decide to pivot, it’s often wise to rethink everything from the ground up. And it’s hard if you’ve raised a lot of money and have a big team.”
+
+To determine if their product is working, Elad urges founders to look for indicators that users care. It’s usually a sign that you’re onto something if you’re product is half broken and people are still using it (e.g. Twitter fail whale days) or if customers are constantly complaining but they keep sending you feature requests—at least they care enough to complain! Again, you’re looking for signs that people care.
+
+

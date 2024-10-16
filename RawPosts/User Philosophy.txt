@@ -1,0 +1,16 @@
+Perplexity founder Aravind Srinivas explains the “user is never wrong” philosophy of Larry Page
+
+Aravind recounts a story of Larry Page’s meeting with the CEO of Excite. Excite was the #2 search engine behind Yahoo at the time, and they were interested in buying Google. The two CEOs compared the search results of their products side-by-side.
+
+When Google’s results were clearly better, Excite’s CEO tried to excuse his product’s performance: “If you typed the query this way, it would’ve worked.”
+
+Aravind believes this is an important difference in philosophy between Google and Excite. Larry Page believed that a search engine should give high quality answers regardless of what the user typed:
+
+“You do all the magic behind the scenes so that even if the user was lazy, even if there were typos… they still got the answer and they love the product.”
+
+Today Google dominates search, and most people have never heard of Excite.
+
+Aravind believes the best AI products will adopt this same philosophy and that “prompt engineering” won’t be a long-term thing.
+
+“I think you want to make products work where a user doesn’t even ask for something. You know that they want it and you give it to them… People are lazy and a better product should be one that allows you to be more lazy, not less. Products need to have some magic to them, and the magic comes from letting you be more lazy.”
+

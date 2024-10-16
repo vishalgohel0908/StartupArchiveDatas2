@@ -1,0 +1,10 @@
+Patrick Collison on how hiring changes as a startup scales
+
+In the clip below, Stripe CEO & co-founder Patrick Collison describes how one of the things that took him by surprise early on at Stripe was how quickly time horizons change:
+
+“In your first month, you’re largely thinking about things maybe one month ahead… and as time goes by, there’s a corresponding increase in the time horizon. After one year, you’re thinking one year ahead. After four years, you’re thinking four years ahead.”
+
+And as he points out, this change in time horizon should factor into the kinds of people you hire at various stages:
+
+“In the really early days, you have to hire people who will be productive immediately. You don’t have the luxury of hiring people who are really promising but won’t quite be up to speed for another year or two. But after two or three years, it’s much more reasonable to make those investments. And in fact, if you’re not making those investments, you’re probably being much too short-term focused.”
+

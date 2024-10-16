@@ -1,0 +1,28 @@
+Elon Musk explains why you shouldn't optimize solely for valuation when fundraising
+
+"If you have a choice of a lower valuation with someone you really like or a higher valuation with someone you have a question mark about, take the lower valuation."
+
+In the clip below, Elon tells the story of how he got this wrong when Tesla raised its Series C in 2006.
+
+He was choosing between two competing bids from Kleiner Perkins and VantagePoint.
+
+Kleiner offered a $50M pre-money valuation. VantagePoint offered $70M.
+
+Musk told Kleiner that if John Doerr joined the board, Tesla would do it at $50M. However, Doerr had too many other obligations at the time and couldn't commit to another board seat.
+
+Tesla ended up going with VantagePoint, which Musk goes on to say "was probably a mistake".
+
+In November 2007, VantagePoint tried to lead a deal that would have seriously diluted Musk's control of the company.
+
+That attempt ended up failing. But a year later, VantagePoint almost blocked the deal that saved the company from bankruptcy.
+
+In December 2008, Musk needed to raise $40M. One week from running out of money and bouncing payroll, Musk managed to cobble together $20M and asked Tesla's other investors to match it. They agreed, but Musk noticed a problem while finalizing the paperwork. VantagePoint had signed all of the paperwork except for one crucial page. When Musk phoned up Alan Salzman, VantagePoint's cofounder and managing partner, Salzman informed Musk that the firm had a problem with the investment round because it undervalued Tesla. They then backed out of the deal.
+
+Musk believed that Salzman's tactics were part of a mission to bankrupt Tesla, oust him as CEO, recapitalize Tesla, and emerge as the major owner of the carmaker.
+
+This forced Musk to take another huge risk: Tesla recharacterized the funding as a debt round rather than an equity round, knowing that VantagePoint could not interfere with a debt deal.
+
+The deal ended up closing on Christmas Eve, hours before Tesla would have gone bankrupt. Musk had just a few hundred thousand dollars left and could not have made payroll the next day. Musk ultimately put in $12M personally, and the investment firms put up the rest. As for Salzman, Musk said, "He should be ashamed of himself."
+
+Musk compares choosing a VC to getting married. It's incredibly important to work with people you respect and trust. Valuation shouldn't be the only thing founders optimize for.
+

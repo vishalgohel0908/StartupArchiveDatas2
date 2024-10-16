@@ -1,0 +1,24 @@
+Trello and Stack Overflow founder Joel Spolsky shares the most important startup lesson he learned
+
+After the dot com crash, Joel read a blog post by Ev Williams titled “The End of Free.” As Joel explains, the blog post argued that software was no longer going to be free:
+
+“He was like: ‘I would rather have a company with 400 customers paying me $10 a month so that I can eat stuff than 400,000 customers that don’t pay me anything and I can’t eat stuff.’… That was very influential at the time, and we were like: ‘Yeah! We’re always going to charge for all the things.’”
+
+At the time Joel was building a remote tech support product called Copilot:
+
+“We were very much of this ‘end of free’ mentality. So we were like: ‘And it’s 5 bucks! That’s a good price for helping somebody fix their computer’.”
+
+But Joel believes this was a fatal mistake:
+
+“What we should have done is made it free and then figured out how to pay for it later, which would have been to go to professional tech support departments and sell them the advanced version that lets them run a team of 1,000 tech support people… And sell it to them for a million dollars. But get the marketing from the free product.”
+
+He did not make the same mistake when he founded Trello (acquired for $425M):
+
+“I think in 2000 I would’ve made that mistake again. I would’ve been like ‘Hey it’s software like Microsoft Word. It’s $20 a month or whatever.’ But what we said was we want a hundred million people to eventually use Trello, of whom the 1% that gets the most value out of it pays us $100 a year. Then it’s a $100M business and it’s worth $1 billion and we’re done.”
+
+As Joel explains:
+
+“99% of the people are just going to get it for free, but when you focus on the 1% that find it most useful, they will pay you. They will pay for added features and they will pay you anything you want because they’re making money off of it.”
+
+He gives an example of Deutsche Bank making a billion dollars a day selling derivatives - they would pay almost anything for Microsoft Excel because it’s essential to that massive business.
+

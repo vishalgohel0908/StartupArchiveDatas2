@@ -1,0 +1,21 @@
+Marc Andreessen explains why software is our “modern Philosopher’s stone”
+
+Marc observes that the most revolutionary software in history was often written by individuals or very small groups: “for the really creative work, I think it’s 2-3 people.”
+
+Brenden Eich wrote the first version of JavaScript by himself over a summer. Today it’s the most widely used programming language in the world.
+
+The transformer at Google was created by a small handful of people, and the team that did the core work on ChatGPT at OpenAI wasn’t that many people.
+
+And now, he believes that AI is going to make individual coders 1,000x more productive:
+
+“We ought to have a world now of super coders who are building things with 1-2 people that were inconceivable 5 years ago. The level of hyper-productivity we’re going to get out of our best and brightest, I think is going to go way up.”
+
+Marc believes software is a modern-day Philosopher’s stone:
+
+“In economic terms, it transmutes labor into capital… Somebody sits down at a keyboard and types a bunch of stuff in, and a capital asset comes out the other side. Then somebody buys that capital asset for a billion dollars… It’s literally creating value out of purely human thought… A software engineer is somebody who basically transmutes his own labor into a capital asset and creates permanent value.”
+
+On top of this, software assets like Minecraft, Facebook, Google, World of Warcraft, and Salesforce are getting more valuable every year. Marc explains this is why there’s a constant investment frenzy around software:
+
+“When you start one of these things, it doesn’t always succeed, but when it does, you might be building an asset that builds value for decades to come. And then there’s the fact that everyone’s online now. There’s 5 billion people that are a click away from any new piece of software. So the potential market size for any of these things is nearly infinite.”
+
+

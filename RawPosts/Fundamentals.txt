@@ -1,0 +1,18 @@
+Elon Musk explains first principles thinking
+
+“First principles is a kind of physics way of looking at the world. And what that really means is that you boil things down to the most fundamental truths and then reason up from there.”
+
+People typically reason by analogy because it’s easier—we do something because that’s the way it has always been done or it’s what everyone else is doing.
+
+First principles thinking requires a lot more energy, but it’s useful for inventing new things.
+
+Elon gives battery technology as an example. In this 2012 interview, he recounts how everyone told him: “battery packs are really expensive and that’s the way they’ll always be because that’s the way they’ve been in the past.”
+
+But Elon thinks this way of reasoning is “pretty dumb” and prevents people from arriving at new and better ideas.
+
+At the time, batteries had historically cost $600 per kilowatt hour (kWh). But Elon suggests he can do better using first principles thinking:
+
+“So first principles thinking would be to say, okay, what are the material constituents of the batteries? What is the spot market value of the material constituents? It’s got cobalt, nickel, aluminum, carbon, some polymers for separation, and a steel can. So break that down on a material basis and say, okay, if we bought that on the London Metal Exchange, what would each of those things cost? It’s $80/kWh. So clearly, you just need to think of clever ways to take those materials and combine them into the shape of a battery cell. And then you can have batteries that are much, much cheaper than anyone realizes.”
+
+In November 2023, battery pack prices hit a record low of $139/kWh (adjusted for inflation, that’s ~$103/kWh in 2012 dollars).
+

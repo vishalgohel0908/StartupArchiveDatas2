@@ -1,0 +1,24 @@
+Apoorva Mehta explains the framework he used to iterate through 20 startup ideas before Instacart
+
+Before starting Instacart, Apoorva Mehta read the book How We Got To Now by Steven Johnson. As he explains:
+
+“It introduces this concept of ‘adjacent possible’, which basically means that at any given point in time in history, there are certain ideas that are possible then that were not possible before. And it's because societal norms have changed, culture has changed, technology has developed… And so, when I was thinking about what companies I wanted to build, I was thinking about what was adjacent possible at that point in time.”
+
+This framework ultimately helped him come up with the idea for Instacart. Companies like Webvan had tried to bring groceries online in the early 2000s, but they all failed. By 2012 however, a few important things had changed: smartphone penetration was high, most people had credit cards or debit cards, and it was now common to shop online.
+
+“As a result of those three things being true, Instacart was actually possible in 2012.”
+
+Before arriving at the idea for Instacart though, he used this framework to generate 20 other ideas that he quickly discarded:
+
+He experimented with an ad network for social games, which were exploding with the growth of the Facebook platform.
+
+When Instagram took off, he noticed people loved taking photos of their food but there wasn’t yet a review system of individual menu items at restaurants so he tried building an app for that.
+
+Daily deals as a concept were becoming a social norm for small businesses so he tried creating a company just for lunch and dinners.
+
+And his key takeaway from this process was that “iteration speed is everything.”
+
+“The faster you go through the ideas, the more shots on goal that you have, the more chances you have of success.”
+
+The first thing Apoorva recommends you do when you have a startup idea is try to kill it. Write down the top 10 reasons why it will not work, and if you can’t overcome those challenges there’s no point in investing any time into
+

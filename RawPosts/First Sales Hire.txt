@@ -1,0 +1,14 @@
+Pete Kazanjy on when startups should hire their first salesperson
+
+Pete Kazanjy is the author of the book Founding Sales.
+
+In the clip below, he argues that a startup should hire a salesperson only once their win rate for turning first meetings into eventual customers is reliably at 15-25% with a sample size of at least 50-100 attempts.
+
+It’s only once you have a repeatable process that’s working that you can turn your pitch into slides, scripts, email templates, etc. that new sales reps can use.
+
+Your first salesperson likely won’t sell as successfully as the founder did. Getting this person to the same 15-25% win rate becomes the founder’s next job:
+
+“If you know you can reliably sell the product yourself, that’s great. The next thing to do is get at least a couple of people reliably selling as well as you. Not ten because you’re never going to make two sales reps successful if you’re trying to onboard ten concurrently. And then once you get those two successful, you’ve earned to right to scale your sales team to four, eight, etc.”
+
+He also points out that when you’re trying to get to the 15-25% win rate on 50-100 attempts, you want to make sure you’re doing this in 10-customer cohorts rather than 100 all at once. This way you can see how your discovery questions, slides, and demo are landing before moving onto the next cohort. As with most things startups, you want to constantly iterate. You don’t want to give 100 prospects the exact same pitch/demo all at once because you won’t learn as much.
+

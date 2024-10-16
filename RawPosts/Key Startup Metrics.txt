@@ -1,0 +1,26 @@
+Quora founder Adam D’Angelo explains cohort retention and other startup metrics you should track
+
+In the clip below, the Quora founder and former CTO of Facebook argues:
+
+“As a startup, you really need to focus. So the core concept that I would try to focus on is users that are getting value from your product today.”
+
+This can be measured in several ways depending on your product and business model (e.g. active users, revenue, transaction volume, etc.).
+
+“You can go a long way just by measuring this. But if you’re not measuring anything, you’re susceptible to cognitive biases and all kinds of problems—you’re just not going to know what’s going on.”
+
+The next most important thing to measure is cohort retention. A cohort consists of all of the users who first used your product in a given time window. And by grouping users into time-based cohorts (e.g. 1 week), you can track how retention is trending over time. You need retention curves to flatten out to have a viable business.
+
+If cohorts keep declining without a lower bound, eventually:
+
+You will burn through all your existing users
+
+You will exhaust the supply of new users
+
+He points to Groupon and Pokemon Go as examples of growing too fast before solving retention.
+
+“You don’t want to build a fad. You want to build something that’s going to last. So you need to make sure you’re measuring usage from existing users—and your growth is not coming from just getting more users.”
+
+Your goal should be to get cohort retention to stay above some line. If cohorts increase over time, you will be in a very strong position. In fact, retention is the greatest predictor of a startup’s valuation.
+
+“The main thing that I want you to remember from today is that you should measure your retention. It’s going to help you grow, retain your users, and build a product that users really love.”
+

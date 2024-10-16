@@ -1,0 +1,28 @@
+Michael Seibel on how to get and test startup ideas
+
+As the former CEO of Y Combinator puts it in the clip below:
+
+“There’s a common misconception that your idea has to be great to start a company, and the first thing I want to do is destroy that misconception.”
+
+Michael was one of the cofounders of JustinTv, which later become Twitch and sold to Amazon for almost $1B. Their original idea was to create an online reality TV show—very different from where Twitch eventually ended up.
+
+Rather than falling for the trap of thinking that your initial startup idea has to be great, Michael advises founders to start with a problem:
+
+“Starting with ideas is tricky because people immediately want to grade your idea. It’s a lot easier to start with a problem and think about how you grade a problem.”
+
+Ideally the problem you set out to solve is one you've experienced personally or have some sort of connection to. You should ask yourself: “why am I uniquely qualified to work on this problem?”
+
+Is there some unique angle or approach you're taking to the problem that you understand but you don't believe others understand?
+
+Peter Thiel argues that “great companies have secrets: specific reasons for success that other people don’t see."
+
+After identifying a problem, you’ll want to start thinking about your MVP. What's the first solution you're going to build and release to see if you can help your initial users solve this problem?
+
+But don’t fall in love with your MVP. As Michael puts it:
+
+“A lot of people fall in love with their product and are not in love with their problem or their customer. I advise the opposite. Be in love with your problem. Be in love with your customer. And treat your product in a way that can change, develop, and improve.”
+
+And once you have an MVP, you should have a strong opinion about who your initial customer is and handpick all of your initial users. The goal with an MVP is not to see how many people want to use your product. It's to see if your solution actually solves the problem for your initial target customers.
+
+“The best startups very heavily filter the people who are able to use the initial product and make sure that they’re the right type of initial customer.”
+

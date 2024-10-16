@@ -1,0 +1,12 @@
+Box founder Aaron Levie’s advice to startup founders: “Start with something insanely simple”
+
+“When we got started, you would’ve looked at our technology and you would’ve been like, ‘That is the stupidest thing I’ve ever seen. All it does is let you upload a file and then access that file.’ And it was that simplicity that was actually why it was so disruptive.”
+
+As Aaron explains, most companies try to jam as many features as possible into their software, but Aaron argues that’s not how you’re going to be successful:
+
+“You’re going to be successful by nailing one use case that just happens to be a use case that everybody has a massive problem with. And if you can nail that one use case, that becomes essentially the wedge to use to expand out to all other use cases you want to solve. You have to resist the natural instinct that more functionality and more powerful software is better. Make sure you’re focused on one thing that you’re going to do better than everybody else.”
+
+This is an urge that Aaron and Box still have to fight 12 years later:
+
+“Even when you’re bigger, you still have to make sure you’re really focused on keeping things dead simple… It’s counterintuitive, but the more functionality you have, the more you’re going to narrow the set of customers that ultimately are going to be able to make sense of and want to use your product.”
+

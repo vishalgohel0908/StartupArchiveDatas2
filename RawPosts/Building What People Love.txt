@@ -1,0 +1,23 @@
+Gmail creator Paul Buchheit on how to build something 100 people love
+
+In the clip below, Paul talks about how he built the first version of Gmail.
+
+The first version was built in one day, and from there, he iterated his way to 100 people who loved the product:
+
+“The whole thing was just iterating, step by step trying to build something that made people happy.”
+
+The team decided that they needed to have 100 happy users before launching gmail to the world. To achieve this, Paul embedded a quick questionnaire in the interface that asked users:
+
+“Are you happy? Yes or No”
+
+Paul would then seek out all of the “No” responders and ask them directly: “What will it take to make you a happy user?”
+
+He ignored feedback from the people who said things like “it basically needs to be a clone of Outlook” because it was unlikely he would be able to convert them.
+
+But other people just needed a minor feature or a bug fix. So Paul worked on those requests one-by-one until he hit 100 happy users.
+
+Email was 30 years old when Paul started building gmail, and it’s pretty much impossible to enter a space like that and build something that appeals to everyone. If you try, what you will end up building is a mediocre product that nobody really loves.
+
+What Paul recommends doing instead—and what he did with gmail—is:
+
+“Build a thing that has really deep appeal. Even if it’s to just a tiny fraction of people—if you can make that small fraction of people obsessively love what you’re building, it’s easier to just grow that group. There’s always people at the margin where if you make the thing slightly better, they’re going to join into that group. It’s easier to start with deep, narrow appeal and broaden it over time than it is to start with broad ‘meh’ and convert ‘meh’ to loving your thing en masse.”  

@@ -1,0 +1,25 @@
+Marc Andreessen: Many of the most successful companies started “product first”
+
+“There are products that become companies, and then there are companies that come up with a product. One of the interesting things over the years is that many of the most successful technology franchises were products first, way before they ever became companies.”
+
+In this talk, Marc gives a few examples:
+
+His team at the University of Illinois worked on the research project that became Netscape for three years before it became a company
+
+Bill Gates and Paul Allen were deep into PCs before there was a software business
+
+Jobs and Wozniak built the first Apple computer as hobbyists
+
+Mark Zuckerberg was running Facebook out of his dorm room before he ever thought of starting a company
+
+Twitter was a side project at the failed podcasting app Odeo
+
+Marc believes that this “product becomes a company” template is successful because “it’s a demonstration that the product has to exist. The market needs the product so badly that somebody actually built it and deployed it and you can actually see evidence that people want it before there was an economic motivation to do so.”
+
+He contrasts this with the failure cases he often sees when entrepreneurs try to figure out the idea after starting a company.
+
+“It’s very easy in that process to fool yourself into believing that there’s a market because you want to find something and you have a very strong motivation to come up with an answer. It’s hard to go through that process for three months and then say, ‘you know what, we can’t come up with any good ideas.’”
+
+There are of course there exceptions. Marc gives Hewlett Packard as an example. But that’s more the exception than the rule. As Marc explains:
+
+“The moral of the story is it has to be a really good idea. That often will be an idea that is preexisting at the time you decide to start a company. And if it isn’t, be really careful because you’re walking on sharp rocks at that point with a high risk of falling off the cliff into the ocean.”

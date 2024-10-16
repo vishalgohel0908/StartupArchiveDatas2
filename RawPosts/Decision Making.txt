@@ -1,0 +1,23 @@
+Tony Fadell on opinion-based decisions and what made Steve Jobs great
+
+
+Tony Fadell is the co-creator of the iPod, iPhone, and Nest. In the clip below, he describes some of the things that made Steve Jobs great:
+
+“Really pushing you. Relentless on the details. Challenging you for the right reasons. It wasn’t bullying, it wasn’t demeaning. He would critique the work, not judge the person—at least not in front of them or a group. Extreme attention to detail.”
+
+But, as Tony describes, one of the most impressive things about Steve was his ability to make great opinion-based decisions, which is critical for any revolutionary product:
+
+“When you make the first version of anything—something revolutionary—there are a lot of opinion-based decisions… And when you have those opinions, and you’re trying to work with a team to implement those decisions, you have to really tell the ‘why’ of those decisions. That way everyone can feel like they’re a part of those decisions and understand the tradeoffs... A lot of times, people want a data-driven decision, but with v1s you don’t have data.”
+
+He continues:
+
+“If you look at most companies that are paralyzed and cannot make new innovations and new products, it’s because they’re trying to turn opinion-based decisions into data-driven decisions so that they don’t lose their jobs… with a v1 product, you need to be able to articulate opinion-based decisions and own them. If you don’t get them right, you own them, fix them, and move on.”
+
+This is something Steve did exceptionally well, and Tony highlights the iPhone’s virtual keyboard as an example.
+
+At the time, the Blackberry dominated the productivity phone market. It was called the “crackberry” for a reason: people loved it. Moving to a virtual keyboard that wouldn’t work as well was an opinion-based decision that was the exact opposite of what the market data said. But Steve explained to the team that the iPhone was going to be a productivity AND entertainment device. Videos, apps, and the web browser would need to be full screen. Half of the device can’t be a keyboard because you won’t need a keyboard for everything you do. Steve understood that the Blackberry was a productivity device where the primary use case was messaging and phone calls. The iPhone was going to be so much more, and he explained this ‘why’ to the team in a way that everyone could understand.
+
+Tony also shares an example of how Jobs would also reverse an opinion-based decision if the data convinced him that his underlying assumptions were wrong.
+
+This ability to make great opinion-based decisions is paramount for creating revolutionary products. And as Tony explains, Steve might’ve been the best in the world at it.
+

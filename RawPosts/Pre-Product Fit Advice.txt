@@ -1,0 +1,15 @@
+Brian Armstrong's best advice for a pre-product/market fit startup
+
+“If you’re pre-product/market fit, the best advice that I have from that period is: action produces information. Just keep doing stuff.”
+
+He borrows this from Paul Graham who said: “Startups are like sharks. If they stop swimming they die.’”
+
+“Even if you’re not sure what to do, just do anything. Because when you do it, it’ll produce some information—people liked it, they didn’t, etc.”
+
+Brian shares that there were many times in the early days of Coinbase when he just shipped something rather than debate it endlessly:
+
+“And there were a couple of times where the minute I shipped it, I knew we built it wrong. But I now had an idea of what to do next. And I only would’ve had that idea by actually going through the exercise of building it.”
+
+He concludes:
+
+“My other favorite analogy for this is that it’s like you’re at the base of a mountain that’s shrouded in fog. You’re looking up at the mountain and trying to figure out how to get up there, but you can only see three or four steps ahead because the fog is so thick. So you have to just take steps into the unknown. And when you take three steps, another three steps will be revealed ahead of you. And sometimes you’ll end up on some local maxima and have to retrace your steps… But most people in life don’t take the steps into the unknown because it’s scary.”

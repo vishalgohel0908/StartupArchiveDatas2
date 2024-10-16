@@ -1,0 +1,11 @@
+Facebook VP of Growth Alex Schultz explains how to estimate a good retention target for your startup
+
+“Businesses in different verticals require different terminal retention rates. If you’re in e-commerce and you’re retaining on a monthly active basis 20-30% of your users, you’re probably going to do pretty well. If you’re in social media and the first batch of people signing up to your product aren’t 80% retained, you’re not going to have a massive social media site.”
+
+To answer this question for yourself, you need to use dimensional reasoning to figure out what good retention looks like for your company’s vertical.
+
+Alex walks through solving for Facebook’s retention rate as an example. At the time of the lecture (2014), there were about 2 billion people on the Internet outside of China, and Facebook reported roughly 1.3 billion active users. If you divide these two numbers by each other, you get to a 65% retention rate.
+
+He walks through how to back into the terminal retention rates for Amazon and WhatsApp here as well.
+
+The estimates aren’t perfect but they’re good enough approximations that you can use to back into the retention rate you need for your startup.

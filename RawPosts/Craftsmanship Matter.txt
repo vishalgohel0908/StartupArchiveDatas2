@@ -1,0 +1,10 @@
+Patrick Collison on the importance of beauty and craftsmanship when building products
+
+“If Stripe is a monstrously successful business, but what we make isn’t beautiful, and Stripe doesn’t embody a culture of incredibly exacting craftsmanship, I’ll be much less happy. I think the returns to both of those things in the world are really high. I think even beyond the pecuniary or financial returns, the world’s just uglier than it needs to be… One can do things well or poorly, and beauty is not a rivalrous good.”
+
+Patrick believes a commitment to craftsmanship and beauty played an important role in Stripe’s success:
+
+“My intuition is that more of Stripe’s success than one would think is downstream of the fact that people like beautiful things—and for kind of rational reasons because what does a beautiful thing tell you? Well it tells you the person who made it really cared… And so if you care about the infrastructure being holistically good, indexing on the superficial characteristics that you can actually observe is not an irrational thing to do.”
+
+
+

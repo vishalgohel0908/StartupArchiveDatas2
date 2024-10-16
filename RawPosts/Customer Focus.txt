@@ -1,0 +1,19 @@
+Superhuman founder Rahul Vohra on how you decide which customers to listen to
+
+In a world where you’re drowning in feedback—and most startups are drowning in feedback—you have to filter it down to only the stuff that’s going to increase the number of people who fall in love with your product.”
+
+Most startups will listen to all feedback from on-the-fence customers, but this isn’t targeted enough and will often lead to a muddled, incoherent product.
+
+As Rahul argues in the clip below, you need to identify the main benefit of your product—for Superhuman this was speed. And then focus on the feedback of on-the-fence users who also view this as the main benefit—there’s often something small holding them back.
+
+Users for whom your main benefit does not resonate (e.g. Superhuman users who value offline capabilities rather than speed), are unlikely to ever fall in love with your product.
+
+When Superhuman ran this analysis in 2015, they found that the main thing holding back users who viewed speed as the main benefit was their lack of a mobile app. Probing further, they found some less obvious and more interesting requests, such as integrations, attachment handling, calendering, unified inbox and read receipts.
+
+With a clear understanding of their main benefit and missing features, they were able to move this cohort of users from on-the-fence into the territory of enthusiastic advocates.
+
+As Rahul puts it in his Product Market Fit Engine article:
+
+“To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.”
+
+But make sure you’re focusing on users who love the main benefit of your product. Users who don’t are unlikely to ever fall in love with your product.

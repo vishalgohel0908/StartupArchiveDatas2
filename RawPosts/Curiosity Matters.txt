@@ -1,0 +1,18 @@
+John Collison explains why it’s important for founders to be curious
+
+John recounts a story about Magnus Carlson winning a chess trivia contest:
+
+“He knew the most chess trivia out of anyone in this contest, and I don’t think it’s a coincidence that the world’s number one player has also studied the most about chess history.”
+
+As the Collison brothers scaled Stripe from two people to 7,000 people, they studied how other businesses navigated similar stages:
+
+“I think you have to be curious about what is required to run a good company at that stage… One thing we try to do is just spend a lot of time looking at all the other companies and what they’ve done. Not that you want to blindly emulate them, but you should at least understand them.”
+
+He gives Apple and Amazon as an example:
+
+“You cannot imagine two companies that work more differently than the two of those… Yet they’re both really successful models. And so I think it’s useful to have a framework for how that stuff works.”
+
+John also recommends trying to learn the best mental models from various domains and industries:
+
+“I don’t know if every founder has to do it, but I do think it’s probably effective to be able to just know the top mental models from finance, engineering, product, sales, and stuff like that. I don’t see how you could be that effective without being pretty curious on how to learn the most important mental models from this particular domain or function.”
+

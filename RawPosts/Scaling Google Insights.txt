@@ -1,0 +1,19 @@
+Marissa Mayer on scaling Google and the internal black market CEO Eric Schmidt created for new hires
+
+
+“One of the things that [former Google CEO Eric Schmidt] talked about a lot was that at every order of magnitude, you should expect every process to break—and you should expect to have to completely reinvent it. It’s very different to deal with tens of people versus hundreds of people versus thousands of people”
+
+Marissa shares a story of how one time Eric reinvented Google’s hiring process in a way that initially frustrated everyone:
+
+“We had closed the year at about 200 people, and we had a plan to double the size of the company over the coming year. Eric showed up in March, looked at the plan, and said: ‘there’s just no way you guys are going to be able to double the number of employees and keep the quality and culture the way you want it to be.’”
+
+Eric then told the company that he would let them collectively hire 50 people that year—versus the 200 they were planning on hiring. And to enforce this, he created 50 laminated dollar bills with Larry Page and Sergey Brin’s faces on them and distributed them to Google’s VPs. Every new hire that year would require one “Larry & Sergey” bill.
+
+Naturally, a black market for these “Larrys & Sergeys” developed, and as Marissa describes, it became surprisingly efficient:
+
+“What would happen is the Head of Sales would have one and he would really need a new feature to make a sale. So he would [say to the engineer]: ‘look, I’m going to give you this Larry & Sergey but you have to promise you’re going to use it to hire someone who is going to build this feature to secure this revenue.’”
+
+She continues:
+
+“As painful as it was because there was way too much work to slow down our hiring like this, [the new process] was actually a really good moment for the company because it made us be really thoughtful about how we were scaling and where we were putting our resources. We had to be that much more thoughtful about what to prioritize and where the opportunities were. Yes, hypergrowth is really fun, but you also need to realize that you want that hypergrowth to happen in terms of users and revenue—and not necessarily in terms of the size of the company.”
+

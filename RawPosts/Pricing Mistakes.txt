@@ -1,0 +1,14 @@
+YC Partner Kevin Hale shares the four common pricing mistakes startups make
+
+
+In the clip below, Y Combinator Partner Kevin Hale discusses four common pricing mistakes startups make:
+
+Pricing products too low. Most startups price their products too low because they think it’ll help them grow faster. But as Marc Andreessen wrote: “companies that charge more can better fund both their distribution efforts and their ongoing R&D efforts. Charging more is a key lever to be able to grow. And the companies that charge more therefore tend to grow faster.”
+
+Underestimate costs. You need to factor customer acquisition costs into your product pricing and margins.
+
+Don’t understand your value. You need to understand how your customers think about the problem you’re solving and the value you offer to price your product appropriately. Value-based pricing typically allows you to charge a lot more than cost-plus pricing.
+
+Focus on wrong customers. In the beginning, you should be going after people who are comfortable taking a risk on you and your new way of doing things (behavior change is hard!). These are your early adopters. These people care about benefits above all else and the highest value to them is beating the competition or doing something much better. They are not price sensitive. If anything, it will look like you have reputation risk if you’ve built a better product and charge less (e.g. what’s the catch?).
+
+He argues that a lot of these problems come from not understanding value-based pricing, which he explains in the clip using the “Pricing Thermometer” framework. This framework provides a way to think about the interplay between value, price, and cost. If you don’t understand the value of your product or your costs, your pricing will be arbitrary and will likely result in the aforementioned pricing mistakes.

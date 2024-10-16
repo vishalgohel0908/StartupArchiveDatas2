@@ -1,0 +1,21 @@
+Brian Armstrong explains how he built Coinbase on nights and weekends while working at Airbnb
+
+Brian first advises those who are currently employed to not build your project on company hours or on your company laptop:
+
+“If you build it on company time or on the company hardware, the company probably owns the IP.”
+
+Then he describes his schedule for working on Coinbase while still working full-time at Airbnb.
+
+“I would often work [at Airbnb] until 7pm. I’d come home, eat dinner, and then I would work from 8pm to midnight. I would do that maybe 3-4 days a week on weekdays. And then on the weekend I’d work Sunday afternoon for 7-8 hours.”
+
+Brian did this consistently for about a year and a half until Coinbase was far enough along for him to get seed funding from Y Combinator.
+
+“It sucked. I mean I was tired after the full day of work [at Airbnb]. But this is where determination comes in… At that moment in time, I was in my late 20s, and I was like, ‘I really want to try to build something important in the world.’”
+
+When asked how he maintained friendships during this time, Brian replies:
+
+“I was pretty intense about it. I would say I sacrificed friendships for it. It’s not like I was just never responding to people, but I’ve seen this happen to various people. They get to a certain point in their life. Sometimes they turn a certain age where they thought they would have more done by then or maybe someone in their family passes away and they’re like, Oh my god, time is finite. It’s precious. And something happens where they’re like, ‘I’m going to get this done, no matter the cost.’”
+
+Brian tells those out there who might be in a similar situation:
+
+“Go hard at it. Finish your book. Launch your thing. Just start doing stuff - and even if you don’t know what to do, just do anything, because action will produce information and it’ll help you get to the right thing.”

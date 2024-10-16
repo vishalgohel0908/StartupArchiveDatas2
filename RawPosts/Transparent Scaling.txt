@@ -1,0 +1,9 @@
+John Collison on why internal transparency is valuable for scaling a startup
+
+All of the things people talk about like hiring really great people or giving them a huge amount of leverage—transparency, for us, plays into that.”
+
+The Stripe cofounder continues:
+
+“We think that if you are aligned at a high level about what Stripe is doing—if everybody really believes in the mission—and if everyone has really good access to information and a good picture of the current state of Stripe, then that gets you a huge amount of the way there in terms of working productively together. And it forgives a lot of the other things that tend to break as you grow a startup.”
+
+As Stripe has grown, they’ve put a lot of thought into the tooling that facilitates transparency.

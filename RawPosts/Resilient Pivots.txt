@@ -1,0 +1,15 @@
+Nikita Bier tells the story of 15 failed app pivots before selling TBH to Facebook for $30 million
+
+As a senior in college, Nikita built a tool to communicate the financial impacts of policy proposals of presidents. It went viral, hit 4 million users, and bunch of governments reached out asking Nikita to build this tool for their budgets. But after turning this project into a company and raising venture capital, Nikita soon realized he didn’t like selling software to governments:
+
+“My core competency all along was making things that go viral on the internet. So we went to our investors and said this isn’t actually what we’re excited about doing anymore. We offered to give the money back and said we’re going to be building consumer apps and here’s a few ideas that we have. None of them took the money back, and so we then spent the next 4-5 years building a variety of different consumer apps.”
+
+They launched every type of app you could imagine: mapping apps, chat apps, meetup apps. None of them worked but the team got really good at building and testing mobile apps. Their first mobile app took them about a year to build, but their last one took them only two weeks. This taught Nikita a crucial lesson:
+
+“The most important thing that I often instruct teams to do is develop a reproducible testing process. That will actually influence the probability of your success more than anything. It’s so unpredictable whether a consumer product idea will work. And so if you actually focus more on your process for taking many shots at bat, that’s what actually reduces the risk more than anything.”
+
+After five years of failure, the team found themselves on app #15, tired and low on money. A key team member but in his two week’s notice, and Nikita actually reached out to their lawyer asking how to dissolve a company.
+
+But app #15 - a polling app called TBH - immediately took off, and in a matter of days, it was the #1 app in the United States. Nikita quickly put together a funding round to cover their skyrocketing server costs and ultimately sold the company to Facebook for $30 million.
+
+

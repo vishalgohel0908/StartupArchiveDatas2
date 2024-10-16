@@ -1,0 +1,20 @@
+Dropbox founder Drew Houston explains why it’s often a mistake for CEOs to keep their options open
+
+Drew candidly discusses the mistakes Dropbox made in 2013 when the company acquired Mailbox for a reported $100M and killed the app two years later.
+
+At the time, the company knew that the role of files was going to change so they reexamined the role Dropbox played in their customers lives. And the two big use cases were private photo sharing and collaborating with a team on files.
+
+“So we expanded to say, ‘Okay, we’re going to build a separate thing for photos because that’s a different product.’… We bought Mailbox. We started building something called Carousel, which was our photo app.”
+
+And while these strategies looked good on paper, they weren’t really working:
+
+“When you think about your overall market, you want to hold on to as many of these use cases as possible. But at the same time, you look at photos and collaboration, and they’re very different products. Different ideal business model. Different competition. Everything is different. And so we found ourselves straddling these two worlds, which made it very hard A) to build the best focused product, and B) it just made it hard for people to understand what we were doing.”
+
+At the time, Drew was reading Only the Paranoid Survive by Andy Grove which describes Intel’s transition from memory to microprocessors, and a passage stuck out to him:
+
+“There’s a part in the book where it says CEOs like to keep their options open. What you really need to do when you’re in the middle of one of these inflection points is put all your eggs in one basket and watch that basket.”
+
+The next week, Drew went into the office and told the team they weren’t doing Carousel or Mailbox anymore:
+
+“Everybody likes the idea of focus, but what focus actually means is shooting stuff you love and turning down things you know you can make work.”
+

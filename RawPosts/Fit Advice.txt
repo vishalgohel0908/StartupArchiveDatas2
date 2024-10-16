@@ -1,0 +1,20 @@
+Brian Armstrong shares the Y Combinator advice that helped Coinbase find product/market fit
+
+“The first version of a product you put out doesn’t work. In fact, that’s the only thing I’ve ever seen happen in startups. I’ve never seen a startup where the first version of their product actually worked. Sometimes in hindsight people like to tell that story, but I think in reality it’s very rare.”
+
+The first version of Coinbase was a hosted Bitcoin wallet. Brian posted it to Reddit and a few people signed up but nobody stuck around. Rather than get discouraged though, he recalled the advice he got at Y Combinator:
+
+“Don’t spend your time going to conferences and trying to raise money. If you don’t have product/market fit yet, talk to your customers and improve the product based on their feedback… There’s really only two things you should be doing in the early stage - talking to your customers and improving the product. It sounds like simple advice, but people spend so much time doing other stuff that’s not actually real work.”
+
+Following that advice, Brian emailed 10 of the people who had signed up for Coinbase and asked if they’d be open to a quick phone call.
+
+One of the users liked the wallet but didn’t have any Bitcoin.
+
+Brian asked him: “If there was an easy way to get Bitcoin into your wallet - like a buy button or something - would you have stuck around and used it?”
+
+“Yeah, probably” replied the user.
+
+So Brian spent the next few months securing bank partnerships and money transmission licenses so he could build a simple buy button into the app. Then he launched it.
+
+“The minute we launched that buy button, it started to grow every day organically with no marketing or anything. And that was the minute I felt like we finally had product/market fit.”
+

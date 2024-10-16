@@ -1,0 +1,31 @@
+Startup insights from Brian Armstrong, Apoorva Mehta, Marc Andreessen, Patrick Collison, and Sam Altman
+
+Today’s insights:
+
+Brian Armstrong tells the founding story of Coinbase: “Nothing was working”
+
+Apoorva Mehta on responding to crisis and the time Amazon bought Instacart’s largest partner
+
+Marc Andreessen: “The advantage that you have as an innovator is that the truth matters”
+
+Patrick Collison explains Stripe’s approach to finding product/market fit
+
+Sam Altman on the advice he wishes he received earlier in his career
+
+Brian Armstrong tells the founding story of Coinbase: “Nothing was working”
+After quitting his job in 2012 and joining Y Combinator to build Coinbase, Brian faced setback after setback:
+
+“I was struggling to find anybody who would join my team and work with me... I almost cofounded it with one person and that all exploded in dramatic fashion… I finally found the right cofounder, Fred Erhsam, we got off to the races, and someone sued us three months later.”
+
+But as Brian explains, this is the norm for startups:
+
+“Startups are moving from one setback to the next with enthusiasm… nothing is working, and that’s kind of the default state… If it feels like that, just don’t give up. That’s the main thing. A lot of times I’ve seen people: they have an idea, they have a team that comes together, it doesn’t work, and four months they have a big cofounder fight, blow up, and they all go home… And it’s like, well, you didn’t really try it because there’s no idea that works on the first try.”
+
+He continues:
+
+“You have to put something out there, and then grind it out for two or three years. Talk to your customers, improve the product, talk to your customers, improve the product… If you look at almost every successful startup, it feels like it was an overnight success, but really that’s just how history gets written in hindsight. If you talk to most of those founders in the early days, there was a period where any reasonable person would have quit. Nothing was working… And all of them somehow persevered and pushed through and finally found something that started to work.”
+
+This was especially true for Coinbase. There was no way to buy and sell crypto in the first version. A couple hundred people signed up after Brian posted it on Reddit, and they all left. After emailing five of the people who signed up and churned, he realized some people liked the app but couldn’t use it because they didn’t have Bitcoin:
+
+“I remember this light bubble that went off in my head, and I was like, well if there was a simple way to buy [Bitcoin] in the app, would you have done it? He’s like, yeah, probably. And so I hung up and the next few months I had to start thinking about how do we build a simple buy button? And there were a million things that had to go into that: bank partners, legal, licensing, and all this kind of stuff. But that’s when we finally got product/market fit. And that was just one example of hundreds of times where I did that. And I was trying to find something that works… So talk to your customers, improve the product. That’s all we did. And that was one of the things I would recommend.”
+

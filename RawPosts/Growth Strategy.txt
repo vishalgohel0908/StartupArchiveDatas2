@@ -1,0 +1,21 @@
+Facebook VP of Growth Alex Schultz: “Startups should not have growth teams”
+
+It’s easy to forget that Facebook didn’t create their growth team until 2007, when they already had tens of millions of users.
+
+Alex points out a common mistake startups often make:
+
+“Startups should not have growth teams. The whole company should be the growth team. The CEO should be the head of growth. You need someone to set a north star for you about where the company wants to go and that person needs to be the person leading the company, from what I’ve seen.”
+
+At Facebook, Mark Zuckerberg selected monthly active users as the north star metric he made the world hold the company accountable to. At WhatsApp, Jan Koum published daily sends. Airbnb chose nights booked and benchmarked themselves against the largest hotel chains in the world.
+
+Alex continues:
+
+“When you’re operating for growth, it is critical that you have that north star and define it as a leader. The reason this matters is the second you have more than one person working on anything, you cannot control what everyone is doing… And the thing is, it’s not clear to everybody what the most important thing is for a company.”
+
+For example, Jan could’ve chosen monthly active users for the North Star metric of WhatsApp, but if a person uses it once a month, is WhatsApp really their primary messaging app?
+
+Picking a north star metric and holding the entire company accountable to it helps ensure that when an engineer and designer go to build that new feature, they’re optimizing for the right thing.
+
+But if you’re the CEO, don’t get too caught on picking the perfect north star metric. Alex explains:
+
+“They’re probably all correlated to each other, so it’s fine to pick almost any metric. Whichever one you feel best about, that aligns with your mission and values, go for that one. But realistically, DAUs is fairly correlated to MAUs. We could have gone with either one…. Pick the one that fits with you and that you know you’re going to be able to stick with for a long time. But have a north star.”

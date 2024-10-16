@@ -1,0 +1,26 @@
+Startup insights from Patrick Collison, Max Levchin, Aaron Levie, Paul Buchheit, and Nikita Bier
+
+Today’s insights:
+
+Stripe founder Patrick Collison tells the story of almost naming the company PayDemon
+
+Max Levchin tells the story of how he shipped a bug that almost killed PayPal a year before IPO
+
+Box founder Aaron Levie on the opportunity in exploiting the business models of large incumbents
+
+Paul Buchheit explains how he and Noam Shazeer built Google’s “Did you mean?” feature
+
+Gas founder Nikita Bier explains why you shouldn’t worry about big companies stealing your idea
+
+Stripe founder Patrick Collison tells the story of almost naming the company PayDemon
+Patrick and John Collison founded Stripe in 2010 when they were 22 and 20 years old, respectively. They initially called their developer-focused payments API “/dev/payments”. But there was a host of issues with this name. For example, Delaware doesn’t allow leading slashes in corporate names which forced the founders to incorporate as the indecipherable SLASHDEVSLASHFINANCE.
+
+Realizing they had to change the name, they resorted to picking random words late at night. And one of the folks at Stripe also had the idea of assembling a list of words and emailing the owners of the .com domains to reduce the search space. Patrick recalls:
+
+“We assembled a partial list that way. And then we also continued our own creative process and came up with memorable names like PayDemon… We thought it was super clever because we could have this awesome mascot… We also really liked the idea of building and the act of creation, so we were kind of enamored with PayForge - this kind of blacksmith idea.”
+
+Fortunately the owner of Stripe .com emailed them back with a sale price that was within their budgetary range. But they still couldn’t decide between PayDemon and Stripe. So they decided that if they couldn’t come up with a more compelling name by December 20, 2010, they would just default to Stripe.
+
+Patrick later realized that there was some precedent for way to name a company:
+
+“I was reading The Little Kingdom by Mike Moore. It’s this history of Apple and apparently Apple went through a similar thing where they couldn’t think of a good name. So they set sort of the same time out - If we haven’t thought of a better name by such and such date, screw it. Apple.”

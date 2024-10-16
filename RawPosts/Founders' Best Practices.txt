@@ -1,0 +1,37 @@
+Sam Altman's 9 things that the best founders do to build a great company
+
+#1 Get to know your users really well
+
+“The best founders do customer support themselves. They go visit their users—in the case of Airbnb they go live with them. You want to get to know your users really really well.”
+
+#2 Have a short cycle time & understand compound growth
+
+“The cycle here is basically: talk to customer to understand pain point → build product to address that → get product in front of user → see what they do → repeat cycle. This cycle is how you iterate and improve. The law of compound growth being what it is: if you can get 2% better every iteration cycle, your iteration cycle is every four hours rather than every four weeks, and you compound that over the course of a few years, you’ll be in a very very different place. Make it one of your top goals to build one of the fastest iterating companies the world has ever seen.”
+
+#3 Make a long-term commitment
+
+“Most companies have a 2-3 year time horizon. But companies are almost always a 10 year project if they work. If you think about it that way from the very beginning, you will make very different and much better decisions. I think this is the only arbitrage opportunity left in the market. Almost no one makes a fairly long-term commitment to a new project. But if you do that, you will think in a different way, you will hire different people, and it will work very well.”
+
+#4 Stay lean until everything is working really well
+
+“In the early days, when you’re experimenting and zig zagging, you’re like a fast little speed boat and want to be able to turn the whole company on a dime. You can’t do that if you’re a big company—cash burn aside, which is another problem. The flexibility of the company basically decreases with the square of the number of employees, so you want to stay really small until you’re sure things are working. Once things are working, then you can get really big.”
+
+#5 Resist the urge to hire; especially resist the urge to hire mediocre people
+
+“Vinod Khosla has a saying that I love: ‘the team you build is the company you build.’ This is really true and I never appreciated how true this was for a long time. If you build a team of great people and you have a product that people love, you’ll have a 90%+ chance of success. Those are both really hard to do, and they’re independent variables. But don’t ignore the team component. The best CEOs I know spend huge amounts of their time recruiting and retaining good talent.”
+
+#6 Relentless execution
+
+“You have to keep going, and do things perfectly, and get all of the details right. You have to care too much about every experience that a customer has with your company.”
+
+#7 Startups are about not giving up
+
+“One of the very best companies in the last YC batch applied 7 times before they got in. This is just a version of what happens in startups all of the time: you get beat down, again, and again, and again. And that last time when you get pushed down and don’t think you have enough energy to get back up—that’s the time it actually works. This is what you sign up for if you’re going to start a startup.”
+
+#8 Fiduciary duty to take care of yourself
+
+“This is a 10 year marathon and you have a fiduciary duty to your shareholders to take care of yourself. Some people treat startups like an all-nighter: they don’t take care of their health, they don’t sleep, they don’t maintain their personal relationships. It is true that startups are a bad choice for work-life balance. But you have a duty to yourself, your team, and your investors to take care of yourself.”
+
+#9 Clear mission
+
+“You don’t have to figure this out on Day 1, but all of the most successful startups I’ve been fortunate enough to be a part of pretty quickly—in the first one to two years—figure out a really important mission. It’s this mission that gets people to join them. It drives the founders. It gets the media to write about them. And even if you start off building a project that’s just interesting to you and solves a problem in your life—which is how you should start—remember that you should have a clear mission at some point… That is what will convince people to come help you, and that is how you will build this idea into a huge company with a ton of people that really love your product.”

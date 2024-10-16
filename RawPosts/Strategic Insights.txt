@@ -1,0 +1,36 @@
+Startup insights from Josh Reeves, Keith Rabois, Max Levchin, and Palmer Luckey
+
+Today’s insights:
+
+Gusto founder Josh Reeves explains how he came up with a $10 billion startup idea
+
+Gusto founder Josh Reeves explains how they built their first MVP
+
+Keith Rabois on startup offices: “The environment you’re in dictates how you behave”
+
+Affirm founder Max Levchin on firing: “Whenever there’s a doubt, there’s no doubt”
+
+Palmer Luckey explains how Anduril complements Elon Musk’s mission for SpaceX
+
+Gusto founder Josh Reeves explains how he came up with a $10 billion startup idea
+Josh and his two cofounders knew they wanted to build something really big that they could dedicate decades of their lives to, and they bucketed startup ideas into two categories:
+
+Concrete problems. “There are existing products and solutions out there… The question is, can you build something 10x better? Can you go build a business around it? Can you acquire customers effectively?”
+
+Hypothetical problems. “Twitter before it existed wasn’t replacing something. It was kind of a whole new concept.”
+
+The Gusto founders decided to focus on concrete problems and spent a few weeks iterating through ideas (e.g. expert networks, marketplaces). While looking at marketplaces, they came across the problem of payouts and paying taxes on those payouts:
+
+“When we did some research, we realized it’s a very fragmented market. You have large players, but they don’t have very large market share. With small businesses in particular, you had 40% of companies doing it on pen and paper. And you had 1/3rd of companies in the US getting fined every year for doing it incorrectly. We did interviews with small businesses, friends, and family, and they all wanted to pull their hair out.”
+
+This checked three important boxes for the founders:
+
+Real pain. People were really frustrated with existing solutions.
+
+Big problem. This problem impacts every business owner.
+
+The founders had a bunch of ideas for how to make it better.
+
+So they ran with it. Today Gusto is profitable and it was valued at $9.5 billion its latest funding round (May 2022).
+
+

@@ -1,0 +1,13 @@
+Sam Altman explains why “how big is your market?” is a terrible question for investors to ask
+
+“The question that investors usually ask is: ‘How big is your market?’ I think this is a terrible question. You would never ask a startup, ‘How big is your current revenue?’ and make your investment decision based off of that. You’d want to know how it was going to grow. It’s the same thing for markets.”
+
+Sam continues:
+
+“The markets that are best for startups are markets that are small today and going to grow explosively over the next 10 years.”
+
+The other factor Sam has found to be predictive of startup success is whether or not the startup has already captured a significant part of some small market:
+
+“Airbnb by the end of YC had captured a significant amount of pre-existing apartment renters in New York City. Stripe had captured nearly 100% of YC companies in their current batch that wanted to process payments. We look for something like that, but you don’t always see it.”
+
+

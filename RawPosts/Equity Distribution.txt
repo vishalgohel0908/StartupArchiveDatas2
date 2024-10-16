@@ -1,0 +1,27 @@
+Vinod Khosla and Sam Altman on how much equity to give your first 10 employees
+
+In the early days of Sun Microsystems, Vinod Khosla recruited elite talent, hiring people like Andy Bechtolsheim, Bill Joy, and Eric Schmidt. Many people from Sun went on to start or run billion-dollar companies.
+
+Sam Altman asks Vinod how he convinced these people to join him when Sun was just a small startup.
+
+Vinod replies:
+
+“I see this as a major problem nowadays. People aren’t allocating equity widely enough. I think among the first three or four founders at Sun, we kept less than half of the common. The total was something like 25-27% for the founders, an equal or slightly larger chunk for everybody else we would hire, and then investors had like 40% after the A round. In retrospect, that was a very good idea.”
+
+When his son Neil founded the AI startup Curai Health, Vinod advised him to keep only 15% of the company rather than 45% and try to hire one or two people at 15%. Then he advised him to leave 30% of the pool for non-founders.
+
+Vinod explains his reasoning:
+
+“Even though they’re coming in later and they didn’t come up with the idea, they will be incredible resources, especially as magnets to attract other people. If you believe a company becomes the people it hires, then your task becomes attracting the best people, and selling depends on magnets.”
+
+This what Vinod did with Bill Joy. Vinod gave Bill half his equity even though Bill joined later:
+
+“Bill Joy was an incredible magnet. People wanted to work with Bill and Andy. And even if Bill didn’t do a day of work, he was more than worth it because he helped attract Eric Schmidt. I don’t think Eric would have come work for me as a 25 year old.”
+
+Sam Altman agrees on Vinod’s philosophy of maximizing the size of the pie rather than your ownership percentage:
+
+“I think this is the most important piece of advice we’ve talked about among many important things today. Being super generous with early employee equity and getting founder-quality people in the first 10 employees—I think all the evidence is on the side of doing this, and yet almost no one does. So there’s a huge edge if you’re willing to do it.”
+
+Vinod argues it’s the “single-most important thing to do in the first six months of a company.” The best people can start their own companies. If you want them to join your company, you have to be generous with equity.
+
+

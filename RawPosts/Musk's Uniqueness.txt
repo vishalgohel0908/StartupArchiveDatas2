@@ -1,0 +1,21 @@
+Andrej Karpathy explains what makes Elon Musk unique
+
+From 2017 to 2022, Andrej Karpathy led the computer vision team of Tesla Autopilot and worked closely with Musk. As he explains in today’s video:
+
+“I don’t think people appreciate how unique [Elon’s style] is. You read about it, but you don’t understand it—it’s hard to describe.”
+
+The first principle Karpathy has observed is that Musk likes small, strong, highly-technical teams:
+
+“At companies by default, teams grow and get large. Elon was always a force against growth… I would have to basically plead to hire people. And then the other thing is that at big companies it’s hard to get rid of low performers. Elon is very friendly by default to getting rid of low performers. I actually had to fight to keep people on the team because he would by default want to remove people… So keep a small, strong, highly technical team. No middle management that is non-technical for sure. That’s number one.”
+
+Number two is that Elon wants the office to be a vibrant place where everyone is working on exciting stuff:
+
+“He doesn’t like stagnation… He doesn’t like large meetings. He always encourages people to leave meetings if they’re not being useful. You actually do see this where it’s a large meeting and if you’re not contributing or learning, just walk out. This is fully encouraged… I think a lot of big companies pamper employees, but there’s much less of that. The culture of it is that you’re there to do your best technical work and there’s intensity.”
+
+Elon is also unusual in terms of how closely connected he is to the team:
+
+“Usually the CEO of a company is a remote person, five layers up, who only talks to their VPs… Normally people spend 99% of the time talking to the VPs. [Elon] spends maybe 50% of the time. And he just wants to talk to the engineers. If the team is small and strong, then engineers and the code are the source of truth… not some manager. And he wants to talk to them to understand the actual state of things and what should be done to improve it.”
+
+And lastly, Karpathy believes the extent to which Musk is involved day-to-day operations and removing company bottlenecks is not appreciated. He gives an example of engineers telling Elon they don’t have enough GPUs. As Karpathy explains, if Elon hears this twice he’ll get the person in charge of the GPU cluster on the phone. If NVIDIA is the bottleneck, he’ll get Jensen Huang on the phone.
+
+

@@ -1,0 +1,15 @@
+Stack Overflow founder Joel Spolsky breaks down what made Amazon “the best company in the world”
+
+In this 2013 interview, Joel breaks down Jeff Bezos’s process for inventing new companies:
+
+“The Amazon strategy is to constantly try to find the moving parts in the business and break them apart.”
+
+He continues:
+
+“They have 37 businesses and everybody looks at them and says, ‘These are unrelated businesses.’… But this is the new business model: I’ll start with a bookstore, and I’ll just break off every little single piece that I can find, and I’ll make them all compete as if they were independent businesses… This is Jeff Bezos’s mitosis - his system for inventing new companies.”
+
+It is through this process that Amazon has created AWS, Mechanical Turk, Fulfillment, and dozens of other businesses. AWS alone generated almost $100 billion of revenue last year and comprises 17% of Amazon’s total revenue.
+
+Joel contrasts this to the strategies of other tech giants:
+
+“What’s Yahoo’s system for inventing new companies? I don’t know, I’ll buy something really popular - that’s all I can figure out. What’s Microsoft’s? I don’t even know. Google was like, let’s make 20% time and people will do random stuff.”

@@ -1,0 +1,44 @@
+How the best founders craft visions for their companies
+
+
+One of the key responsibilities of a founder is to define and evangelize the vision for their company.
+
+Sachin Rekhi (founder of Notejoy) argues in a blog post that one of the most powerful ways of defining a compelling vision is through a Vision Narrative:
+
+“What most get wrong is thinking they can simply get away with defining a simple vision statement. In my experience, those that do just that rarely find that their team is inspired or highly aligned on the future direction of the product. That’s because in summarizing the entirety of of the vision in a short and pithy vision statement, so much of the important context around it is lost.”
+
+He continues:
+
+“Instead, I’ve found those that take the time to define a vision narrative are far more successful at rallying the team around a compelling future direction of the product. This written prose doesn’t have to be long. It could just be a page or two. But being able to dedicate paragraphs to it allow you to provide all the appropriate context: the state of the world today, the value your product currently delivers in the world, how achieving your ultimate vision will materially change today’s state of affairs, and a set of steps to ultimately get there.”
+
+Lastly,
+
+“The additional advantage of doing this as prose is that it allows you to explicitly refine the storyline. What part do you start with? What’s the punchline? How do you best transition between the current state and the future state? What description of the future best inspires the audience? Since the primary objective of a vision is to articulate and inspire the team to understand how the world will be a better place if you achieve your ultimate goals, it’s all about telling a company story and therefore these all become essential questions that you need to answer to succeed.”
+
+For a more detailed overview of this, I’d recommend Sachin’s article for Reforge: “3 Key Parts of An Effective Product Vision”.
+
+In a separate post, he shares a collection of his favorite vision narratives:
+
+Amazon.com - Shareholder Letter, 1997 - Jeff Bezos
+
+Google - The Anatomy of a Large-Scale Hypertextual Web Search Engine, 1998 - Larry Page & Sergey Brin
+
+PayPal - Speech to Employees, 1999 - Peter Thiel
+
+Tesla - The Secret Tesla Motors Master Plan, 2006 - Elon Musk
+
+Apple - iPhone Introduction, 2007 [Video] - Steve Jobs
+
+Bitcoin - A Peer-to-Peer Electronic Cash System, 2008 - Satoshi Nakamoto
+
+Slack - We Don't Sell Saddles Here, 2013 - Stewart Butterfield
+
+LinkedIn - The Economic Graph, 2015 [Video] - Jeff Weiner
+
+Lyft - The Third Transportation Revolution, 2016 - John Zimmer
+
+Blue Origin - Going to Space to Benefit Earth, 2019 [Video] - Jeff Bezos
+
+My personal favorite is Elon Musk’s “The Secret Tesla Motors Master Plan” just due to its simplicity (3-step plan) and the fact that he and the Tesla team executed on it brilliantly.
+
+In the clip below, he unveils the Tesla Model 3 and explains how the original Tesla Masterplan from 2006 was now completed.

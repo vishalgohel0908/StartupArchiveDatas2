@@ -1,0 +1,25 @@
+Startup insights from Sam Altman, Dalton Caldwell, Ben Horowitz, Jack Dorsey, and Eric Schmidt
+
+
+Today’s insights:
+
+Sam Altman explains his two biggest mistakes when he started investing in startups
+
+Dalton Caldwell explains why startup founders should spend 20-30% of their time talking to customers
+
+Ben Horowitz explains the biggest mistake founders make pitching VCs
+
+Jack Dorsey on coming up with the name for Twitter and shaping their early branding with their community
+
+Former Google CEO Eric Schmidt on money, happiness, and the meaning of life
+
+Sam Altman explains his two biggest mistakes when he started investing in startups
+“The number one mistake was that I cared too much about what other investors thought.. I think this is a very common mistake that people make when they start investing. You get very swayed by what previously successful investors think. The first question most people ask when they see startups is: Who else is investing in your round?… But the problem is everyone does that. And so there's this weird schooling effect where a company gets hot for no discernible reason… And it's just because a few people decided they liked it.”
+
+After being too swayed by what investors think, Sam’s second biggest mistake was not understanding the power law:
+
+“The power law means that your single best investment will be worth more to you in return than the rest of your investments put together. Your second best will be better than three through infinity put together. This is like a deeply true thing that most investors find, and this is so counterintuitive that it means almost everyone invests the wrong way.”
+
+Most angel investors focus on compounding small wins and minimizing their failure rate—which works well when you’re investing in traditional asset classes like stocks and bonds—but as Sam explains, it is wrong to think about investing in startups this way:
+
+“Angel investing is a business of home runs and you want to look for things that can be potential home runs… It's all about the magnitude of your biggest success. It is not about the failure rate… You can have 95% of your investments fail if one of them returns a billion dollars, and you'll be totally happy… The first question that I try to ask myself when I meet a startup is not why is it going to fail… The first question is how big could this be if it works? Can I imagine this founder, this idea, this market, supporting a massive, massive company?… I found that if I thought about what could go wrong first, I filtered out the companies that could be giant. The companies that could be giant are at this intersection of sounds like a bad idea is a good idea. And because that's a very narrow intersection and because they sound like a bad idea, the best investments are the ones that are easiest to talk yourself out of if you start off thinking about why they could go wrong.”

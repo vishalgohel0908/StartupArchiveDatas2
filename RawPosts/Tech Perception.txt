@@ -1,0 +1,18 @@
+Marc Andreessen: Revolutionary technologies were often viewed as “trivialities” or “jokes”
+
+“If you read history, the great innovations of the past are now well understood as being very important. In almost every case, they were not widely understood as such at the time. In fact, I would assert that they were often actually viewed as trivialities or jokes.”
+
+He gives three examples:
+
+The telephone. “When Thomas Edison was first working on the telephone, the assumption of the use case motivating his early work was the idea that telegraph operators needed to be able to talk to each other. It was considered implausible that you would have a system that would let any ordinary person pick up the telephone and talk to another person - that was clearly impossible… Completely missing the larger opportunity.”
+
+The Internet. “I have personal experience with this one. The Internet was laughed at. It was heaped with scorn from 1993 to 1997-98. In fact, those of you who were in the industry at the time will remember the New York Times had a reporter on staff named Peter Lewis… I’m convinced he was specifically hired by the editors to just write negative stories about the Internet. It was all he did, and it was always the Internet was never going to be a consumer medium. The Internet is not nearly as big as these people think. Nobody is ever going to trust the internet for e-commerce.”
+
+The car. “The car was absolutely viewed as a triviality and a toy when it first emerged. In fact, J.P. Morgan himself refused to invest in Ford Motor Company with the response that it’s just a toy for rich people, which is in fact what it was at the time. If you had one of the first cars, you had to be a rich person. You had to have a driver. You often actually had to also have a stoker with your early cars to keep the engine going. And then you also had to travel with a full-time mechanic because the thing would break down every three miles.”
+
+Marc concludes:
+
+“The great innovations of the present, I believe, are virtually guaranteed to be viewed as trivial and to be viewed as jokes. I think history 50 to 100 years from now will enshroud them in legend. In our time, they won’t be recognized as such. Of course, in the future, when they become legends, our descendants will themselves have their own trivial innovations to laugh at.”
+
+
+

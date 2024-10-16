@@ -1,0 +1,10 @@
+Eric Migicovsky on the three mistakes founders often make in user interviews
+
+
+In the clip below, Eric Migicovsky outlines three common ones borrowed from the book The Mom Test:
+
+Talking about your idea. Founders love talking about their idea, but the goal of a great user interview is to extract information that will help you improve your product, marketing, or positioning. Talk about their life, not your idea.
+
+Talking about hypotheticals. “If we built this feature, would you be interested in using it?” is not a good question. Instead, talk about specifics that have already occurred in the user’s life. This will give you stronger and better information from which to make product- and company-changing decisions. You also want to talk in general about the user’s life—you don’t want to just talk about the specific solution that you’re presenting. Try to extract context about the path that led the user to encounter the problem you’re solving. Learn about their motivations and why they encountered this problem in the first place.
+
+Talking too much. In the 10-30 minutes that you spend with the user, you want to extract as much information as possible so that you can bring hard data and real facts about users’ lives back to your team. Listen, don’t talk.

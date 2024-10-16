@@ -1,0 +1,20 @@
+YouTube founder Chad Hurley explains the virality hack he stole from PayPal
+
+In February 2005, three former PayPal employees—Chad Hurley, Steve Chen, and Jawed Karim—founded YouTube.
+
+The initial idea was to build a video dating site called “Tune In, Hook Up”. When that idea failed, the founders pivoted to building a video sharing platform.
+
+In less than a year, the site had more than 25 million videos uploaded with around 20,000 new uploads a day.
+
+One of the key drivers of that growth was a feature they built that let anyone embed YouTube videos on their website, blog, or Myspace page for free.
+
+As Chad explains, “The entire player was basically a giant YouTube ad. That’s how we viewed it. That was our marketing budget.” And the idea was inspired by PayPal which allowed customers to embed payment buttons on any website or eBay listing.
+
+a16z partner Chris Dixon calls this strategy “come for the tool, stay for the network.”:
+
+“The idea is to initially attract users with a single-player tool and then, over time, get them to participate in a network. The tool helps get to initial critical mass. The network creates the long term value for users, and defensibility for the company… starting a network from scratch is very hard. Think of single-player tools as kindling.”
+
+Network effects work against you in the beginning. But as PayPal and YouTube show, one way to overcome the chicken and egg problem is by building killer single-player tools and giving them away for free.
+
+
+

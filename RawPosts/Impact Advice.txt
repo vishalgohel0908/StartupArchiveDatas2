@@ -1,0 +1,18 @@
+Mark Zuckerberg’s advice to 19 year olds that want to have an impact
+
+Even though Mark Zuckerberg was 19 when he started Facebook, he advises not turning your idea into a company until it’s working:
+
+“I always think the most important thing entrepreneurs should do is pick something they care about and work on it, but don’t actually commit to turning it into a company until it’s working. If you look at the data of the very best companies, I think a tremendous percentage of them have been built that way and not from people who decided upfront that they wanted to start a company because you just get locked into a local maxima a lot of the time.”
+
+Sam Altman agrees.
+
+Facebook didn’t become a formal company until 6 months in when Peter Thiel invested. In fact, Mark and Dustin Moskovitz even told Peter that they were still planning on going back to school for their Fall semester.
+
+Paul Graham gives similar advice in his essay “Want to start a startup?”:
+
+“So if you want to start a startup one day, what should you do in college? There are only two things you need initially: an idea and cofounders… [and] the way to get startup ideas is not to try to think of startup ideas… if you make a conscious effort to think of startup ideas, the ideas you come up with will not merely be bad, but bad and plausible-sounding, meaning you'll waste a lot of time on them before realizing they're bad.
+
+The way to come up with good startup ideas is to take a step back. Instead of making a conscious effort to think of startup ideas, turn your mind into the type that startup ideas form in without any conscious effort. In fact, so unconsciously that you don't even realize at first that they're startup ideas.
+
+This is not only possible, it's how Apple, Yahoo, Google, and Facebook all got started. None of these companies were even meant to be companies at first. They were all just side projects. The best startups almost have to start as side projects, because great ideas tend to be such outliers that your conscious mind would reject them as ideas for companies.”
+

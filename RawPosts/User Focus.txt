@@ -1,0 +1,14 @@
+Paul Graham explains the most common startup mistake: not paying enough attention to users
+
+PG posits that founders don’t necessarily have to be creative to build a breakthrough product:
+
+“If you care enough about users, you can just follow what will make users happy the way a scientist follows the truth, and eventually without much thinking on your part, the need to grow will give you this product idea that’s the result of evolution.”
+
+What most founders get wrong is that they don’t pay enough attention to users. As PG explains:
+
+“You will make up some idea in your head that you will call your vision. And then you will spend a lot of time thinking about your vision in a cafe by yourself and build some elaborate thing without going and talking to users because that’s doing sales, which is as pain and they might say no… You will not ship fast enough because you’re embarrassed to ship something unfinished and you don’t want to face the likely feedback you will get, so you will shrink from contact with your users.”
+
+When in reality, you’d be better off finding someone with a problem they will pay you to fix and then seeing if you can find more people like that.
+
+The best case scenario is that it’s a problem you yourself have.
+

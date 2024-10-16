@@ -1,0 +1,17 @@
+Marc Andreessen on the idea maze and getting a prototype working before raising venture capital
+
+“You see people sometimes who say, ‘I want to start a company’ and then they work through the process of coming up with an idea. Generally those don’t work as well as the case where somebody has the idea first and then they realize there’s an opportunity to build a company.”
+
+This was the case for Marc himself - they had Mosaic working before they started Netscape. Larry Page and Sergey Brin had the Google search engine working at Stanford. Pierre Omidyar had eBay working before he left his job.
+
+“It’s also far easier to raise money. The ideal pitch we receive is ‘Here’s the thing that works. Would you like to invest in our company or not?’ That’s so much easier than 30 slides with a dream.”
+
+At a16z Balaji Srinivasan came up with the concept of the Idea Maze, which Marc explains:
+
+“There’s a mythology that these ideas arrive like magic or people stumble into them… The reality usually with the big successes is that the founder has been chewing on the problem for 5-10 years before they start the company… So they’re a true domain expert.”
+
+He continues:
+
+“We call it the idea maze because for any idea there’s all these different permutations. Who should the customer be? What shape should the product have? How should we take it to market?… The really smart founders have thought through all these scenarios by the time they go out to raise money. And they have detailed answers on every one of those fronts because they put so much thought into it. The more haphazard founders haven’t thought about any of that. And it’s the detailed ones who tend to do much better.”
+
+

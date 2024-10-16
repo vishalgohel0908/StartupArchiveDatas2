@@ -1,0 +1,20 @@
+Sam Altman on why you shouldn’t track absolute user growth in the early days of a startup
+
+
+“Nothing but a great product will save you; you can get everything else right and it still won’t work.”
+
+He points out that almost all startup founders get the following wrong:
+
+“It is more important to have a small number of users that love you than a lot of users that like you… Eventually what you want of course is a lot of users that really love your product, but that’s almost impossible to do.”
+
+In practice you have two choices:
+
+Deep and Narrow: “You have a small number of users that really love you and then find out how to find more and more of those users and broaden the appeal of the product.”
+
+Shallow and Wide: “You can have a lot of people that sort of use the product once or twice and kind of like it and try to figure out how to get them more engaged over time.”
+
+“With high confidence, I can say that you want to start with a small number of users that really love you. Almost all great companies have products that start this way.”
+
+And he argues that a good indicator of users loving your product is retention and frequency of use:
+
+“In fact, I think this is so important that you actually shouldn’t track absolute growth in number of users in the early days of a startup. You should just track how often they’re using it… That’s a good early indicator of users that love you—better still is them spontaneously telling their friends to buy your product.”

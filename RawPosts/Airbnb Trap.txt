@@ -1,0 +1,17 @@
+Segment founder Peter Reinhardt explains why the Airbnb story can be a trap for startup founders
+
+After two failed pivots, the founders of Segment only had enough runway for one more idea. So they decided to run a cheap test to prove customer demand for their their latest idea before building it:
+
+“The debate was whether to build out the full product and then test for product/market fit by trying to sell it to people versus this super lightweight MVP landing page that we would put on Hacker News to see if there was interest.”
+
+When the Hacker News post took off, the founders knew they were onto something and could confidently invest their remaining resources in building out the full product.
+
+As Peter explains, this approach of running cheap tests to validate customer demand is something most founders don’t do. Instead they build their full-blown product before testing customer demand, which Peter believes rarely works:
+
+“I would say the Airbnb version of product/market fit is much more iterative. They struggled for years and years and made slight iterations, and finally it caught on and obviously they’re a runaway success. But my feeling is that’s extremely rare… This is a really dangerous place to be because you can stay in this iterative mode for years… I remember very clearly being really inspired by the Airbnb story and it being a logical reason why we should keep plugging away at a bad idea. And I think we abused the Airbnb story to just keep stringing ourselves along on a bad idea… I would be very, very careful of following the Airbnb example. I don’t know many other companies that hit product/market fit that way.”
+
+Peter advises having a skeptic on your founding team:
+
+“[You want] someone who’s skeptical and will push for the fastest reasonable test… How hurtful can it be if someone is like, ‘Well I really think you haven’t thought this through. There’s these three things that you should really test ASAP because I don’t really believe that you have product/market fit here.’ That’s what you want. You want someone who’s going to be pushing it… and who’s willing to collaborate with you on how you should reasonably test [your assumptions].”
+
+

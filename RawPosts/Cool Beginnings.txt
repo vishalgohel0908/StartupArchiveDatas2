@@ -1,0 +1,17 @@
+21 year old Mark Zuckerberg observes that many successful companies start off trying to make something cool
+
+In 2005, a 21 year old Mark Zuckerberg offered his former classmates the following advice:
+
+“One cool characteristic of a lot of the companies that end up being really successful… Is that they started off as someone trying to make something cool and not someone trying to make a company.”
+
+He gives Google, Yahoo, and eBay as examples—though he admits, “Amazon was a little more calculated.”
+
+As Mark explains, the same was true of Facebook:
+
+“When it just got started, what I thought was the most interesting thing was just to be able to type in someone’s name and find out information about them. There was hardly any of the stuff that’s there now. There was no groups. There was no messages even.”
+
+It’s a bit counterintuitive, but the biggest companies seem to start really small.
+
+Paul Graham offers similar advice:
+
+“Empirically, the way to do really big things seems to be to start with small things and grow them bigger. Want to dominate microcomputer software for decades? Start by writing a basic interpreter for a machine with a couple thousand users. Want to make the universal website and a giant vacuum for people’s time? Start by building a website where Harvard undergrads can stalk one another.”

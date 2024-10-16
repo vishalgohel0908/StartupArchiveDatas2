@@ -1,0 +1,25 @@
+Startup insights from Steve Jobs, Peter Reinhardt, Jack Dorsey, Kevin Systrom, and Dalton Caldwell
+
+
+Today’s insights:
+
+Steve Jobs: “Technological innovation creates tremendous opportunity for new players”
+
+Segment founder Peter Reinhardt explains what most startup founders get wrong about sales
+
+Jack Dorsey’s advice to startup founders: edit the team and really focus on analytics
+
+Kevin Systrom explains the three insights that separated Instagram from its competitors
+
+Dalton Caldwell explains the common trait of successful startup founders
+
+Steve Jobs: “Technological innovation creates tremendous opportunity for new players”
+In this interview from 1991, Steve pushes back against the view that the computer industry was mature and that there’d be rapid consolidation with a few large companies left over:
+
+“That point of view I do not share at all. I think we’re about one inch down a road that’s many miles long. Every time there’s major technological innovation, there’s a tremendous opportunity for new players, and for a reorganization of the industry to occur.”
+
+Peter Thiel similarly observed that monopolies and industry consolidation don’t last forever when technology is rapidly advancing:
+
+“If you told me there was a monopoly that was going to stop all innovation and squash everybody for the next 100 years, that’s probably a pretty unhealthy dynamic. But I think in practice, that has not been the case. People were worried about that with IBM in the 70s. Microsoft in the 90s. With the benefit of hindsight, these were probably the points at which the monopolies were eroding as a result of changing markets. For IBM it was the shift from hardware to software. For Microsoft it was desktop to internet.”
+
+Perhaps Thiel will be able to append “For Google it was internet to AI” or “For Meta it was internet to crypto” to this statement in a few years.

@@ -1,0 +1,26 @@
+Garry Tan shares three principles of visual design that founders can use today
+
+In this clip from his “Design for Startups” lecture, Y Combinator CEO Garry Tan explains:
+
+“Visual design is not necessarily about expressing yourself. The key thing is the information you’re trying to get across.”
+
+Function should take precedence over form. If it can be removed without taking away any meaning, remove it! This includes text, lines, borders, and really anything. One of Garry’s pet peeves is seeing colons all over a form or web page.
+
+Ornament is not signal.
+
+He cites a quote from the Austrian architect Adolf Loos:
+
+“The evolution of culture marches with the elimination of ornament from useful objects.”
+
+And another quote from Paul Graham:
+
+“When you’re forced to be simple, you’re forced to face the real problem. When you can’t deliver ornament, you have to deliver substance.”
+
+You want to focus on what’s useful, and he gives three simple visual design principles any founder can follow to do that:
+
+Contrast = Importance. The most basic type of contrast you can give is bold versus not bold. You can also use color and size to denote what’s important and what’s not. As a designer, you want to be opinionated about what users should pay attention to. And remember, if everything is bold, nothing is bold.
+
+Closeness = Relatedness. Put related flows and ideas together. When combined with contrast, this gives you visual hierarchy.
+
+Visual Hierarchy. The interplay of contrast and closeness is your best tool for giving users guideposts to navigate your site or app. Apply the “squint test”—what are your eyes immediately drawn to? Does the action you want the user to take immediately stand out? Use a grid to get the most out of your space, and the next tool you reach for should be padding and margin. 90% of the time, you can probably get away with just using a proper grid, putting related things together, good headings, and thinking through contrast. Then only use lines and boxes if you must.
+

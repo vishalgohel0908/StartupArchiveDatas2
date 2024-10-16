@@ -1,0 +1,14 @@
+Jeff Bezos recounts the time he called Amazon’s customer service number mid-meeting to prove a metric was wrong
+
+In the clip below, Jeff tells a story from the early days of Amazon when their metrics said customers waited less than 60 seconds after calling customer service. Yet this conflicted with customer complaints, and as Jeff explains:
+
+“I have a saying, which is when the data and the anecdotes disagree, the anecdotes are usually right… If you have a bunch of customers complaining about something, and your metrics look like they shouldn’t be complaining, you should doubt the metrics.”
+
+Then one day in a meeting, the head of customer service was defending the metric, and Jeff said, “Ok, let’s call.”
+
+Jeff picked up the phone and dialed Amazon’s 1-800 customer service number.
+
+Everyone in the meeting proceeded to wait more than 10 minutes before customer service answered.
+
+“It dramatically made the point that something was wrong with the data collection, and that set off a whole chain of events where we started measuring it right… That’s an uncomfortable thing to do, but you have to seek truth even when it’s uncomfortable and you have to get people’s attention and they have to buy into it and they have to get energized around really fixing things.”
+
